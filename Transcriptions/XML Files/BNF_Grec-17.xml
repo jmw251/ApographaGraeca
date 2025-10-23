@@ -1,0 +1,15738 @@
+<?xml-model href="TEI-NTMSS.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="document" n="BnF MS Grec 17 (Ra G)">BnF MS Grec 17 (Ra G)</title>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<name type="org">The Institut für neutestamentliche Textforschung</name>
+</publisher>
+<availability>
+<p>
+<![CDATA[ (C) 2025 Institut für Neutestamentliche Textforschung. ]]>
+</p>
+<p>
+<![CDATA[ This work is licensed under a <a rel="license" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported License<br/><span style="float:right;"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/80x15.png" /></span></a> ]]>
+</p>
+<p>
+<![CDATA[ ]]>
+</p>
+</availability>
+</publicationStmt>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc"/>
+</langUsage>
+<handNotes>
+<handNote>
+<listWit>
+<witness xml:id="firsthand"/>
+<witness xml:id="corrector"/>
+<witness xml:id="firsthand-C"/>
+</listWit>
+</handNote>
+</handNotes>
+</profileDesc>
+</teiHeader>
+<text xml:lang="grc">
+<body>
+<pb n="1r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K39">
+<ab n="B02K39V1">
+<w>ειργασθη</w>
+<w>εις</w>
+<w>τα</w>
+<w>εργα</w>
+<w>
+κα
+<lb break="no"/>
+τα
+</w>
+<w>πασαν</w>
+<w>την</w>
+<w>εργασιαν</w>
+<lb/>
+<w>των</w>
+<w>αγιων</w>
+<w>εγενετο</w>
+<lb/>
+<w>χρυσιου</w>
+<w>του</w>
+<w>της</w>
+<w>
+απαρ
+<lb break="no"/>
+χης
+</w>
+<w>εννεα</w>
+<w>και</w>
+<w>εικοσι</w>
+<lb/>
+<w>ταλαντα</w>
+<w>και</w>
+<w>τριακοντα</w>
+<lb/>
+<w>και</w>
+<w>επτακοσιοι</w>
+<w>σικλοι</w>
+<lb/>
+<w>κατα</w>
+<w>τον</w>
+<w>σικλον</w>
+<w>τον</w>
+<lb/>
+<w>αγιον</w>
+</ab>
+<ab n="B02K39V2">
+<w>και</w>
+<w>αργυριου</w>
+<lb/>
+<w>αφαιρεμα</w>
+<w>παρα</w>
+<w>των</w>
+<w>
+ε
+<lb break="no"/>
+πεσκεμμενων
+</w>
+<w>
+αν
+<lb break="no"/>
+δρων
+</w>
+<w>της</w>
+<w>συναγωγης</w>
+<lb/>
+<w>εκατον</w>
+<w>ταλαντα</w>
+<w>και</w>
+<lb/>
+<w>πεντε</w>
+<w>και</w>
+<w>
+εβδομηκον
+<lb break="no"/>
+τα
+</w>
+<w>και</w>
+<w>χιλιοι</w>
+<w>και</w>
+<w>
+επτα
+<lb break="no"/>
+κοσιοι
+</w>
+<w>σικλοι</w>
+<w>εν</w>
+<w>τω</w>
+<lb/>
+<w>σικλω</w>
+<w>τω</w>
+<w>αγιω</w>
+</ab>
+<ab n="B02K39V3">
+<w>δραχμη</w>
+<lb/>
+<w>μια</w>
+<w>τη</w>
+<w>κεφαλη</w>
+<w>το</w>
+<w>
+ημι
+<lb break="no"/>
+συ
+</w>
+<w>του</w>
+<w>σικλου</w>
+<w>κατα</w>
+<w>τον</w>
+<lb/>
+<w>σικλον</w>
+<w>τον</w>
+<w>αγιον</w>
+<w>πας</w>
+<lb/>
+<w>ο</w>
+<w>παραπορευομενος</w>
+<lb/>
+<w>την</w>
+<w>επισκεψιν</w>
+<w>απο</w>
+<w>
+ει
+<lb break="no"/>
+κοσαετους
+</w>
+<w>και</w>
+<w>επανω</w>
+<lb/>
+<w>εις</w>
+<w>τας</w>
+<w>εξηκοντα</w>
+<w>
+μυ
+<lb break="no"/>
+ριαδας
+</w>
+<w>και</w>
+<w>τρισχιλιους</w>
+<lb/>
+<w>και</w>
+<w>πεντακοσιους</w>
+<w>και</w>
+<lb/>
+<w>πεντηκοντα</w>
+</ab>
+<ab n="B02K39V4">
+<w>και</w>
+<w>
+εγε
+<cb n="2" break="no"/>
+<lb/>
+νηθη
+</w>
+<w>τα</w>
+<w>εκατον</w>
+<w>
+ταλαν
+<lb break="no"/>
+τα
+</w>
+<w>του</w>
+<w>αργυριου</w>
+<w>εις</w>
+<w>την</w>
+<lb/>
+<w>χωνευσιν</w>
+<w>των</w>
+<w>
+κε
+<lb break="no"/>
+φαλειδων
+</w>
+<w>της</w>
+<w>σκηνης</w>
+<lb/>
+<w>και</w>
+<w>εις</w>
+<w>τας</w>
+<w>
+κεφαλει
+<lb break="no"/>
+δας
+</w>
+<w>του</w>
+<w>
+καταπετασμα
+<lb break="no"/>
+τος
+</w>
+<w>εκατον</w>
+<w>
+κεφαλει
+<lb break="no"/>
+δες
+</w>
+<w>εις</w>
+<w>τα</w>
+<w>εκατον</w>
+<w>
+τα
+<lb break="no"/>
+λαντα
+</w>
+<w>ταλαντον</w>
+<w>τη</w>
+<lb/>
+<w>κεφαλειδι</w>
+</ab>
+<ab n="B02K39V5">
+<w>και</w>
+<w>τους</w>
+<lb/>
+<w>πεντε</w>
+<w>και</w>
+<w>
+εβδομηκον
+<lb break="no"/>
+τα
+</w>
+<w>χιλιους</w>
+<w>και</w>
+<w>
+επτα
+<lb break="no"/>
+κοσιους
+</w>
+<w>σικλους</w>
+<w>
+ε
+<lb break="no"/>
+ποιησεν
+</w>
+<w>εις</w>
+<w>τας</w>
+<w>
+αγ
+<lb break="no"/>
+κυλας
+</w>
+<w>τοις</w>
+<w>στυλοις</w>
+<lb/>
+<w>και</w>
+<w>κατεχρυσωσεν</w>
+<lb/>
+<w>τας</w>
+<w>κεφαλειδας</w>
+<w>αυτων</w>
+<lb/>
+<w>και</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>κατεοσμησεν</w>
+</rdg>
+<rdg type="corr" hand="firsthand">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>κατεκοσμησεν</w>
+</seg>
+</rdg>
+</app>
+<w>
+αυ
+<lb break="no"/>
+τους
+</w>
+</ab>
+<ab n="B02K39V6">
+<w>και</w>
+<w>ο</w>
+<w>χαλκος</w>
+<lb/>
+<w>του</w>
+<w>αφαιρεματος</w>
+<w>
+ε
+<lb break="no"/>
+βδομηκοντα
+</w>
+<w>
+ταλαν
+<lb break="no"/>
+τα
+</w>
+<w>και</w>
+<w>
+δισ
+<unclear reason="faded ink">χ</unclear>
+ιλιοι
+</w>
+<w>και</w>
+<w>
+τε
+<lb break="no"/>
+τρακοσιοι
+</w>
+<w>σικλοι</w>
+</ab>
+<ab n="B02K39V7" part="I">
+<w>και</w>
+<lb/>
+<w>εποιησαν</w>
+<w>εξ</w>
+<w>αυτου</w>
+<lb/>
+<w>τας</w>
+<w>βασεις</w>
+<w>της</w>
+<w>θυρας</w>
+<lb/>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρ
+<lb break="no"/>
+τυριου
+</w>
+<w>και</w>
+<w>το</w>
+<w part="I">
+θυσια
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="1v" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K39">
+<ab n="B02K39V7" part="F">
+<w part="F">στηριον</w>
+<w>το</w>
+<w>χαλκουν</w>
+<lb/>
+<w>και</w>
+<w>το</w>
+<w>παραθεμα</w>
+<w>το</w>
+<lb/>
+<w>
+χαλ
+<unclear reason="faded ink">κ</unclear>
+ο
+<unclear reason="faded ink">υν</unclear>
+</w>
+<w>του</w>
+<w>
+θυσια
+<lb break="no"/>
+στηριου
+</w>
+<w>και</w>
+<w>παντα</w>
+<w>τα</w>
+<lb/>
+<w>σκευη</w>
+<w>του</w>
+<w>
+θυσιαστη
+<lb break="no"/>
+ριου
+</w>
+</ab>
+<ab n="B02K39V8">
+<w>
+κα
+<unclear reason="faded ink">ι</unclear>
+</w>
+<w>τας</w>
+<w>βασεις</w>
+<w>της</w>
+<lb/>
+<w>αυλης</w>
+<w>κυκλω</w>
+<w>και</w>
+<w>τας</w>
+<lb/>
+<w>βασεις</w>
+<w>της</w>
+<w>πυλης</w>
+<w>της</w>
+<lb/>
+<w>αυλης</w>
+<w>και</w>
+<w>παντας</w>
+<lb/>
+<w>τους</w>
+<w>πασσαλους</w>
+<w>της</w>
+<lb/>
+<w>
+σκη
+<unclear reason="faded ink">νη</unclear>
+ς
+</w>
+<w>και</w>
+<w>παντους</w>
+<lb/>
+<w>
+π
+<unclear reason="faded ink">ασσαλ</unclear>
+ους
+</w>
+<w>της</w>
+<w>αυλης</w>
+<lb/>
+<w>κυκλω</w>
+</ab>
+<ab n="B02K39V9"/>
+<ab n="B02K39V10"/>
+<ab n="B02K39V11"/>
+<ab n="B02K39V12">
+<w>και</w>
+<w>την</w>
+<w>
+κατα
+<lb break="no"/>
+λειφθεισαν
+</w>
+<w>
+υακιν
+<unclear reason="faded ink">θο</unclear>
+ν
+</w>
+<lb/>
+<w>και</w>
+<w>πορφυραν</w>
+<w>και</w>
+<w>το</w>
+<lb/>
+<w>κοκκινον</w>
+<w>το</w>
+<w>
+νενη
+<lb break="no"/>
+σμενον
+</w>
+<w>εποιησαν</w>
+<lb/>
+<w>στολας</w>
+<w>λιτουργικας</w>
+<lb/>
+<w>
+<unclear reason="Later traced over">ωστε</unclear>
+</w>
+<w>
+<unclear reason="Later traced over">λιτου</unclear>
+ργειν
+</w>
+<w>εν</w>
+<lb/>
+<w>
+<unclear reason="faded ink">τω</unclear>
+</w>
+<w>
+<unclear reason="faded ink">αγιω</unclear>
+</w>
+</ab>
+</div>
+<div type="chapter" n="B02K36">
+<ab n="B02K36V8">
+<w>
+<unclear reason="faded ink">και</unclear>
+</w>
+<w>
+<unclear reason="faded ink">επ</unclear>
+ο
+<unclear reason="faded ink">ι</unclear>
+η
+<lb break="no"/>
+<unclear reason="Later traced over">σεν</unclear>
+</w>
+<w>
+<unclear reason="Later traced over">τας</unclear>
+</w>
+<w>
+<unclear reason="Later traced over">στολας</unclear>
+</w>
+<w>
+<unclear reason="Later traced over">των</unclear>
+</w>
+<lb/>
+<w>
+<unclear reason="Later traced over">αγιων</unclear>
+</w>
+<w>
+<unclear reason="Later traced over">αι</unclear>
+</w>
+<w>
+<unclear reason="Later traced over">εισι</unclear>
+ν
+</w>
+<w>ααρων</w>
+<lb/>
+<w>τω</w>
+<w>ιερει</w>
+<w>καθαπερ</w>
+<w>
+συν
+<lb break="no"/>
+εταξεν
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>μωση</w>
+<lb/>
+</ab>
+<ab n="B02K36V9">
+<w>και</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>εποιησαν</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>εποιησεν</w>
+</seg>
+</rdg>
+</app>
+<w>την</w>
+<w>
+επω
+<lb break="no"/>
+μειδα
+</w>
+<w>εκ</w>
+<w>χρυσιου</w>
+<w>και</w>
+<lb/>
+<w>υακινθου</w>
+<w>και</w>
+<w>
+πορφυ
+<cb n="2" break="no"/>
+<lb/>
+ρας
+</w>
+<w>και</w>
+<w>κοκκινου</w>
+<w>
+νε
+<lb break="no"/>
+νησμενου
+</w>
+<w>και</w>
+<w>βυσσου</w>
+<lb/>
+<w>κεκλωσμενης</w>
+</ab>
+<ab n="B02K36V10">
+<w>και</w>
+<w>
+ετμη
+<lb break="no"/>
+θη
+</w>
+<w>τα</w>
+<w>πεταλα</w>
+<w>του</w>
+<w>
+χρυ
+<lb break="no"/>
+σιου
+</w>
+<w>τριχες</w>
+<w>ωστε</w>
+<w>
+συν
+<lb break="no"/>
+υφαναι
+</w>
+<w>συν</w>
+<w>τη</w>
+<w>
+υακιν
+<lb break="no"/>
+θω
+</w>
+<w>και</w>
+<w>τη</w>
+<w>πορφυρα</w>
+<w>
+κ
+<unclear reason="faded ink">αι</unclear>
+</w>
+<lb/>
+<w>συν</w>
+<w>τω</w>
+<w>κοκκινω</w>
+<w>τω</w>
+<lb/>
+<w>διανενησμενω</w>
+<w>και</w>
+<lb/>
+<w>συν</w>
+<w>τη</w>
+<w>βυσσω</w>
+<w>τη</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>
+κε
+<lb break="no"/>
+κλωμεμνη
+</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>
+κε
+<lb break="no"/>
+κλωσμεμνη
+</w>
+</seg>
+</rdg>
+</app>
+<w>εργον</w>
+<w>
+υφαν
+<lb break="no"/>
+τον
+</w>
+</ab>
+<ab n="B02K36V11">
+<w>επωμειδας</w>
+<w>
+εποι
+<lb break="no"/>
+ησαν
+</w>
+<w>αυτο</w>
+<w>
+συνεχου
+<lb break="no"/>
+σας
+</w>
+<w>εξ</w>
+<w>αμφοτερων</w>
+<w>των</w>
+<lb/>
+<w>μερων</w>
+<w>αυτου</w>
+</ab>
+<ab n="B02K36V12">
+<w>
+συνπε
+<lb break="no"/>
+πλεγμενα
+</w>
+<w>εργον</w>
+<w>
+υφαν
+<lb break="no"/>
+τον
+</w>
+<w>εις</w>
+<w>αλληλα</w>
+<w>καθ</w>
+<w>
+ε
+<lb break="no"/>
+αυτο
+</w>
+<w>εξ</w>
+<w>αυτου</w>
+<w>
+εποιη
+<lb break="no"/>
+σαν
+</w>
+<w>κατα</w>
+<w>την</w>
+<w>ποιησιν</w>
+<lb/>
+<w>αυτου</w>
+<w>εκ</w>
+<w>χρυσιου</w>
+<w>και</w>
+<lb/>
+<w>υακινθου</w>
+<w>και</w>
+<w>
+πορφυ
+<lb break="no"/>
+ρας
+</w>
+<w>και</w>
+<w>
+κο
+<unclear reason="faded ink">κ</unclear>
+κινου
+</w>
+<w>
+δια
+<lb break="no"/>
+νενησμενου
+</w>
+<w>και</w>
+<w>
+βυσ
+<lb break="no"/>
+σου
+</w>
+<w>κεκλωσμενης</w>
+<lb/>
+<w>καθα</w>
+<w>συνεταξεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<lb/>
+<w>τω</w>
+<w>μωση</w>
+</ab>
+<ab n="B02K36V13" part="I">
+<w>και</w>
+<w>
+εποιη
+<lb break="no"/>
+σαν
+</w>
+<w>αμφοτερους</w>
+<w>τους</w>
+</ab>
+</div>
+</div>
+<pb n="2r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K36">
+<ab n="B02K36V13" part="F">
+<w>λιθους</w>
+<w>της</w>
+<w>σμαραγδου</w>
+<lb/>
+<w>
+συνπεπορπημεν
+<unclear reason="Later traced over">ους</unclear>
+</w>
+<lb/>
+<w>και</w>
+<w>περισεσιαλωμενους</w>
+<lb/>
+<w>χρυσιω</w>
+<w>γεγλυμμενους</w>
+<lb/>
+<w>εκκολαμμα</w>
+<w>
+σφραγει
+<lb break="no"/>
+δος
+</w>
+<w>εκ</w>
+<w>των</w>
+<w>ονοματων</w>
+<lb/>
+<w>των</w>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B02K36V14">
+<w>και</w>
+<w>
+επε
+<lb break="no"/>
+θηκεν
+</w>
+<w>αυτους</w>
+<w>επι</w>
+<w>
+τ
+<unclear reason="faded ink">ου</unclear>
+ς
+</w>
+<lb/>
+<w>ωμους</w>
+<w>της</w>
+<w>
+επω
+<unclear reason="faded ink">μει</unclear>
+<lb break="no"/>
+δος
+</w>
+<w>λιθους</w>
+<w>
+μνημ
+<unclear reason="Smudge immediately following">ο</unclear>
+<lb break="no"/>
+συνου
+</w>
+<w>των</w>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">
+ι
+<unclear reason="Obscured by smudge">ηλ</unclear>
+</hi>
+</abbr>
+</w>
+<lb/>
+<w>καθα</w>
+<w>συνεταξεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<lb/>
+<w>τω</w>
+<w>μωση</w>
+<lb/>
+</ab>
+<ab n="B02K36V15">
+<w>και</w>
+<w>εποιησεν</w>
+<w>το</w>
+<w>
+λογει
+<lb break="no"/>
+ον
+</w>
+<w>εργον</w>
+<w>υφαντον</w>
+<lb/>
+<w>ποικιλια</w>
+<w>
+κατ
+<unclear reason="faded ink">α</unclear>
+</w>
+<w>
+<unclear reason="faded ink">τ</unclear>
+ο
+</w>
+<w>εργον</w>
+<lb/>
+<w>της</w>
+<w>επωμειδος</w>
+<w>εκ</w>
+<w>
+<unclear reason="faded ink">χ</unclear>
+ρυ
+<lb break="no"/>
+σιου
+</w>
+<w>και</w>
+<w>υακινθου</w>
+<w>και</w>
+<lb/>
+<w>πορφυρας</w>
+<w>και</w>
+<w>
+κοκκι
+<lb break="no"/>
+νου
+</w>
+<w>
+διανενησμεν
+<unclear reason="faded ink">ο</unclear>
+υ
+</w>
+<lb/>
+<w>και</w>
+<w>βυσσου</w>
+<w>
+κεκλωσμε
+<lb break="no"/>
+νης
+</w>
+</ab>
+<ab n="B02K36V16">
+<w>τετραγωνον</w>
+<gap reason="illegible" unit="char" extent="1-2"/>
+<lb/>
+<w>ην</w>
+<w>διπλουν</w>
+<w>εποιησεν</w>
+<lb/>
+<w>το</w>
+<w>λογιον</w>
+<w>σπιθαμης</w>
+<lb/>
+<w>το</w>
+<w>μηκος</w>
+<w>αυτου</w>
+<w>και</w>
+<w>
+σπι
+<lb break="no"/>
+θαμης
+</w>
+<w>το</w>
+<w>ευρος</w>
+<w>αυτου</w>
+<lb/>
+<w>διπλουν</w>
+</ab>
+<ab n="B02K36V17">
+<w>και</w>
+<w>
+συνυφαν
+<cb n="2" break="no"/>
+<lb/>
+θη
+</w>
+<w>εν</w>
+<w>αυτω</w>
+<w>υφασμα</w>
+<lb/>
+<w>καταλιθον</w>
+<w>
+τετραστι
+<lb break="no"/>
+χον
+</w>
+<w>λιθων</w>
+<w>στιχος</w>
+<lb/>
+<w>σαρδιον</w>
+<w>και</w>
+<w>τοπαζιον</w>
+<lb/>
+<w>και</w>
+<w>σμαραγδος</w>
+<w>ο</w>
+<w>
+στι
+<lb break="no"/>
+χος
+</w>
+<w>ο</w>
+<w>εις</w>
+</ab>
+<ab n="B02K36V18">
+<w>και</w>
+<w>ο</w>
+<w>στιχος</w>
+<lb/>
+<w>ο</w>
+<w>δευτερος</w>
+<w>ανθραξ</w>
+<lb/>
+<w>και</w>
+<w>σαπφειρος</w>
+<w>και</w>
+<w>
+ια
+<lb break="no"/>
+σπις
+</w>
+</ab>
+<ab n="B02K36V19">
+<w>και</w>
+<w>ο</w>
+<w>στιχος</w>
+<w>ο</w>
+<w>
+τρι
+<lb break="no"/>
+τος
+</w>
+<w>λιγυριον</w>
+<w>και</w>
+<w>
+αχα
+<lb break="no"/>
+της
+</w>
+<w>και</w>
+<w>αμεθυστος</w>
+<lb/>
+</ab>
+<ab n="B02K36V20">
+<w>και</w>
+<w>ο</w>
+<w>στιχος</w>
+<w>ο</w>
+<w>τεταρτος</w>
+<lb/>
+<w>χρυσολιθος</w>
+<w>και</w>
+<w>
+ονυ
+<lb break="no"/>
+χιον
+</w>
+<w>και</w>
+<w>βηρυλλιον</w>
+<lb/>
+<w>περικεκλωσμενα</w>
+<w>και</w>
+<lb/>
+<w>συνδεδεμενα</w>
+<w>χρυσιω</w>
+<lb/>
+<w>εν</w>
+<w>τω</w>
+<w>χρυσιω</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B02K36V21">
+<w>και</w>
+<w>οι</w>
+<w>
+<unclear reason="faded ink">λιθ</unclear>
+οι
+</w>
+<w>εκ</w>
+<w>των</w>
+<w>
+ο
+<lb break="no"/>
+νοματων
+</w>
+<w>των</w>
+<w>υιων</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>ησαν</w>
+<w>
+<unclear reason="faded ink">δ</unclear>
+ωδεκα
+</w>
+<w>εκ</w>
+<lb/>
+<w>των</w>
+<w>
+ονομ
+<unclear reason="faded ink">α</unclear>
+των
+</w>
+<w>αυτων</w>
+<lb/>
+<w>ενγεγλυμμενοι</w>
+<w>
+σφρα
+<lb break="no"/>
+γειδας
+</w>
+<w>εκαστος</w>
+<w>εκ</w>
+<w>του</w>
+<lb/>
+<w>ονοματος</w>
+<w>αυτου</w>
+<w>εις</w>
+<lb/>
+<w>
+τ
+<unclear reason="faded ink">α</unclear>
+ς
+</w>
+<w>δωδεκα</w>
+<w>φυλας</w>
+<lb/>
+</ab>
+<ab n="B02K36V22" part="I">
+<w>και</w>
+<w>εποιησαν</w>
+<w>επι</w>
+<w>το</w>
+<lb/>
+<w>λογιον</w>
+<w>κροσσους</w>
+<w part="I">
+συμ
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="2v" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K36">
+<ab n="B02K36V22" part="F">
+<w part="F">πεπλεγμενους</w>
+<w>εργον</w>
+<lb/>
+<w>ενπλοκιου</w>
+<w>εκ</w>
+<w>
+χρυσι
+<lb break="no"/>
+ου
+</w>
+<w>καθαρου</w>
+</ab>
+<ab n="B02K36V23">
+<w>και</w>
+<w>
+εποι
+<lb break="no"/>
+ησαν
+</w>
+<w>δυο</w>
+<w>ασπιδισκας</w>
+<lb/>
+<w>χρυσας</w>
+<w>και</w>
+<w>δυο</w>
+<w>
+δακτυ
+<lb break="no"/>
+λιους
+</w>
+<w>χρυσους</w>
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πεθηκαν
+</w>
+<w>επι</w>
+<w>τους</w>
+<lb/>
+<w>δυο</w>
+<w>δακτυλιους</w>
+<lb/>
+<w>τους</w>
+<w>χρυσους</w>
+<w>επ</w>
+<w>
+αμ
+<lb break="no"/>
+φοτερας
+</w>
+<w>τας</w>
+<w>αρχας</w>
+<lb/>
+<w>του</w>
+<w>λογιου</w>
+</ab>
+<ab n="B02K36V24">
+<w>και</w>
+<w>
+επεθη
+<lb break="no"/>
+καν
+</w>
+<w>τα</w>
+<w>εμπλοκια</w>
+<w>εκ</w>
+<lb/>
+<w>χρυσιου</w>
+<w>επι</w>
+<w>τους</w>
+<w>δυο</w>
+<lb/>
+<w>δακτυλιους</w>
+<w>επ</w>
+<w>
+αμφο
+<lb break="no"/>
+τερων
+</w>
+<w>των</w>
+<w>μερων</w>
+<lb/>
+<w>του</w>
+<w>λογιου</w>
+</ab>
+<ab n="B02K36V25">
+<w>και</w>
+<w>εις</w>
+<w>τας</w>
+<lb/>
+<w>δυο</w>
+<w>συμβολας</w>
+<w>τα</w>
+<w>δυο</w>
+<lb/>
+<w>εμπλοκια</w>
+<w>και</w>
+<w>
+επε
+<lb break="no"/>
+θηκαν
+</w>
+<w>επι</w>
+<w>τας</w>
+<w>δυο</w>
+<lb/>
+<w>ασπιδισκας</w>
+<w>και</w>
+<w>
+εθη
+<lb break="no"/>
+καν
+</w>
+<w>αυτας</w>
+<w>επι</w>
+<w>τους</w>
+<lb/>
+<w>ωμους</w>
+<w>της</w>
+<w>
+επωμει
+<lb break="no"/>
+δος
+</w>
+<w>εξεναντιας</w>
+<w>
+κα
+<lb break="no"/>
+τα
+</w>
+<w>προσωπον</w>
+<w>αυτου</w>
+<lb/>
+</ab>
+<ab n="B02K36V26">
+<w>και</w>
+<w>εποιησαν</w>
+<w>δυο</w>
+<w>
+δα
+<lb break="no"/>
+κτυλιους
+</w>
+<w>χρυσους</w>
+<lb/>
+<w>και</w>
+<w>επεθηκαν</w>
+<w>επι</w>
+<w>τα</w>
+<cb n="2"/>
+<lb/>
+<w>δυο</w>
+<w>πτερυγια</w>
+<w>επ</w>
+<w>
+α
+<lb break="no"/>
+κρου
+</w>
+<w>του</w>
+<w>λογειου</w>
+<w>επι</w>
+<lb/>
+<w>το</w>
+<w>ακρον</w>
+<w>του</w>
+<w>
+οπισθι
+<lb break="no"/>
+ου
+</w>
+<w>της</w>
+<w>επωμειδος</w>
+<lb/>
+<w>εσωθεν</w>
+</ab>
+<ab n="B02K36V27">
+<w>και</w>
+<w>
+εποιη
+<lb break="no"/>
+σαν
+</w>
+<w>δυο</w>
+<w>δακτυλιους</w>
+<lb/>
+<w>χρυσους</w>
+<w>και</w>
+<w>εθηκαν</w>
+<lb/>
+<w>αυτους</w>
+<w>επ</w>
+<w>
+αμφοτε
+<lb break="no"/>
+ρους
+</w>
+<w>τους</w>
+<w>ωμους</w>
+<w>της</w>
+<lb/>
+<w>επωμειδος</w>
+<w>κατωθεν</w>
+<lb/>
+<w>κατα</w>
+<w>προσωπον</w>
+<w>αυτου</w>
+<lb/>
+<w>κατα</w>
+<w>την</w>
+<w>συμβολην</w>
+<lb/>
+<w>αυτου</w>
+<w>ανωθεν</w>
+<w>της</w>
+<lb/>
+<w>συνυφης</w>
+<w>της</w>
+<w>
+επω
+<lb break="no"/>
+μειδος
+</w>
+</ab>
+<ab n="B02K36V28">
+<w>και</w>
+<w>
+συνεσφιγ
+<lb break="no"/>
+ξεν
+</w>
+<w>το</w>
+<w>λογειον</w>
+<w>απο</w>
+<lb/>
+<w>των</w>
+<w>δακτυλειων</w>
+<w>των</w>
+<lb/>
+<w>επ</w>
+<w>αυτου</w>
+<w>εις</w>
+<w>τους</w>
+<w>
+δα
+<lb break="no"/>
+κτυλιους
+</w>
+<w>της</w>
+<w>
+επω
+<lb break="no"/>
+μειδος
+</w>
+<w>συνεχομενους</w>
+<lb/>
+<w>εκ</w>
+<w>της</w>
+<w>υακινθου</w>
+<w>
+συμ
+<lb break="no"/>
+πεπλεγμενους
+</w>
+<w>εις</w>
+<lb/>
+<w>το</w>
+<w>υφασμα</w>
+<w>της</w>
+<w>
+επω
+<lb break="no"/>
+μειδος
+</w>
+<w>ινα</w>
+<w>μη</w>
+<w>
+χαλα
+<lb break="no"/>
+ται
+</w>
+<w>το</w>
+<w>λογιον</w>
+<w>απο</w>
+<w>της</w>
+<lb/>
+<w>επωμειδος</w>
+<w>καθα</w>
+<w>
+συ
+<lb break="no"/>
+νεταξεν
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>μωση</w>
+</ab>
+</div>
+</div>
+<pb n="3r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K37">
+<ab n="B02K37V3">
+<w>υφαντου</w>
+<w>εποιησεν</w>
+<lb/>
+<w>αυτο</w>
+<w>χερουβειμ</w>
+</ab>
+<ab n="B02K37V4">
+<w>και</w>
+<lb/>
+<w>επεθηκαν</w>
+<w>αυτο</w>
+<w>επι</w>
+<lb/>
+<w>τεσσαρας</w>
+<w>στυλους</w>
+<w>
+α
+<lb break="no"/>
+σηπτους
+</w>
+<w>
+κατακεχρυ
+<lb break="no"/>
+σωμενους
+</w>
+<w>χρυσιω</w>
+<lb/>
+<w>και</w>
+<w>αι</w>
+<w>κεφαλειδες</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+<w>χρυσαι</w>
+<w>και</w>
+<w>αι</w>
+<w>
+τεσ
+<lb break="no"/>
+σαρες
+</w>
+<w>βασεις</w>
+<w>αυτων</w>
+<lb/>
+<w>αργυραι</w>
+<lb/>
+</ab>
+<ab n="B02K37V5">
+<w>και</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>εποιησεν</w>
+</rdg>
+<rdg type="corr" hand="firsthand">
+<seg type="line" subtype="above" n="@P3CL-BnF MS Grec 17 (Ra G)">
+<w>εποιησαν</w>
+</seg>
+</rdg>
+</app>
+<w>το</w>
+<w>
+κατα
+<lb break="no"/>
+πετασμα
+</w>
+<w>της</w>
+<w>θυρας</w>
+<lb/>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρ
+<lb break="no"/>
+τυριου
+</w>
+<w>εξ</w>
+<w>υακινθου</w>
+<lb/>
+<w>και</w>
+<w>πορφυρας</w>
+<w>και</w>
+<w>
+κοκ
+<lb break="no"/>
+κινου
+</w>
+<w>νενησμενου</w>
+<lb/>
+<w>και</w>
+<w>βυσσου</w>
+<w>
+κεκλω
+<lb break="no"/>
+σμενης
+</w>
+<w>εργον</w>
+<w>
+υφαν
+<lb break="no"/>
+του
+</w>
+<w>χερουβειμ</w>
+</ab>
+<ab n="B02K37V6">
+<w>και</w>
+<lb/>
+<w>τους</w>
+<w>στυλους</w>
+<w>αυτου</w>
+<lb/>
+<w>πεντε</w>
+<w>και</w>
+<w>τους</w>
+<w>
+κρι
+<lb break="no"/>
+κους
+</w>
+<w>αυτων</w>
+<w>και</w>
+<w>
+κατε
+<lb break="no"/>
+χρυσωσαν
+</w>
+<w>τας</w>
+<w>
+κεφα
+<lb break="no"/>
+λειδας
+</w>
+<w>αυτων</w>
+<w>και</w>
+<w>τας</w>
+<lb/>
+<w>ψαλιδας</w>
+<w>αυτων</w>
+<w>
+χρυ
+<lb break="no"/>
+σιω
+</w>
+<w>και</w>
+<w>αι</w>
+<w>βασεις</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+<w>πεντεχαλκαι</w>
+<cb n="2"/>
+<lb/>
+</ab>
+</div>
+<div type="chapter" n="B02K38">
+<ab n="B02K38V1">
+<w>και</w>
+<w>εποιησεν</w>
+<w>
+βεσελε
+<lb break="no"/>
+ηλ
+</w>
+<w>την</w>
+<w>κιβωτον</w>
+<w>εκ</w>
+<lb/>
+<w>ξυλων</w>
+<w>ασηπτων</w>
+<w>
+δυ
+<lb break="no"/>
+οπηχεων
+</w>
+<w>και</w>
+<w>
+ημι
+<lb break="no"/>
+σους
+</w>
+<w>το</w>
+<w>μηκος</w>
+<w>αυτης</w>
+<lb/>
+<w>και</w>
+<w>πηχεος</w>
+<w>και</w>
+<w>
+ημι
+<lb break="no"/>
+σους
+</w>
+<w>το</w>
+<w>πλατος</w>
+<w>αυτης</w>
+<lb/>
+<w>και</w>
+<w>πηχεος</w>
+<w>και</w>
+<w>
+ημι
+<lb break="no"/>
+σους
+</w>
+<w>το</w>
+<w>υψος</w>
+<w>
+αυτη
+<unclear reason="faded ink">ς</unclear>
+</w>
+<lb/>
+</ab>
+<ab n="B02K38V2">
+<w>και</w>
+<w>κατεχρυσωσεν</w>
+<lb/>
+<w>αυτην</w>
+<w>χρυσιω</w>
+<w>
+καθα
+<lb break="no"/>
+ρω
+</w>
+<w>εσωθεν</w>
+<w>και</w>
+<w>
+εξω
+<lb break="no"/>
+θεν
+</w>
+<w>και</w>
+<w>εποιησεν</w>
+<lb/>
+<w>αυτη</w>
+<w>κυματιον</w>
+<w>
+χρυ
+<lb break="no"/>
+σουν
+</w>
+<w>κυκλω</w>
+</ab>
+<ab n="B02K38V3">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+χωνευσεν
+</w>
+<w>αυτη</w>
+<w>
+τσσ
+<lb break="no"/>
+σαρας
+</w>
+<w>δακτυλειους</w>
+<lb/>
+<w>χρυσους</w>
+<w>επι</w>
+<w>τα</w>
+<w>
+τεσ
+<lb break="no"/>
+σαρα
+</w>
+<w>μερη</w>
+<w>αυτης</w>
+<w>
+δυ
+<lb break="no"/>
+ο
+</w>
+<w>δακτυλιους</w>
+<w>επι</w>
+<w>το</w>
+<lb/>
+<w>κλιτος</w>
+<w>αυτης</w>
+<w>το</w>
+<w>εν</w>
+<lb/>
+<w>και</w>
+<w>δυο</w>
+<w>
+δακτυλι
+<lb break="no"/>
+ους
+</w>
+<w>επι</w>
+<w>το</w>
+<w>κλιτος</w>
+<w>
+αυ
+<lb break="no"/>
+της
+</w>
+<w>το</w>
+<w>δευτερον</w>
+</ab>
+<ab n="B02K38V4" part="I">
+<w>
+ευ
+<lb break="no"/>
+ρεις
+</w>
+<w>τοις</w>
+<w>ζωστηρσιν</w>
+<lb/>
+<w>και</w>
+<w>εποιησεν</w>
+<w>
+ανα
+<lb break="no"/>
+φορεις
+</w>
+<w>εκ</w>
+<w>ξυλων</w>
+<w part="I">
+α
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="3v" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K38">
+<ab n="B02K38V4" part="F">
+<w part="F">σηπτων</w>
+<w>και</w>
+<w>
+κατεχρυ
+<lb break="no"/>
+σωσεν
+</w>
+<w>αυτους</w>
+<w>χρυσιω</w>
+<lb/>
+<w>και</w>
+<w>εισηνεγκεν</w>
+<w>τους</w>
+<lb/>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>αναφορεις</w>
+<w>τους</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P3CL-BnF MS Grec 17 (Ra G)">
+<w>αναφορεις</w>
+<w>εις</w>
+<w>τους</w>
+</seg>
+</rdg>
+</app>
+<w>
+δακτυ
+<lb break="no"/>
+λιους
+</w>
+<w>
+<unclear reason="faded ink">επι</unclear>
+</w>
+<w>τοις</w>
+<w>
+<unclear reason="faded ink">πλ</unclear>
+ευ
+<lb break="no"/>
+ροις
+</w>
+<w>της</w>
+<w>
+κιβω
+<supplied source="na28" reason="illegible">του</supplied>
+</w>
+<w>
+<supplied source="na28" reason="illegible">ωσ</supplied>
+<lb break="no"/>
+τε
+</w>
+<w>αιρειν</w>
+<w>αυτην</w>
+<w>εν</w>
+<w>
+αυ
+<lb break="no"/>
+τοις
+</w>
+<lb/>
+</ab>
+<ab n="B02K38V5">
+<w>και</w>
+<w>εποιησεν</w>
+<w>
+ιλαστη
+<lb break="no"/>
+ριον
+</w>
+<w>ανωθεν</w>
+<w>της</w>
+<w>
+κι
+<lb break="no"/>
+βωτου
+</w>
+<w>εκ</w>
+<w>χρυσιου</w>
+<w>
+κα
+<lb break="no"/>
+θαρου
+</w>
+<w>δυο</w>
+<w>πηχεων</w>
+<lb/>
+<w>και</w>
+<w>ημισους</w>
+<w>μηκος</w>
+<lb/>
+<w>αυτου</w>
+<w>και</w>
+<w>πηχεος</w>
+<w>και</w>
+<lb/>
+<w>ημισους</w>
+<w>το</w>
+<w>
+<unclear reason="faded ink">πλ</unclear>
+ατος
+</w>
+<lb/>
+<w>αυτου</w>
+</ab>
+<ab n="B02K38V6">
+<w>και</w>
+<w>εποιησεν</w>
+<lb/>
+<w>
+δ
+<supplied source="na28" reason="illegible">υ</supplied>
+ο
+</w>
+<w>χερουβειμ</w>
+<w>
+χρυ
+<lb break="no"/>
+<unclear reason="faded ink">σα</unclear>
+</w>
+<w>
+τορευ
+<unclear reason="faded ink">τα</unclear>
+</w>
+<w>εποιησαν</w>
+<lb/>
+<w>
+<unclear reason="faded ink">α</unclear>
+υτα
+</w>
+<w>εξ</w>
+<w>
+α
+<unclear reason="faded ink">μ</unclear>
+φοτερων
+</w>
+<lb/>
+<w>των</w>
+<w>
+μερω
+<unclear reason="faded ink">ν</unclear>
+</w>
+<w>του</w>
+<w>
+<unclear reason="faded ink">θ</unclear>
+υσι
+<lb break="no"/>
+αστηριου
+</w>
+</ab>
+<ab n="B02K38V7">
+<w>χερουβ</w>
+<lb/>
+<w>
+<unclear reason="faded ink">ενα</unclear>
+</w>
+<w>
+<unclear reason="faded ink">επι</unclear>
+</w>
+<w>
+τ
+<unclear reason="faded ink">ο</unclear>
+</w>
+<w>
+<unclear reason="faded ink">α</unclear>
+κρον
+</w>
+<w>του</w>
+<lb/>
+<w>
+<unclear reason="faded ink">ι</unclear>
+λαστηριο
+<supplied source="na28" reason="illegible">υ</supplied>
+</w>
+<w>
+<supplied source="na28" reason="illegible">τ</supplied>
+ο
+</w>
+<w>εν</w>
+<w>και</w>
+<lb/>
+<w>
+<unclear reason="faded ink">χ</unclear>
+ερουβ
+</w>
+<w>
+εν
+<supplied source="na28" reason="illegible">α</supplied>
+</w>
+<w>
+<supplied source="na28" reason="illegible">ε</supplied>
+πι
+</w>
+<w>το</w>
+<w>ακρον</w>
+<lb/>
+<w>
+<unclear reason="faded ink">το</unclear>
+υ
+</w>
+<w>
+ιλαστηριο
+<unclear reason="faded ink">υ</unclear>
+</w>
+<w>
+<unclear reason="faded ink">τ</unclear>
+ο
+</w>
+<w>
+δευ
+<lb break="no"/>
+<unclear reason="faded ink">τ</unclear>
+ερον
+</w>
+<w>εκ</w>
+<w>
+το
+<unclear reason="faded ink">υ</unclear>
+</w>
+<w>
+ιλαστη
+<lb break="no"/>
+<supplied source="na28" reason="illegible">ρ</supplied>
+ιου
+</w>
+<w>εποιησεν</w>
+<w>τους</w>
+<cb n="2"/>
+<lb/>
+<w>χερουβειμ</w>
+<w>εξ</w>
+<w>
+αμφο
+<lb break="no"/>
+τερων
+</w>
+<w>των</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>μερων</w>
+</rdg>
+<rdg type="alt" hand="corrector">
+<seg type="margin" subtype="lineright" n="@P3CL-BnF MS Grec 17 (Ra G)">
+<w>ακρων</w>
+</seg>
+</rdg>
+</app>
+<lb/>
+<w>αυτου</w>
+<w>και</w>
+<w>εγενοντο</w>
+<lb/>
+<w>οι</w>
+<w>χερουβειμ</w>
+<w>
+εκτεινον
+<lb break="no"/>
+τες
+</w>
+<w>τας</w>
+<w>πτερυγας</w>
+<w>
+επα
+<lb break="no"/>
+νωθεν
+</w>
+</ab>
+<ab n="B02K38V8">
+<w>
+συνσκιαζον
+<lb break="no"/>
+τες
+</w>
+<w>ταις</w>
+<w>πτερυξιν</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+<w>επι</w>
+<w>το</w>
+<w>ιλαστηριον</w>
+<lb/>
+<w>κατα</w>
+<w>προσωπον</w>
+<w>αυτων</w>
+<lb/>
+<w>ανηρ</w>
+<w>προς</w>
+<w>τον</w>
+<w>
+αδελ
+<lb break="no"/>
+φον
+</w>
+<w>αυτου</w>
+<w>επι</w>
+<w>το</w>
+<w>
+ιλα
+<lb break="no"/>
+στηριον
+</w>
+<w>ησαν</w>
+<w>τα</w>
+<w>
+προ
+<lb break="no"/>
+σωπα
+</w>
+<w>των</w>
+<w>χερουβειμ</w>
+<lb/>
+</ab>
+<ab n="B02K38V9">
+<w>και</w>
+<w>εποιησεν</w>
+<w>την</w>
+<w>
+τρα
+<lb break="no"/>
+πεζαν
+</w>
+<w>την</w>
+<w>
+προκει
+<lb break="no"/>
+μενην
+</w>
+<w>εκ</w>
+<w>χρυσιου</w>
+<lb/>
+<w>καθαρου</w>
+</ab>
+<ab n="B02K38V10">
+<w>και</w>
+<w>
+εχωνευ
+<lb break="no"/>
+σεν
+</w>
+<w>αυτη</w>
+<w>τεσσαρας</w>
+<w>
+δα
+<lb break="no"/>
+κτυλιους
+</w>
+<w>χρυσους</w>
+<lb/>
+<w>δυο</w>
+<w>επι</w>
+<w>του</w>
+<w>κλιτους</w>
+<lb/>
+<w>του</w>
+<w>ενος</w>
+<w>και</w>
+<w>δυο</w>
+<w>επι</w>
+<lb/>
+<w>του</w>
+<w>κλιτους</w>
+<w>του</w>
+<w>
+δευ
+<lb break="no"/>
+τερου
+</w>
+<w>ευρεις</w>
+<w>ωστε</w>
+<w>
+αι
+<lb break="no"/>
+ρειν
+</w>
+<w>τοις</w>
+<w>ζωστηρσιν</w>
+<lb/>
+<w>εαυτοις</w>
+</ab>
+<ab n="B02K38V11" part="I">
+<w>και</w>
+<w>τους</w>
+<w>
+ζω
+<lb break="no"/>
+στηρας
+</w>
+<w>της</w>
+<w>κιβωτου</w>
+<lb/>
+<w>και</w>
+<w>της</w>
+<w>τραπεζης</w>
+<w part="I">
+ε
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="4r" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K38">
+<ab n="B02K38V11" part="F">
+<w part="F">ποιησεν</w>
+<w>και</w>
+<w>
+κατεχρυ
+<lb break="no"/>
+σωσεν
+</w>
+<w>αυτους</w>
+<w>χρυσιω</w>
+<lb/>
+<w>εκ</w>
+<w>ξυλων</w>
+<w>ασηπτων</w>
+<lb/>
+<w>δυο</w>
+<w>πηχεων</w>
+<w>το</w>
+<w>
+μη
+<lb break="no"/>
+κος
+</w>
+<w>αυτης</w>
+<w>και</w>
+<w>πηχεος</w>
+<lb/>
+<w>το</w>
+<w>ευρος</w>
+<w>αυτης</w>
+<w>και</w>
+<w>
+πη
+<lb break="no"/>
+χεος
+</w>
+<w>και</w>
+<w>ημισους</w>
+<w>το</w>
+<lb/>
+<w>υψος</w>
+<w>αυτης</w>
+<w>και</w>
+<w>
+κατε
+<lb break="no"/>
+χρυσωσεν
+</w>
+<w>αυτην</w>
+<w>
+χρυ
+<lb break="no"/>
+σιω
+</w>
+<w>καθαρω</w>
+<w>και</w>
+<w>
+εποι
+<lb break="no"/>
+ησεν
+</w>
+<w>αυτη</w>
+<w>κυματιον</w>
+<lb/>
+<w>χρυσουν</w>
+<w>κυκλω</w>
+<w>και</w>
+<lb/>
+<w>εποιησεν</w>
+<w>αυτη</w>
+<w>
+στε
+<lb break="no"/>
+φανην
+</w>
+<w>παλαιστου</w>
+<w>
+κυ
+<lb break="no"/>
+κλω
+</w>
+<w>και</w>
+<w>εποιησεν</w>
+<lb/>
+<w>κυματιον</w>
+<w>χρυσουν</w>
+<lb/>
+<w>τη</w>
+<w>στεφανη</w>
+<w>αυτης</w>
+<w>
+κυ
+<lb break="no"/>
+κλω
+</w>
+<w>και</w>
+<w>εποιησεν</w>
+<lb/>
+<w>αυτη</w>
+<w>τεσσαρας</w>
+<w>
+δακτυ
+<lb break="no"/>
+λιους
+</w>
+<w>χρυσους</w>
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πεθηκεν
+</w>
+<w>τους</w>
+<w>
+δακτυ
+<lb break="no"/>
+λιους
+</w>
+<w>επι</w>
+<w>τα</w>
+<w>τεσσαρα</w>
+<lb/>
+<w>μερη</w>
+<w>α</w>
+<w>εστιν</w>
+<w>των</w>
+<w>
+τεσ
+<lb break="no"/>
+σαρων
+</w>
+<w>ποδων</w>
+<w>αυτης</w>
+<lb/>
+<w>υπο</w>
+<w>την</w>
+<w>στεφανην</w>
+<lb/>
+<w>και</w>
+<w>εγενοντο</w>
+<w>οι</w>
+<w>
+δα
+<lb break="no"/>
+κτυλιοι
+</w>
+<w>εις</w>
+<w>θηκας</w>
+<w>τοις</w>
+<cb n="2"/>
+<lb/>
+<w>αναφορευσιν</w>
+<w>
+ωστ
+<supplied source="na28" reason="illegible">ε</supplied>
+</w>
+<lb/>
+<w>αιρειν</w>
+<w>την</w>
+<w>
+τραπε
+<unclear reason="faded ink">ζ</unclear>
+αν
+</w>
+<lb/>
+<w>και</w>
+<w>εποιησεν</w>
+<w>
+το
+<unclear reason="faded ink">υ</unclear>
+ς
+</w>
+<lb/>
+<w>αναφορεις</w>
+<w>εκ</w>
+<w>ξυλων</w>
+<lb/>
+<w>ασηπτων</w>
+<w>και</w>
+<w>
+κατε
+<lb break="no"/>
+χρυσωσεν
+</w>
+<w>αυτους</w>
+<lb/>
+<w>χρυσιω</w>
+<w>ωστε</w>
+<w>αιρειν</w>
+<lb/>
+<w>την</w>
+<w>τραπεζαν</w>
+</ab>
+<ab n="B02K38V12">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+ποιησεν
+</w>
+<w>τα</w>
+<w>σκευη</w>
+<lb/>
+<w>της</w>
+<w>τραπεζης</w>
+<w>τα</w>
+<w>
+τρυ
+<lb break="no"/>
+β
+<unclear reason="faded ink">λια</unclear>
+</w>
+<w>
+<unclear reason="faded ink">α</unclear>
+υτης
+</w>
+<w>και</w>
+<w>τας</w>
+<w>
+θυ
+<lb break="no"/>
+ισκας
+</w>
+<w>αυτης</w>
+<w>και</w>
+<w>τους</w>
+<lb/>
+<w>κυαθους</w>
+<w>αυτης</w>
+<w>και</w>
+<lb/>
+<w>τα</w>
+<w>σπονδεια</w>
+<w>αυτης</w>
+<w>
+ε
+<lb break="no"/>
+ν
+</w>
+<w>οις</w>
+<w>σπεισει</w>
+<w>εν</w>
+<w>
+αυ
+<lb break="no"/>
+τοις
+</w>
+<w>χρυσιου</w>
+<w>καθαρου</w>
+<lb/>
+</ab>
+<ab n="B02K38V13">
+<w>και</w>
+<w>εποιησεν</w>
+<w>την</w>
+<w>
+λυ
+<lb break="no"/>
+χνειαν
+</w>
+<w>ην</w>
+<w>
+φω
+<unclear reason="faded ink">τ</unclear>
+<supplied source="na28" reason="illegible">ιζει</supplied>
+</w>
+<lb/>
+<w>χρυσην</w>
+<w>στερεαν</w>
+<w>τον</w>
+<lb/>
+<w>καυλον</w>
+</ab>
+<ab n="B02K38V14">
+<w>και</w>
+<w>τους</w>
+<w>
+καλα
+<lb break="no"/>
+μισκους
+</w>
+<w>εξ</w>
+<w>
+αμφοτε
+<lb break="no"/>
+ρων
+</w>
+<w>των</w>
+<w>μερων</w>
+<w>
+αυ
+<lb break="no"/>
+της
+</w>
+</ab>
+<ab n="B02K38V15" part="I">
+<w>εκ</w>
+<w>των</w>
+<w>
+καλαμ
+<unclear reason="faded ink">ι</unclear>
+<lb break="no"/>
+σκων
+</w>
+<w>αυτης</w>
+<w>οι</w>
+<w>
+βλα
+<lb break="no"/>
+στοι
+</w>
+<w>εξεχοντες</w>
+<w>
+<unclear reason="faded ink">τ</unclear>
+<supplied source="na28" reason="illegible">ρεις</supplied>
+</w>
+<lb/>
+<w>εκ</w>
+<w>τουτου</w>
+<w>και</w>
+<w>
+τρε
+<unclear reason="faded ink">ις</unclear>
+</w>
+<lb/>
+<w>εκ</w>
+<w>τουτου</w>
+<w part="I">
+εξισο
+<unclear reason="faded ink">υ</unclear>
+<supplied source="na28" reason="illegible">μ</supplied>
+<unclear reason="faded ink">ε</unclear>
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="4v" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K38">
+<ab n="B02K38V15" part="F">
+<w part="F">νοι</w>
+<w>αλληλοις</w>
+</ab>
+<ab n="B02K38V16">
+<w>και</w>
+<w>τα</w>
+<lb/>
+<w>λαμπαδεια</w>
+<w>αυτων</w>
+<w>α</w>
+<lb/>
+<w>εστιν</w>
+<w>επι</w>
+<w>των</w>
+<w>ακρων</w>
+<lb/>
+<w>καρυωτα</w>
+<w>εξ</w>
+<w>αυτων</w>
+<lb/>
+<w>και</w>
+<w>τα</w>
+<w>ανθεμια</w>
+<w>εν</w>
+<w>
+αυ
+<lb break="no"/>
+τοις
+</w>
+<w>ινα</w>
+<w>ωσιν</w>
+<w>επ</w>
+<w>αυτων</w>
+<lb/>
+<w>οι</w>
+<w>λυχνοι</w>
+<w>και</w>
+<w>το</w>
+<w>
+ανθε
+<lb break="no"/>
+μιον
+</w>
+<w>το</w>
+<w>εβδομον</w>
+<w>το</w>
+<lb/>
+<w>επ</w>
+<w>ακρου</w>
+<w>του</w>
+<w>
+λαμπα
+<lb break="no"/>
+δειου
+</w>
+<w>επι</w>
+<w>της</w>
+<w>
+κορυ
+<lb break="no"/>
+φης
+</w>
+<w>ανωθεν</w>
+<w>στερεον</w>
+<lb/>
+<w>ολον</w>
+<w>χρυσουν</w>
+</ab>
+<ab n="B02K38V17">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πτα
+</w>
+<w>λυχνους</w>
+<w>αυτης</w>
+<lb/>
+<w>επ</w>
+<w>αυτης</w>
+<w>χρυσους</w>
+<lb/>
+<w>και</w>
+<w>τας</w>
+<w>λαβιδας</w>
+<w>αυτης</w>
+<lb/>
+<w>χρυσας</w>
+<w>και</w>
+<w>τας</w>
+<w>
+επαρυσ
+<lb break="no"/>
+τριδας
+</w>
+<w>αυτης</w>
+<w>χρυσας</w>
+<lb/>
+<w>εκ</w>
+<w>χρυσιου</w>
+<w>καθαρου</w>
+<lb/>
+<w>τορευτην</w>
+<w>εποιησεν</w>
+<lb/>
+<w>την</w>
+<w>λυχνειαν</w>
+<w>τον</w>
+<lb/>
+<w>καυλον</w>
+<w>αυτης</w>
+<w>και</w>
+<w>τους</w>
+<lb/>
+<w>καλαμισκους</w>
+<w>αυτης</w>
+<lb/>
+<w>και</w>
+<w>τους</w>
+<w>κρατηρας</w>
+<w>
+αυ
+<lb break="no"/>
+της
+</w>
+<w>και</w>
+<w>τους</w>
+<w>
+σφαιρω
+<lb break="no"/>
+τηρας
+</w>
+<w>αυτης</w>
+<w>και</w>
+<w>τα</w>
+<lb/>
+<w>κρινα</w>
+<w>αυτης</w>
+<w>εξ</w>
+<w>αυτης</w>
+<lb/>
+<w>ησαν</w>
+<w>εξ</w>
+<w>δε</w>
+<w>
+καλμι
+<cb n="2" break="no"/>
+<lb break="no"/>
+σκοι
+</w>
+<w>εκπορευομενοι</w>
+<lb/>
+<w>εκ</w>
+<w>πλαγιων</w>
+<w>αυτης</w>
+<lb/>
+<w>τρεις</w>
+<w>καλαμισκοι</w>
+<w>της</w>
+<lb/>
+<w>λυχνειας</w>
+<w>εκ</w>
+<w>του</w>
+<w>
+κλι
+<lb break="no"/>
+τους
+</w>
+<w>αυτης</w>
+<w>του</w>
+<w>ενος</w>
+<lb/>
+<w>και</w>
+<w>τρεις</w>
+<w>καλαμισκοι</w>
+<lb/>
+<w>της</w>
+<w>λυχνειας</w>
+<w>εκ</w>
+<w>του</w>
+<lb/>
+<w>κλιτους</w>
+<w>αυτης</w>
+<w>του</w>
+<w>
+δευ
+<lb break="no"/>
+τερου
+</w>
+<w>τρεις</w>
+<w>κρατηρες</w>
+<lb/>
+<w>εκτετυπωμενοι</w>
+<w>
+κα
+<lb break="no"/>
+ρυισκους
+</w>
+<w>εν</w>
+<w>
+καλαμι
+<lb break="no"/>
+σκω
+</w>
+<w>τω</w>
+<w>ενι</w>
+<w>
+σφαιρω
+<lb break="no"/>
+τηρ
+</w>
+<w>και</w>
+<w>κρινον</w>
+<w>και</w>
+<lb/>
+<w>τρεις</w>
+<w>κρατηρες</w>
+<w>
+εκτε
+<lb break="no"/>
+τυπωμενοι
+</w>
+<w>
+καρυι
+<lb break="no"/>
+σκους
+</w>
+<w>εν</w>
+<w>τω</w>
+<w>
+καλαμι
+<lb break="no"/>
+σκω
+</w>
+<w>τω</w>
+<w>ενι</w>
+<w>
+σφαιρω
+<lb break="no"/>
+τηρ
+</w>
+<w>και</w>
+<w>κρινον</w>
+<w>ουτως</w>
+<lb/>
+<w>τοις</w>
+<w>εξ</w>
+<w>καλαμισκοις</w>
+<lb/>
+<w>τοις</w>
+<w>εκπορευομενοις</w>
+<lb/>
+<w>εκ</w>
+<w>της</w>
+<w>λυχνειας</w>
+<w>και</w>
+<lb/>
+<w>εν</w>
+<w>τη</w>
+<w>λυχνεια</w>
+<w>
+τεσσα
+<lb break="no"/>
+ρες
+</w>
+<w>κρατηρες</w>
+<w>
+εκτετυ
+<lb break="no"/>
+πωμενοι
+</w>
+<w>καρυισκους</w>
+<lb/>
+<w>οι</w>
+<w>σφαιρωτηρες</w>
+<w>
+αυ
+<lb break="no"/>
+της
+</w>
+<w>και</w>
+<w>τα</w>
+<w>κρινα</w>
+<w>αυτης</w>
+<lb/>
+<w>ο</w>
+<w>σφαιρωτηρ</w>
+<w>υπο</w>
+<w>τους</w>
+</ab>
+</div>
+</div>
+<pb n="5r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K39">
+<ab n="B02K39V15">
+<w>σκευη</w>
+<w>αυτης</w>
+<w>και</w>
+<w>το</w>
+<w>
+ε
+<lb break="no"/>
+λαιον
+</w>
+<w>του</w>
+<w>φωτος</w>
+<w>και</w>
+<lb/>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<w>το</w>
+<lb/>
+<w>χρυσουν</w>
+<w>και</w>
+<w>το</w>
+<w>ελαιον</w>
+<lb/>
+<w>της</w>
+<w>χρεισεως</w>
+<w>και</w>
+<w>το</w>
+<lb/>
+<w>θυμιαμα</w>
+<w>της</w>
+<w>
+συνθε
+<lb break="no"/>
+σεως
+</w>
+<w>και</w>
+<w>το</w>
+<w>
+επισπα
+<lb break="no"/>
+στρον
+</w>
+<w>της</w>
+<w>θυρας</w>
+<w>της</w>
+<lb/>
+<w>σκηνης</w>
+<w>και</w>
+<w>το</w>
+<w>
+θυσια
+<lb break="no"/>
+στηριον
+</w>
+<w>το</w>
+<w>
+χαλκο
+<unclear reason="damage to page">υ</unclear>
+<supplied source="na28" reason="lacuna">ν</supplied>
+</w>
+<lb/>
+<w>και</w>
+<w>το</w>
+<w>παραθεμα</w>
+<w>
+<supplied source="na28" reason="lacuna">το</supplied>
+</w>
+<lb/>
+<w>χαλκουν</w>
+<w>το</w>
+<w>
+<unclear reason="faded ink">αυ</unclear>
+<supplied source="na28" reason="lacuna">τω</supplied>
+</w>
+<lb/>
+<w>τους</w>
+<w>
+αναφορε
+<supplied source="na28" reason="lacuna">ις</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αυτου</supplied>
+</w>
+<lb/>
+<w>και</w>
+<w>παντα</w>
+<w>τα</w>
+<w>
+σ
+<supplied source="na28" reason="illegible">κευη</supplied>
+</w>
+<lb/>
+<w>αυτου</w>
+<w>τον</w>
+<w>
+λο
+<supplied source="na28" reason="lacuna">υτηρα</supplied>
+</w>
+<lb/>
+<w>και</w>
+<w>την</w>
+<w>βασιν</w>
+<w>
+<unclear reason="faded ink">α</unclear>
+<supplied source="na28" reason="lacuna">υτου</supplied>
+</w>
+<lb/>
+</ab>
+<ab n="B02K39V19">
+<w>
+κ
+<supplied source="na28" reason="illegible">αι</supplied>
+</w>
+<w>
+<unclear reason="faded ink">τ</unclear>
+α
+</w>
+<w>ιστια</w>
+<w>της</w>
+<w>
+<supplied source="na28" reason="lacuna">αυλης</supplied>
+</w>
+<lb/>
+<w>και</w>
+<w>τους</w>
+<w>
+στυλο
+<unclear reason="damage to page">υ</unclear>
+<supplied source="na28" reason="lacuna">ς</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αυ</supplied>
+<lb break="no"/>
+της
+</w>
+<w>και</w>
+<w>τας</w>
+<w>
+βασε
+<supplied source="na28" reason="lacuna">ις</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αυ</supplied>
+<lb break="no"/>
+τη
+<unclear reason="faded ink">ς</unclear>
+<gap reason="lacuna" unit="char" extent="12"/>
+</w>
+<lb/>
+<gap reason="lacuna" unit="line" extent="7"/>
+<cb n="2"/>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+</ab>
+<ab n="B02K39V18">
+<gap reason="illegible" unit="char" extent="2"/>
+<lb/>
+<w>στολας</w>
+<w>τας</w>
+<w>
+λειτ
+<supplied source="na28" reason="lacuna">ουργι</supplied>
+<lb break="no"/>
+κας
+</w>
+<w>
+λειτου
+<supplied source="na28" reason="lacuna">ργειν</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">εν</supplied>
+</w>
+<lb/>
+<w>τω</w>
+<w>αγιω</w>
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">τας</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">στο</supplied>
+<lb break="no"/>
+λας
+</w>
+<w>
+το
+<supplied source="na28" reason="lacuna">υ</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αγιου</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αι</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">εισιν</supplied>
+</w>
+<lb/>
+<w>
+ααρ
+<unclear reason="damage to page">ω</unclear>
+<supplied source="na28" reason="lacuna">ν</supplied>
+</w>
+<gap reason="lacuna" unit="char" extent="10"/>
+<lb/>
+<w>
+κ
+<gap reason="lacuna" unit="line" extent="part"/>
+</w>
+<lb/>
+<gap reason="lacuna" unit="line" extent="20"/>
+<lb/>
+</ab>
+</div>
+</div>
+<pb n="5v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K40">
+<ab n="B02K40V3" part="F">
+<w>ς</w>
+<w>εκει</w>
+<w>την</w>
+<w>κιβωτον</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">του</supplied>
+</w>
+<w>μαρτυριου</w>
+<w>και</w>
+<w>
+σκε
+<lb break="no"/>
+<supplied source="na28" reason="lacuna">πασεις</supplied>
+</w>
+<w>
+<unclear reason="damage to page">τ</unclear>
+ην
+</w>
+<w>κιβωτον</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">τω</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">καταπε</supplied>
+<unclear reason="damage to page">τα</unclear>
+σματι
+</w>
+<lb/>
+</ab>
+<ab n="B02K40V4">
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">εισοισεις</supplied>
+</w>
+<w>την</w>
+<w>
+τρα
+<lb break="no"/>
+<supplied source="na28" reason="lacuna">πεζαν</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">προ</supplied>
+<unclear reason="damage to page">θ</unclear>
+ησεις
+</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">την</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">προθεσιν</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αυτ</supplied>
+ης
+</w>
+<lb/>
+<gap reason="lacuna" unit="line" extent="20"/>
+<cb n="2"/>
+<lb/>
+</ab>
+<ab n="B02K40V8" part="F">
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>κυκλω</w>
+<w>και</w>
+<w>θησεις</w>
+<lb/>
+<w>τον</w>
+<w>λουτηρα</w>
+<w>ανα</w>
+<w>
+με
+<lb break="no"/>
+σον
+</w>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<lb/>
+<w>μαρτυριου</w>
+<w>και</w>
+<w>ανα</w>
+<w>
+με
+<lb break="no"/>
+σον
+</w>
+<w>του</w>
+<w>
+θυσιαστηρι
+<lb break="no"/>
+ου
+</w>
+<w>και</w>
+<w>δωσεις</w>
+<w>εκει</w>
+<w>
+υ
+<lb break="no"/>
+δωρ
+</w>
+<w>και</w>
+<w>θησεις</w>
+<w>την</w>
+<lb/>
+<w>αυλην</w>
+<w>κυκλω</w>
+<w>και</w>
+<w>
+δω
+<lb break="no"/>
+σεις
+</w>
+<w>το</w>
+<w>επισπαστρον</w>
+<lb/>
+<w>της</w>
+<w>πυλης</w>
+<w>της</w>
+<w>αυλης</w>
+<lb/>
+</ab>
+<ab n="B02K40V9">
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<unclear reason="damage to page">λ</unclear>
+ημψη
+</w>
+<w>το</w>
+<w>ελαιον</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">του</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">χ</supplied>
+ρεισματος
+</w>
+<w>και</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">χρισ</supplied>
+εις
+</w>
+<w>την</w>
+<w>σκηνην</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">π</supplied>
+<unclear reason="damage to page">α</unclear>
+ντα
+</w>
+<w>τα</w>
+<w>εν</w>
+<w>αυτη</w>
+<lb/>
+<w>
+<supplied source="na28" reason="illegible">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="illegible">α</supplied>
+<unclear reason="damage to page">γ</unclear>
+ιασεις
+</w>
+<w>αυτην</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">π</supplied>
+αντα
+</w>
+<w>τα</w>
+<w>σκευη</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">αυτη</supplied>
+ς
+</w>
+<w>και</w>
+<w>εσται</w>
+<w>αγια</w>
+<lb/>
+</ab>
+<ab n="B02K40V10">
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">χ</supplied>
+ρεισεις
+</w>
+<w>το</w>
+<w>
+θυσι
+<lb break="no"/>
+<supplied source="na28" reason="lacuna">αστ</supplied>
+<unclear reason="damage to page">η</unclear>
+ριον
+</w>
+<w>των</w>
+<w>
+καρπω
+<lb break="no"/>
+<supplied source="na28" reason="lacuna">ματων</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">παν</supplied>
+<unclear reason="damage to page">τ</unclear>
+α
+</w>
+<w>τα</w>
+<lb/>
+<gap reason="lacuna" unit="line" extent="7"/>
+</ab>
+</div>
+</div>
+<pb n="6r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K40">
+<ab n="B02K40V11">
+<w>τον</w>
+</ab>
+<ab n="B02K40V12">
+<w>και</w>
+<w>προσαξεις</w>
+<w>τον</w>
+<lb/>
+<w>ααρων</w>
+<w>και</w>
+<w>τους</w>
+<w>υιους</w>
+<lb/>
+<w>αυτου</w>
+<w>επι</w>
+<w>τας</w>
+<w>θυρας</w>
+<lb/>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρ
+<lb break="no"/>
+τυριου
+</w>
+<w>και</w>
+<w>λουσεις</w>
+<w>
+αυ
+<lb break="no"/>
+τους
+</w>
+<w>υδατι</w>
+</ab>
+<ab n="B02K40V13">
+<w>και</w>
+<w>
+ενδυ
+<lb break="no"/>
+σεις
+</w>
+<w>τον</w>
+<w>ααρων</w>
+<w>τας</w>
+<lb/>
+<w>στολας</w>
+<w>τας</w>
+<w>αγιας</w>
+<w>και</w>
+<lb/>
+<w>χρεισεις</w>
+<w>αυτον</w>
+<w>και</w>
+<w>
+α
+<lb break="no"/>
+γιασεις
+</w>
+<w>αυτον</w>
+<w>και</w>
+<w>
+ιε
+<lb break="no"/>
+ρατευσει
+</w>
+<w>μοι</w>
+</ab>
+<ab n="B02K40V14">
+<w>και</w>
+<w>
+προσ
+<lb break="no"/>
+αξεις
+</w>
+<w>τους</w>
+<w>υιους</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>και</w>
+<w>ενδυσεις</w>
+<w>
+αυ
+<lb break="no"/>
+τους
+</w>
+<w>χιτωνας</w>
+</ab>
+<ab n="B02K40V15">
+<w>και</w>
+<w>
+α
+<lb break="no"/>
+λιψεις
+</w>
+<w>αυτους</w>
+<w>ον</w>
+<w>
+τρο
+<lb break="no"/>
+πον
+</w>
+<w>ηλειψας</w>
+<w>τον</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">πρα</hi>
+</abbr>
+</w>
+<lb/>
+<w>αυτων</w>
+<w>και</w>
+<w>
+ιερατευ
+<lb break="no"/>
+σουσιν
+</w>
+<w>μοι</w>
+<w>και</w>
+<w>εσται</w>
+<lb/>
+<w>ωστε</w>
+<w>ειναι</w>
+<w>αυτοις</w>
+<lb/>
+<w>χρεισμα</w>
+<w>αυτων</w>
+<w>
+ιερα
+<lb break="no"/>
+τειας
+</w>
+<w>εις</w>
+<w>τον</w>
+<w>αιωνα</w>
+<lb/>
+<w>εις</w>
+<w>τας</w>
+<w>γενεας</w>
+<w>αυτων</w>
+<lb break="no"/>
+</ab>
+<ab n="B02K40V16">
+<w>και</w>
+<w>εποιησεν</w>
+<w>
+μω
+<lb break="no"/>
+σης
+</w>
+<w>κατα</w>
+<w>παντα</w>
+<w>οσα</w>
+<lb/>
+<w>ενετειλατο</w>
+<w>αυτω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<lb/>
+<w>ουτως</w>
+<w>εποιησεν</w>
+<cb n="2"/>
+<lb/>
+</ab>
+<ab n="B02K40V17">
+<w>και</w>
+<w>εγενετο</w>
+<w>εν</w>
+<w>τω</w>
+<w>
+μη
+<lb break="no"/>
+νι
+</w>
+<w>τω</w>
+<w>πρωτω</w>
+<w>ετει</w>
+<w>τω</w>
+<lb/>
+<w>δευτερω</w>
+<w>
+εκπορευο
+<lb break="no"/>
+μενων
+</w>
+<w>αυτων</w>
+<w>εξ</w>
+<w>
+αι
+<lb break="no"/>
+γυπτου
+</w>
+<w>νουμηνια</w>
+<lb/>
+<w>εσταθη</w>
+<w>η</w>
+<w>σκηνη</w>
+</ab>
+<ab n="B02K40V18">
+<w>και</w>
+<lb/>
+<w>εστησεν</w>
+<w>μωσης</w>
+<w>την</w>
+<lb/>
+<w>σκηνην</w>
+<w>και</w>
+<w>εθηκεν</w>
+<lb/>
+<w>τας</w>
+<w>βασεις</w>
+<w>αυτης</w>
+<w>και</w>
+<lb/>
+<w>επεθηκεν</w>
+<w>τας</w>
+<w>
+κεφα
+<lb break="no"/>
+λειδας
+</w>
+<w>αυτης</w>
+<w>και</w>
+<w>
+ενε
+<lb break="no"/>
+βαλεν
+</w>
+<w>τους</w>
+<w>μοχλους</w>
+<lb/>
+<w>αυτης</w>
+<w>και</w>
+<w>εστησεν</w>
+<lb/>
+<w>τους</w>
+<w>στυλους</w>
+<w>αυτης</w>
+<lb/>
+</ab>
+<ab n="B02K40V19">
+<w>και</w>
+<w>εξετεινεν</w>
+<w>τας</w>
+<w>
+αυ
+<lb break="no"/>
+λαιας
+</w>
+<w>επι</w>
+<w>την</w>
+<w>σκηνην</w>
+<lb/>
+<w>και</w>
+<w>επεθηκεν</w>
+<w>το</w>
+<w>
+κα
+<lb break="no"/>
+τακαλυμμα
+</w>
+<w>της</w>
+<w>
+σκη
+<lb break="no"/>
+νης
+</w>
+<w>επ</w>
+<w>αυτην</w>
+<w>
+ανω
+<lb break="no"/>
+θεν
+</w>
+<w>καθα</w>
+<w>συνεταξεν</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>μωση</w>
+</ab>
+<ab n="B02K40V20" part="I">
+<w>και</w>
+<w>
+λα
+<lb break="no"/>
+βων
+</w>
+<w>ενεβαλεν</w>
+<w>τα</w>
+<lb/>
+<w>μαρτυρια</w>
+<w>εις</w>
+<w>την</w>
+<w>
+κι
+<lb break="no"/>
+βωτον
+</w>
+<w>και</w>
+<w>
+υπεθη
+<lb break="no"/>
+κεν
+</w>
+<w>τους</w>
+<w>
+διασζωστη
+<lb break="no"/>
+ρας
+</w>
+<w>υπο</w>
+<w>την</w>
+<w>κιβωτον</w>
+</ab>
+</div>
+</div>
+<pb n="6v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K40">
+<ab n="B02K40V20" part="F">
+<w>και</w>
+<w>εθηκεν</w>
+<w>το</w>
+<w>
+ιλαστη
+<lb break="no"/>
+ριον
+</w>
+<w>επι</w>
+<w>της</w>
+<w>κιβωτου</w>
+<lb/>
+<w>επανωθεν</w>
+</ab>
+<ab n="B02K40V21">
+<w>και</w>
+<w>
+ειση
+<lb break="no"/>
+νεγκεν
+</w>
+<w>την</w>
+<w>κιβωτον</w>
+<lb/>
+<w>εις</w>
+<w>την</w>
+<w>σκηνην</w>
+<w>και</w>
+<lb/>
+<w>επεθηκεν</w>
+<w>το</w>
+<w>
+κατα
+<lb break="no"/>
+καλυμμα
+</w>
+<w>του</w>
+<w>
+κατα
+<lb break="no"/>
+πετασματος
+</w>
+<w>και</w>
+<w>
+εσ
+<lb break="no"/>
+κεπασεν
+</w>
+<w>την</w>
+<w>
+κιβω
+<lb break="no"/>
+τον
+</w>
+<w>του</w>
+<w>μαρτυριου</w>
+<lb/>
+<w>ον</w>
+<w>τροπον</w>
+<w>
+συνετα
+<lb break="no"/>
+ξεν
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>μωση</w>
+</ab>
+<ab n="B02K40V22">
+<w>και</w>
+<lb/>
+<w>εθηκεν</w>
+<w>την</w>
+<w>
+τραπε
+<lb break="no"/>
+ζαν
+</w>
+<w>εις</w>
+<w>την</w>
+<w>σκηνην</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>επι</w>
+<lb/>
+<w>το</w>
+<w>κλιτος</w>
+<w>της</w>
+<w>σκηνης</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>το</w>
+<lb/>
+<w>προς</w>
+<w>βορραν</w>
+<w>εξωθεν</w>
+<lb/>
+<w>του</w>
+<w>καταπετασματος</w>
+<lb/>
+<w>της</w>
+<w>σκηνης</w>
+</ab>
+<ab n="B02K40V23">
+<w>και</w>
+<w>
+προ
+<lb break="no"/>
+εθηκεν
+</w>
+<w>επ</w>
+<w>αυτης</w>
+<lb/>
+<w>της</w>
+<w>προθεσεως</w>
+<w>
+αρ
+<lb break="no"/>
+τους
+</w>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>ον</w>
+<lb/>
+<w>τροπον</w>
+<w>συνεταξεν</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>μωση</w>
+</ab>
+<ab n="B02K40V24">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+θηκεν
+</w>
+<w>την</w>
+<w>λυχνειαν</w>
+<cb n="2"/>
+<lb/>
+<w>εις</w>
+<w>την</w>
+<w>σκηνην</w>
+<w>του</w>
+<lb/>
+<w>μαρτυριου</w>
+<w>
+απεναν
+<lb break="no"/>
+τι
+</w>
+<w>της</w>
+<w>τραπεζης</w>
+<w>εις</w>
+<lb/>
+<w>το</w>
+<w>κλιτος</w>
+<w>της</w>
+<w>σκηνης</w>
+<lb/>
+<w>το</w>
+<w>προς</w>
+<w>νοτον</w>
+</ab>
+<ab n="B02K40V25">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πεθηκεν
+</w>
+<w>τους</w>
+<w>
+λυ
+<lb break="no"/>
+χνους
+</w>
+<w>αυτης</w>
+<w>
+εναν
+<lb break="no"/>
+τι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>ον</w>
+<w>τροπον</w>
+<w>
+συν
+<lb break="no"/>
+εταξεν
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>μωση</w>
+<lb/>
+</ab>
+<ab n="B02K40V26">
+<w>και</w>
+<w>εθηκεν</w>
+<w>το</w>
+<w>
+θυσι
+<lb break="no"/>
+αστηριον
+</w>
+<w>το</w>
+<w>χρυσουν</w>
+<lb/>
+<w>εν</w>
+<w>τη</w>
+<w>σκηνη</w>
+<w>του</w>
+<w>
+μαρ
+<lb break="no"/>
+τυριου
+</w>
+<w>απεναντι</w>
+<w>του</w>
+<lb/>
+<w>καταπετασματος</w>
+</ab>
+<ab n="B02K40V27">
+<w>και</w>
+<lb/>
+<w>εθυμιασεν</w>
+<w>επ</w>
+<w>αυτου</w>
+<lb/>
+<w>το</w>
+<w>θυμιαμα</w>
+<w>της</w>
+<w>
+συν
+<lb break="no"/>
+θεσεως
+</w>
+<w>καθαπερ</w>
+<w>
+συν
+<lb break="no"/>
+εταξεν
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>μωση</w>
+<lb/>
+</ab>
+<ab n="B02K40V28">
+<w>και</w>
+<w>εθηκεν</w>
+<w>το</w>
+<w>
+επι
+<lb break="no"/>
+σπαστρον
+</w>
+<w>της</w>
+<w>θυρας</w>
+<lb/>
+<w>της</w>
+<w>σκηνης</w>
+</ab>
+<ab n="B02K40V29" part="I">
+<w>και</w>
+<w>το</w>
+<lb/>
+<w>θυσιαστηριον</w>
+<w>των</w>
+<lb/>
+<w>καρπωματων</w>
+<w>
+εθη
+<lb break="no"/>
+κεν
+</w>
+<w>παρα</w>
+<w>την</w>
+<w>θυραν</w>
+<lb/>
+<w>της</w>
+<w>σκηνης</w>
+<w>της</w>
+<w>
+σκε
+<lb break="no"/>
+πης
+</w>
+<w>του</w>
+<w>μαρτυριου</w>
+</ab>
+</div>
+</div>
+<pb n="7r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K40">
+<ab n="B02K40V29" part="F">
+<w>και</w>
+<w>ανηνεγκεν</w>
+<w>επ</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>την</w>
+<w>ολοκαυτωσιν</w>
+<lb/>
+<w>και</w>
+<w>την</w>
+<w>θυσιαν</w>
+<w>καθα</w>
+<lb/>
+<w>ενετειλατο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>
+μω
+<lb break="no"/>
+ση
+</w>
+</ab>
+<ab n="B02K40V30">
+<w>και</w>
+<w>εποιησεν</w>
+<w>τον</w>
+<lb/>
+<w>λουτηρα</w>
+<w>αναμεσον</w>
+<lb/>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρ
+<lb break="no"/>
+τυριου
+</w>
+<w>και</w>
+<w>αναμεσον</w>
+<lb/>
+<w>του</w>
+<w>θυσιαστηριου</w>
+<w>και</w>
+<lb/>
+<w>εδωκεν</w>
+<w>εκει</w>
+<w>υδωρ</w>
+<lb/>
+<w>ινα</w>
+<w>νιπτωνται</w>
+<w>εξ</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>μωσης</w>
+<w>και</w>
+<w>ααρων</w>
+<lb/>
+<w>και</w>
+<w>οι</w>
+<w>υιοι</w>
+<w>αυτου</w>
+<w>τας</w>
+<lb/>
+<w>χειρας</w>
+<w>αυτων</w>
+<w>και</w>
+<w>τους</w>
+<lb/>
+<w>ποδας</w>
+<w>
+εισπορευομε
+<lb break="no"/>
+νων
+</w>
+<w>αυτων</w>
+<w>εις</w>
+<w>την</w>
+<lb/>
+<w>σκηνην</w>
+<w>του</w>
+<w>
+μαρτυ
+<lb break="no"/>
+ριου
+</w>
+<w>η</w>
+<w>οταν</w>
+<w>
+προσπο
+<lb break="no"/>
+ρευωνται
+</w>
+<w>προς</w>
+<w>το</w>
+<lb/>
+<w>θυσιαστηριον</w>
+<w>
+λιτουρ
+<lb break="no"/>
+γειν
+</w>
+<w>ενιπτοντο</w>
+<w>εξ</w>
+<lb/>
+<w>αυτου</w>
+<w>καθαπερ</w>
+<w>
+συνε
+<lb break="no"/>
+ταξεν
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>μωση</w>
+<lb/>
+</ab>
+<ab n="B02K40V31"/>
+<ab n="B02K40V32"/>
+<ab n="B02K40V33">
+<w>και</w>
+<w>εστησεν</w>
+<w>την</w>
+<w>
+αυ
+<lb break="no"/>
+λην
+</w>
+<w>κυκλω</w>
+<w>της</w>
+<w>
+σκη
+<lb break="no"/>
+νης
+</w>
+<w>και</w>
+<w>του</w>
+<w>
+θυσιαστη
+<lb break="no"/>
+ριου
+</w>
+<w>και</w>
+<w>εθηκεν</w>
+<w>το</w>
+<cb n="2"/>
+<lb/>
+<w>επισπαστρον</w>
+<w>της</w>
+<lb/>
+<w>πυλης</w>
+<w>της</w>
+<w>αυλης</w>
+<lb/>
+<w>και</w>
+<w>συνετελεσεν</w>
+<w>
+μω
+<lb break="no"/>
+σης
+</w>
+<w>παντα</w>
+<w>τα</w>
+<w>εργα</w>
+<lb/>
+</ab>
+<ab n="B02K40V34">
+<w>και</w>
+<w>εκαλυψεν</w>
+<w>η</w>
+<w>
+νε
+<lb break="no"/>
+φελη
+</w>
+<w>την</w>
+<w>σκηνην</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>και</w>
+<w>
+δο
+<lb break="no"/>
+ξης
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>επλησθη</w>
+<w>η</w>
+<lb/>
+<w>σκηνη</w>
+</ab>
+<ab n="B02K40V35">
+<w>και</w>
+<w>ουκ</w>
+<w>
+εδυ
+<lb break="no"/>
+νασθη
+</w>
+<w>μωσης</w>
+<w>
+εισελ
+<lb break="no"/>
+θειν
+</w>
+<w>εις</w>
+<w>την</w>
+<w>σκηνην</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>οτι</w>
+<w>
+ε
+<lb break="no"/>
+πεσκιαζεν
+</w>
+<w>επ</w>
+<w>αυτην</w>
+<lb/>
+<w>η</w>
+<w>νεφελη</w>
+<w>και</w>
+<w>δοξης</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>επλησθη</w>
+<w>η</w>
+<w>
+σκη
+<lb break="no"/>
+νη
+</w>
+</ab>
+<ab n="B02K40V36">
+<w>ηνικα</w>
+<w>δ</w>
+<w>αν</w>
+<w>
+ανε
+<lb break="no"/>
+βη
+</w>
+<w>η</w>
+<w>νεφελη</w>
+<w>απο</w>
+<w>της</w>
+<lb/>
+<w>σκηνης</w>
+<w>
+ανεζευγνυ
+<lb break="no"/>
+σαν
+</w>
+<w>οι</w>
+<w>υιοι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>συν</w>
+<lb/>
+<w>τη</w>
+<w>απαρτεια</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B02K40V37">
+<w>ει</w>
+<w>δε</w>
+<w>μη</w>
+<w>ανεβη</w>
+<w>η</w>
+<w>
+νε
+<lb break="no"/>
+φελη
+</w>
+<w>ουκ</w>
+<w>
+ανεζευγνυ
+<lb break="no"/>
+σαν
+</w>
+<w>εως</w>
+<w>της</w>
+<w>ημερας</w>
+<lb/>
+<w>ης</w>
+<w>ανεβη</w>
+</ab>
+<ab n="B02K40V38" part="I">
+<w>νεφελη</w>
+<lb/>
+<w>γαρ</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>ην</w>
+<w>επι</w>
+<w>της</w>
+<w>
+σκ
+<unclear reason="faded ink">η</unclear>
+<lb break="no"/>
+νης
+</w>
+<w>ημερας</w>
+<w>και</w>
+<w>πυρ</w>
+<lb/>
+<w>ην</w>
+<w>νυκτος</w>
+<w>επ</w>
+<w>
+αυτ
+<supplied source="na28" reason="illegible">η</supplied>
+<unclear reason="faded ink">ς</unclear>
+</w>
+</ab>
+</div>
+</div>
+<pb n="7v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B02">
+<div type="chapter" n="B02K40">
+<ab n="B02K40V38" part="F">
+<w>ενωπιον</w>
+<w>παντος</w>
+<w>
+οι
+<lb break="no"/>
+κου
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>εν</w>
+<w>πασαις</w>
+<w>
+α
+<lb break="no"/>
+ναζυγιαις
+</w>
+<w>αυτων</w>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+</ab>
+</div>
+<div type="explicit" n="B02explicit">
+<ab>
+<w>εχοδος</w>
+</ab>
+</div>
+</div>
+<pb n="8r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K1">
+<ab n="B03K1V1">
+<w>και</w>
+<w>ανεκαλεσεν</w>
+<w>μωσην</w>
+<lb/>
+<w>και</w>
+<w>ελαλησεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>αυτω</w>
+<lb/>
+<w>εκ</w>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<lb/>
+<w>μαρτυριου</w>
+<w>λεγων</w>
+</ab>
+<ab n="B03K1V2">
+<w>
+λα
+<lb break="no"/>
+λησον
+</w>
+<w>τοις</w>
+<w>υιοις</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<lb/>
+<w>και</w>
+<w>ερεις</w>
+<w>προς</w>
+<w>αυτους</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ανος</hi>
+</abbr>
+</w>
+<w>εαν</w>
+<w>προσαγη</w>
+<lb/>
+<w>εξ</w>
+<w>υμων</w>
+<w>δωρα</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+<w>απο</w>
+<w>των</w>
+<w>κτηνων</w>
+<w>
+α
+<lb break="no"/>
+πο
+</w>
+<w>των</w>
+<w>βοων</w>
+<w>και</w>
+<w>
+α
+<lb break="no"/>
+πο
+</w>
+<w>των</w>
+<w>προβατων</w>
+<lb/>
+<w>προσοισετε</w>
+<w>τα</w>
+<w>δωρα</w>
+<lb/>
+<w>υμων</w>
+</ab>
+<ab n="B03K1V3">
+<w>εαν</w>
+<w>
+ολοκαυτω
+<lb break="no"/>
+μα
+</w>
+<w>το</w>
+<w>δωρον</w>
+<w>αυτου</w>
+<w>εκ</w>
+<lb/>
+<w>των</w>
+<w>βοων</w>
+<w>αρσεν</w>
+<w>
+αμω
+<lb break="no"/>
+μον
+</w>
+<w>προσαξει</w>
+<w>προς</w>
+<w>την</w>
+<lb/>
+<w>θυραν</w>
+<w>της</w>
+<w>σκηνης</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>
+προσ
+<lb break="no"/>
+οισει
+</w>
+<w>αυτο</w>
+<w>δεκτον</w>
+<lb/>
+<w>αυτω</w>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K1V4">
+<w>και</w>
+<lb/>
+<w>επιθησει</w>
+<w>την</w>
+<w>χειρα</w>
+<lb/>
+<w>αυτου</w>
+<w>επι</w>
+<w>την</w>
+<w>
+κεφα
+<lb break="no"/>
+λην
+</w>
+<w>του</w>
+<w>
+καρπωμα
+<lb break="no"/>
+τος
+</w>
+<w>δεκτον</w>
+<w>αυτω</w>
+<w>
+ε
+<lb break="no"/>
+ξειλασασθαι
+</w>
+<w>περι</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+</ab>
+<ab n="B03K1V5">
+<w>και</w>
+<w>σφαξουσιν</w>
+<lb/>
+<w>τον</w>
+<w>μοσχον</w>
+<w>εναντι</w>
+<cb n="2"/>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>προσοισουσιν</w>
+<lb/>
+<w>οι</w>
+<w>υιοι</w>
+<w>ααρων</w>
+<w>οι</w>
+<w>ιερεις</w>
+<lb/>
+<w>το</w>
+<w>αιμα</w>
+<w>και</w>
+<w>
+προσχεου
+<lb break="no"/>
+σιν
+</w>
+<w>το</w>
+<w>αιμα</w>
+<w>επι</w>
+<w>το</w>
+<w>
+θυ
+<lb break="no"/>
+σιαστηριον
+</w>
+<w>κυκλω</w>
+<w>το</w>
+<lb/>
+<w>επι</w>
+<w>των</w>
+<w>θυρων</w>
+<w>της</w>
+<lb/>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρτυ
+<lb break="no"/>
+ριου
+</w>
+</ab>
+<ab n="B03K1V6">
+<w>και</w>
+<w>δειραντες</w>
+<lb/>
+<w>το</w>
+<w>ολοκαυτωμα</w>
+<w>
+με
+<lb break="no"/>
+λιουσιν
+</w>
+<w>αυτο</w>
+<w>κατα</w>
+<lb/>
+<w>μελη</w>
+<w>αυτου</w>
+</ab>
+<ab n="B03K1V7">
+<w>και</w>
+<w>
+επι
+<lb break="no"/>
+θησουσιν
+</w>
+<w>οι</w>
+<w>υιοι</w>
+<w>
+αα
+<lb break="no"/>
+ρων
+</w>
+<w>οι</w>
+<w>ιερεις</w>
+<w>πυρ</w>
+<w>
+ε
+<lb break="no"/>
+πι
+</w>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<lb/>
+<w>και</w>
+<w>στοιβασουσιν</w>
+<w>
+ξυ
+<lb break="no"/>
+λα
+</w>
+<w>επι</w>
+<w>το</w>
+<w>πυρ</w>
+</ab>
+<ab n="B03K1V8">
+<w>και</w>
+<w>
+επι
+<lb break="no"/>
+θησουσιν
+</w>
+<w>οι</w>
+<w>υιοι</w>
+<w>
+αα
+<lb break="no"/>
+ρων
+</w>
+<w>οι</w>
+<w>ιερεις</w>
+<w>τα</w>
+<w>
+διχο
+<lb break="no"/>
+τομηματα
+</w>
+<w>και</w>
+<w>την</w>
+<lb/>
+<w>κεφαλην</w>
+<w>και</w>
+<w>το</w>
+<w>
+στε
+<lb break="no"/>
+αρ
+</w>
+<w>επι</w>
+<w>τα</w>
+<w>ξυλα</w>
+<w>τα</w>
+<w>επι</w>
+<lb/>
+<w>του</w>
+<w>πυρος</w>
+<w>τα</w>
+<w>επι</w>
+<w>του</w>
+<lb/>
+<w>θυσιαστηριου</w>
+</ab>
+<ab n="B03K1V9" part="I">
+<w>τα</w>
+<w>δε</w>
+<lb/>
+<w>εγκοιλια</w>
+<w>αυτου</w>
+<w>και</w>
+<lb/>
+<w>τους</w>
+<w>ποδας</w>
+<w>αυτου</w>
+<lb/>
+<w>πλυνουσιν</w>
+<w>υδατι</w>
+<w>και</w>
+<lb/>
+<w>επιθησει</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>τα</w>
+</ab>
+</div>
+</div>
+<pb n="8v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="Lev">
+<div type="chapter" n="Lev.1">
+<ab n="Lev.1.9" part="F">
+<w>παντα</w>
+<w>επι</w>
+<w>το</w>
+<w>
+θυσια
+<lb break="no"/>
+στηριον
+</w>
+<w>καρπωμα</w>
+<w>
+εσ
+<lb break="no"/>
+τιν
+</w>
+<w>θυσιας</w>
+<w>οσμη</w>
+<w>
+ευω
+<lb break="no"/>
+διας
+</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+<ab n="Lev.1.10">
+<w>εαν</w>
+<w>δε</w>
+<w>απο</w>
+<w>των</w>
+<w>
+προ
+<lb break="no"/>
+βατων
+</w>
+<w>το</w>
+<w>δωρον</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>απο</w>
+<w>τε</w>
+<w>των</w>
+<lb/>
+<w>αρνων</w>
+<w>και</w>
+<w>των</w>
+<w>εριψων</w>
+<lb/>
+<w>εις</w>
+<w>ολοκαυτωμα</w>
+<w>
+αρ
+<lb break="no"/>
+σεν
+</w>
+<w>αμωμον</w>
+<w>
+προσ
+<lb break="no"/>
+αξει
+</w>
+<w>αυτο</w>
+<w>και</w>
+<w>
+επιθη
+<lb break="no"/>
+σει
+</w>
+<w>την</w>
+<w>χειρα</w>
+<w>επι</w>
+<w>την</w>
+<lb/>
+<w>κεφαλην</w>
+<w>αυτου</w>
+</ab>
+<ab n="Lev.1.11">
+<w>και</w>
+<lb/>
+<w>σφαξουσιν</w>
+<w>αυτο</w>
+<w>εκ</w>
+<lb/>
+<w>πλαγιων</w>
+<w>του</w>
+<w>
+θυσια
+<lb break="no"/>
+στηριου
+</w>
+<w>προς</w>
+<w>βορραν</w>
+<lb/>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+προσ
+<lb break="no"/>
+χεουσιν
+</w>
+<w>οι</w>
+<w>υιοι</w>
+<w>ααρων</w>
+<lb/>
+<w>οι</w>
+<w>ιερεις</w>
+<w>το</w>
+<w>αιμα</w>
+<w>αυτου</w>
+<lb/>
+<w>επι</w>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<lb/>
+<w>κυκλω</w>
+</ab>
+<ab n="Lev.1.12">
+<w>και</w>
+<w>διελουσιν</w>
+<lb/>
+<w>αυτο</w>
+<w>κατα</w>
+<w>μελη</w>
+<w>αυτου</w>
+<lb/>
+<w>και</w>
+<w>την</w>
+<w>κεφαλην</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>και</w>
+<w>το</w>
+<w>στεαρ</w>
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πιστοιβασουσιν
+</w>
+<w>οι</w>
+<w>
+ι
+<lb break="no"/>
+ερεις
+</w>
+<w>αυτα</w>
+<w>επι</w>
+<w>τα</w>
+<w>ξυλα</w>
+<lb/>
+<w>τα</w>
+<w>επι</w>
+<w>του</w>
+<w>πυρος</w>
+<w>τα</w>
+<w>
+ε
+<cb n="2" break="no"/>
+<lb break="no"/>
+πι
+</w>
+<w>του</w>
+<w>θυσιαστηριου</w>
+<lb/>
+</ab>
+<ab n="Lev.1.13">
+<w>και</w>
+<w>τα</w>
+<w>εγκοιλια</w>
+<w>και</w>
+<w>τους</w>
+<lb/>
+<w>ποδας</w>
+<w>πλυνουσιν</w>
+<lb/>
+<w>υδατι</w>
+<w>και</w>
+<w>προσοισει</w>
+<lb/>
+<w>ο</w>
+<w>ιερευς</w>
+<w>τα</w>
+<w>παντα</w>
+<w>και</w>
+<lb/>
+<w>επιθησει</w>
+<w>επι</w>
+<w>το</w>
+<w>
+θυσι
+<lb break="no"/>
+αστηριον
+</w>
+<w>καρπωμα</w>
+<lb/>
+<w>εστιν</w>
+<w>θυσια</w>
+<w>οσμη</w>
+<w>
+ευ
+<lb break="no"/>
+ωδιας
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+<ab n="Lev.1.14">
+<w>εαν</w>
+<w>δε</w>
+<w>
+<unclear reason="Traced over">απ</unclear>
+ο
+</w>
+<w>
+τ
+<unclear reason="Traced over">ων</unclear>
+</w>
+<w>
+<unclear reason="Traced over">πετει</unclear>
+<lb break="no"/>
+νων
+</w>
+<w>
+καρπ
+<unclear reason="Traced over">ωμα</unclear>
+</w>
+<w>
+<unclear reason="Traced over">προσ</unclear>
+<lb break="no"/>
+φερη
+</w>
+<w>δωρον</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>και</w>
+<lb/>
+<w>προσοισει</w>
+<w>απο</w>
+<w>των</w>
+<lb/>
+<w>τρυγονων</w>
+<w>η</w>
+<w>απο</w>
+<w>των</w>
+<lb/>
+<w>περιστεριδεων</w>
+<w>το</w>
+<w>
+δω
+<lb break="no"/>
+ρον
+</w>
+<w>αυτου</w>
+</ab>
+<ab n="Lev.1.15">
+<w>και</w>
+<w>
+προσοι
+<lb break="no"/>
+σει
+</w>
+<w>αυτο</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>προς</w>
+<lb/>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<w>και</w>
+<lb/>
+<w>αποκνισει</w>
+<w>την</w>
+<w>
+κεφα
+<lb break="no"/>
+λην
+</w>
+<w>αυτου</w>
+<w>και</w>
+<w>
+επιθη
+<lb break="no"/>
+σει
+</w>
+<w>επι</w>
+<w>το</w>
+<w>
+θυσιαστη
+<lb break="no"/>
+ριον
+</w>
+<w>και</w>
+<w>στραγγιει</w>
+<w>
+τ
+<unclear reason="faded ink">ο</unclear>
+</w>
+<lb/>
+<w>αιμα</w>
+<w>αυτου</w>
+<w>προς</w>
+<w>
+τη
+<supplied source="na28" reason="illegible">ν</supplied>
+</w>
+<lb/>
+<w>βασιν</w>
+<w>του</w>
+<w>
+θυσιαστη
+<lb break="no"/>
+ριου
+</w>
+</ab>
+<ab n="Lev.1.16" part="I">
+<w>και</w>
+<w>αφελει</w>
+<w>τον</w>
+<lb/>
+<w>προλοβον</w>
+<w>αυτου</w>
+<w>συν</w>
+<lb/>
+<w>τοις</w>
+<w>πτεροις</w>
+<w>αυτου</w>
+</ab>
+</div>
+</div>
+<pb n="9r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K1">
+<ab n="B03K1V16" part="F">
+<w>και</w>
+<w>εκβαλει</w>
+<w>αυτο</w>
+<w>παρα</w>
+<lb/>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<w>
+κα
+<lb break="no"/>
+τα
+</w>
+<w>ανατολας</w>
+<w>εις</w>
+<w>τον</w>
+<lb/>
+<w>τοπον</w>
+<w>της</w>
+<w>σποδου</w>
+<lb/>
+</ab>
+<ab n="B03K1V17">
+<w>και</w>
+<w>εκκλασει</w>
+<w>αυτο</w>
+<w>εκ</w>
+<lb/>
+<w>των</w>
+<w>πτερυγων</w>
+<w>και</w>
+<lb/>
+<w>ου</w>
+<w>διελει</w>
+<w>και</w>
+<w>
+επιθη
+<lb break="no"/>
+σει
+</w>
+<w>αυτο</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>επι</w>
+<lb/>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<w>επι</w>
+<lb/>
+<w>τα</w>
+<w>ξυλα</w>
+<w>τα</w>
+<w>επι</w>
+<w>του</w>
+<w>
+πυ
+<lb break="no"/>
+ρος
+</w>
+<w>καρπωμα</w>
+<w>εστιν</w>
+<lb/>
+<w>θυσια</w>
+<w>οσμη</w>
+<w>ευωδιας</w>
+<lb/>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+</div>
+<div type="chapter" n="B03K2">
+<ab n="B03K2V1">
+<w>εαν</w>
+<w>δε</w>
+<w>ψυχη</w>
+<w>προσφερη</w>
+<lb/>
+<w>δωρον</w>
+<w>θυσιαν</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+<w>σιμιδαλις</w>
+<w>εσται</w>
+<w>το</w>
+<w>
+δω
+<lb break="no"/>
+ρον
+</w>
+<w>αυτου</w>
+<w>και</w>
+<w>
+επιχε
+<lb break="no"/>
+ει
+</w>
+<w>επ</w>
+<w>αυτο</w>
+<w>ελαιον</w>
+<w>και</w>
+<lb/>
+<w>επιθησει</w>
+<w>επ</w>
+<w>αυτο</w>
+<w>
+λι
+<lb break="no"/>
+βανον
+</w>
+</ab>
+<ab n="B03K2V2">
+<w>και</w>
+<w>οισει</w>
+<w>αυτο</w>
+<lb/>
+<w>προς</w>
+<w>τους</w>
+<w>υιους</w>
+<w>ααρων</w>
+<lb/>
+<w>τους</w>
+<w>ιερεις</w>
+<w>και</w>
+<w>
+δραξα
+<lb break="no"/>
+μενος
+</w>
+<w>απ</w>
+<w>αυτης</w>
+<w>
+πλη
+<lb break="no"/>
+ρη
+</w>
+<w>την</w>
+<w>δρακα</w>
+<w>αυτου</w>
+<lb/>
+<w>απο</w>
+<w>της</w>
+<w>σιμιδαλεως</w>
+<lb/>
+<w>αυτης</w>
+<w>συν</w>
+<w>τω</w>
+<w>ελαιω</w>
+<lb/>
+<w>αυτης</w>
+<w>και</w>
+<w>παντα</w>
+<w>τον</w>
+<cb n="2"/>
+<lb/>
+<w>λιβανον</w>
+<w>αυτης</w>
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πιθησει
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>το</w>
+<lb/>
+<w>μνημοσυνον</w>
+<w>αυτης</w>
+<lb/>
+<w>επι</w>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<lb/>
+<w>θυσια</w>
+<w>οσμη</w>
+<w>ευωδιας</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K2V3">
+<w>και</w>
+<w>το</w>
+<w>λοιπον</w>
+<w>απο</w>
+<lb/>
+<w>της</w>
+<w>θυσιας</w>
+<w>ααρων</w>
+<w>και</w>
+<lb/>
+<w>τοις</w>
+<w>υιοις</w>
+<w>αυτου</w>
+<w>αγιον</w>
+<lb/>
+<w>των</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>αγιον</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P9CL-BnF MS Grec 17 (Ra G)">
+<w>αγιων</w>
+</seg>
+</rdg>
+</app>
+<w>απο</w>
+<w>των</w>
+<lb/>
+<w>θυσιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+<ab n="B03K2V4">
+<w>εαν</w>
+<w>δε</w>
+<w>προσφερη</w>
+<w>
+δω
+<lb break="no"/>
+ρον
+</w>
+<w>θυσιαν</w>
+<w>
+πεπεμ
+<lb break="no"/>
+μενην
+</w>
+<w>εν</w>
+<w>κλειβανω</w>
+<lb/>
+<w>εκ</w>
+<w>σιμιδαλεως</w>
+<w>αρτους</w>
+<lb/>
+<w>αζυμους</w>
+<w>
+πεφυραμε
+<lb break="no"/>
+νους
+</w>
+<w>εν</w>
+<w>ελαιω</w>
+<w>και</w>
+<w>
+λα
+<lb break="no"/>
+γανα
+</w>
+<w>αζυμα</w>
+<w>
+διακεχρει
+<lb break="no"/>
+σμενα
+</w>
+<w>εν</w>
+<w>ελαιω</w>
+<lb/>
+</ab>
+<ab n="B03K2V5">
+<w>εαν</w>
+<w>δε</w>
+<w>θυσια</w>
+<w>απο</w>
+<w>
+τηγα
+<lb break="no"/>
+νου
+</w>
+<w>το</w>
+<w>δωρον</w>
+<w>σου</w>
+<w>
+σι
+<lb break="no"/>
+μιδαλις
+</w>
+<w>
+πειφυραμε
+<lb break="no"/>
+νη
+</w>
+<w>εν</w>
+<w>ελαιω</w>
+<w>αζυμα</w>
+<lb/>
+<w>εσται</w>
+</ab>
+<ab n="B03K2V6">
+<w>και</w>
+<w>διαθρυψεις</w>
+<lb/>
+<w>αυτα</w>
+<w>κλασματα</w>
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πιχεεις
+</w>
+<w>επ</w>
+<w>αυτα</w>
+<w>ελαιον</w>
+<lb/>
+<w>θυσια</w>
+<w>εστιν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+<ab n="B03K2V7" part="I">
+<w>εαν</w>
+<w>δε</w>
+<w>θυσια</w>
+<w>απο</w>
+<w part="I">
+εσ
+<unclear reason="Ink faded and seemingly overwritten">χ</unclear>
+α
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="9v" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K2">
+<ab n="B03K2V7" part="F">
+<w part="F">ρας</w>
+<w>το</w>
+<w>δωρον</w>
+<w>σου</w>
+<w>
+σι
+<lb break="no"/>
+μιδαλις
+</w>
+<w>εν</w>
+<w>ελαιω</w>
+<w>
+ποι
+<lb break="no"/>
+ηθησεται
+</w>
+</ab>
+<ab n="B03K2V8">
+<w>και</w>
+<w>
+προσοι
+<lb break="no"/>
+σει
+</w>
+<w>την</w>
+<w>θυσιαν</w>
+<w>ην</w>
+<w>αν</w>
+<lb/>
+<w>ποιηση</w>
+<w>εκ</w>
+<w>τουτων</w>
+<lb/>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>προσοισει</w>
+<lb/>
+<w>αυτο</w>
+<w>προς</w>
+<w>τον</w>
+<w>ιερεα</w>
+<lb/>
+<w>και</w>
+<w>προσεγγισας</w>
+<w>προς</w>
+<lb/>
+<w>το</w>
+<w>θυσιαστηριον</w>
+</ab>
+<ab n="B03K2V9">
+<w>
+α
+<lb break="no"/>
+φελει
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>απο</w>
+<w>της</w>
+<lb/>
+<w>θυσιας</w>
+<w>το</w>
+<w>
+μνημο
+<lb break="no"/>
+συνον
+</w>
+<w>αυτης</w>
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πιθησει
+</w>
+<w>επι</w>
+<w>το</w>
+<w>
+θυσι
+<lb break="no"/>
+αστηριον
+</w>
+<w>οσμη</w>
+<w>
+ευ
+<lb break="no"/>
+ωδιας
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K2V10">
+<w>το</w>
+<w>δε</w>
+<w>
+κα
+<lb break="no"/>
+ταλειφθεν
+</w>
+<w>απο</w>
+<w>της</w>
+<lb/>
+<w>θυσιας</w>
+<w>ααρων</w>
+<w>και</w>
+<lb/>
+<w>τοις</w>
+<w>υιοις</w>
+<w>αυτου</w>
+<w>
+αγι
+<lb break="no"/>
+α
+</w>
+<w>των</w>
+<w>αγιων</w>
+<w>απο</w>
+<w>των</w>
+<lb/>
+<w>καρπωματων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+<ab n="B03K2V11">
+<w>πασαν</w>
+<w>θυσιαν</w>
+<w>ην</w>
+<w>αν</w>
+<lb/>
+<w>προσφερητε</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>ου</w>
+<lb/>
+<w>ποιησετε</w>
+<w>ζυμωτον</w>
+<lb/>
+<w>πασαν</w>
+<w>γαρ</w>
+<w>ζυμην</w>
+<w>και</w>
+<lb/>
+<w>παν</w>
+<w>μελι</w>
+<w>ου</w>
+<w>
+προσοι
+<lb break="no"/>
+σετε
+</w>
+<w>απ</w>
+<w>αυτου</w>
+<w>
+καρ
+<lb break="no"/>
+πωσαι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K2V12">
+<w>δωρον</w>
+<cb n="2"/>
+<lb/>
+<w>απαρχης</w>
+<w>προσοισετε</w>
+<lb/>
+<w>αυτα</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>επι</w>
+<w>δε</w>
+<w>το</w>
+<w>
+θυ
+<lb break="no"/>
+σιαστηριον
+</w>
+<w>ουκ</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>
+ανα
+<lb break="no"/>
+βησεται
+</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P9CL-BnF MS Grec 17 (Ra G)">
+<w>
+ανα
+<lb break="no"/>
+βιβασεται
+</w>
+</seg>
+</rdg>
+</app>
+<w>εις</w>
+<w>οσμην</w>
+<lb/>
+<w>ευωδιας</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+<ab n="B03K2V13">
+<w>και</w>
+<w>παν</w>
+<w>δωρον</w>
+<w>θυσιας</w>
+<lb/>
+<w>υμων</w>
+<w>αλι</w>
+<w>
+αλισθησε
+<lb break="no"/>
+ται
+</w>
+<w>ου</w>
+<w>διαπαυσεται</w>
+<lb/>
+<w>αλα</w>
+<w>διαθηκης</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θυ</hi>
+</abbr>
+</w>
+<lb/>
+<w>απο</w>
+<w>θυσιασματων</w>
+<w>υμων</w>
+<lb/>
+<w>επι</w>
+<w>παντος</w>
+<w>δωρου</w>
+<w>
+υ
+<lb break="no"/>
+μων
+</w>
+<w>προσοισετε</w>
+<w>αλα</w>
+<lb/>
+</ab>
+<ab n="B03K2V14">
+<w>εαν</w>
+<w>δε</w>
+<w>προσφερης</w>
+<w>
+θυ
+<lb break="no"/>
+σιαν
+</w>
+<w>
+πρωτογενημα
+<lb break="no"/>
+των
+</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>νεα</w>
+<w>
+πε
+<lb break="no"/>
+φρυγμενα
+</w>
+<w>χιδρα</w>
+<w>
+ερι
+<lb break="no"/>
+κτα
+</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+προσ
+<lb break="no"/>
+οισεις
+</w>
+<w>την</w>
+<w>θυσιαν</w>
+<w>των</w>
+<lb/>
+<w>πρωτογενηματων</w>
+<lb/>
+<w>σου</w>
+</ab>
+<ab n="B03K2V15">
+<w>και</w>
+<w>επιχεεις</w>
+<w>επ</w>
+<lb/>
+<w>αυτην</w>
+<w>ελαιον</w>
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πιθησεις
+</w>
+<w>επ</w>
+<w>αυτην</w>
+<lb/>
+<w>λιβανον</w>
+<w>θυσια</w>
+<w>εστιν</w>
+<lb/>
+</ab>
+<ab n="B03K2V16" part="I">
+<w>και</w>
+<w>ανοισει</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>το</w>
+<w>μνημοσυνον</w>
+<w>
+αυ
+<lb break="no"/>
+της
+</w>
+<w>απο</w>
+<w>των</w>
+<w>χιδρων</w>
+<lb/>
+<w>συν</w>
+<w>τω</w>
+<w>ελαιω</w>
+<w>και</w>
+<w part="I">
+παν
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="10r" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K2">
+<ab n="B03K2V16" part="F">
+<w part="F">τα</w>
+<w>τον</w>
+<w>λιβανον</w>
+<w>αυτης</w>
+<lb/>
+<w>καρπωμα</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+</div>
+<div type="chapter" n="B03K3">
+<ab n="B03K3V1">
+<w>εαν</w>
+<w>δε</w>
+<w>θυσια</w>
+<w>σωτηριου</w>
+<lb/>
+<w>το</w>
+<w>δωρον</w>
+<w>αυτου</w>
+<w>τω</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>εαν</w>
+<w>μεν</w>
+<w>εκ</w>
+<w>των</w>
+<lb/>
+<w>βοων</w>
+<w>αυτου</w>
+<w>
+προσα
+<lb break="no"/>
+γη
+</w>
+<w>εαν</w>
+<w>τε</w>
+<w>αρσεν</w>
+<w>εαν</w>
+<lb/>
+<w>τε</w>
+<w>θηλυ</w>
+<w>αμωμον</w>
+<lb/>
+<w>προσαξει</w>
+<w>αυτο</w>
+<w>
+εναν
+<lb break="no"/>
+τι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K3V2">
+<w>και</w>
+<w>επιθησει</w>
+<w>τας</w>
+<lb/>
+<w>χειρας</w>
+<w>αυτου</w>
+<w>επι</w>
+<w>την</w>
+<lb/>
+<w>κεφαλην</w>
+<w>του</w>
+<w>δωρου</w>
+<lb/>
+<w>αυτου</w>
+<w>και</w>
+<w>σφαξει</w>
+<w>
+αυ
+<lb break="no"/>
+το
+</w>
+<w>παρα</w>
+<w>τας</w>
+<w>θυρας</w>
+<w>της</w>
+<lb/>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρτυ
+<lb break="no"/>
+ριου
+</w>
+<w>και</w>
+<w>προσχεουσιν</w>
+<lb/>
+<w>οι</w>
+<w>υιοι</w>
+<w>ααρων</w>
+<w>οι</w>
+<w>
+ιε
+<lb break="no"/>
+ρεις
+</w>
+<w>το</w>
+<w>αιμα</w>
+<w>επι</w>
+<w>το</w>
+<lb/>
+<w>θυσιαστηριον</w>
+<w>των</w>
+<lb/>
+<w>ολοκαυτωματων</w>
+<lb/>
+<w>κυκλω</w>
+</ab>
+<ab n="B03K3V3">
+<w>και</w>
+<w>
+προσαξου
+<lb break="no"/>
+σιν
+</w>
+<w>απο</w>
+<w>της</w>
+<w>θυσιας</w>
+<lb/>
+<w>του</w>
+<w>σωτηριου</w>
+<w>
+καρπω
+<lb break="no"/>
+μα
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>το</w>
+<w>στεαρ</w>
+<w>το</w>
+<w>
+κα
+<lb break="no"/>
+τακαλυπτον
+</w>
+<w>την</w>
+<w>
+κοι
+<lb break="no"/>
+λιαν
+</w>
+<w>και</w>
+<w>παν</w>
+<w>το</w>
+<w>
+στε
+<lb break="no"/>
+αρ
+</w>
+<w>το</w>
+<w>επι</w>
+<w>την</w>
+<w>κοιλιαν</w>
+<cb n="2"/>
+<lb/>
+</ab>
+<ab n="B03K3V4">
+<w>και</w>
+<w>τους</w>
+<w>δυο</w>
+<w>νεφρους</w>
+<lb/>
+<w>και</w>
+<w>το</w>
+<w>στεαρ</w>
+<w>το</w>
+<w>επ</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+<w>το</w>
+<w>επι</w>
+<w>των</w>
+<w>
+μη
+<lb break="no"/>
+ριων
+</w>
+<w>και</w>
+<w>τον</w>
+<w>λοβον</w>
+<lb/>
+<w>τον</w>
+<w>επι</w>
+<w>του</w>
+<w>ηπατος</w>
+<lb/>
+<w>συν</w>
+<w>τοις</w>
+<w>νεφροις</w>
+<lb/>
+<w>περιελει</w>
+</ab>
+<ab n="B03K3V5">
+<w>και</w>
+<w>
+ανοισου
+<lb break="no"/>
+σιν
+</w>
+<w>αυτα</w>
+<w>οι</w>
+<w>υιοι</w>
+<w>ααρων</w>
+<lb/>
+<w>επι</w>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<lb/>
+<w>επι</w>
+<w>τα</w>
+<w>
+ολοκαυτωμα
+<lb break="no"/>
+τα
+</w>
+<w>επι</w>
+<w>τα</w>
+<w>ξυλα</w>
+<w>τα</w>
+<w>επι</w>
+<lb/>
+<w>του</w>
+<w>πυρος</w>
+<w>
+καρπω
+<lb break="no"/>
+μα
+</w>
+<w>οσμη</w>
+<w>ευωδιας</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+<ab n="B03K3V6">
+<w>εαν</w>
+<w>δε</w>
+<w>απο</w>
+<w>των</w>
+<w>
+προ
+<lb break="no"/>
+βατων
+</w>
+<w>το</w>
+<w>δωρον</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>θυσιαν</w>
+<w>
+σωτηρι
+<lb break="no"/>
+ου
+</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>αρσεν</w>
+<w>η</w>
+<w>
+θη
+<lb break="no"/>
+λυ
+</w>
+<w>αμωμον</w>
+<w>
+προσ
+<lb break="no"/>
+οισει
+</w>
+<w>αυτο</w>
+</ab>
+<ab n="B03K3V7">
+<w>εαν</w>
+<w>αρνα</w>
+<lb/>
+<w>προσαγη</w>
+<w>το</w>
+<w>δωρον</w>
+<lb/>
+<w>αυτου</w>
+<w>προσοισει</w>
+<w>
+αυ
+<lb break="no"/>
+το
+</w>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K3V8" part="I">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πιθησει
+</w>
+<w>την</w>
+<w>χειρα</w>
+<lb/>
+<w>αυτου</w>
+<w>επι</w>
+<w>την</w>
+<w>
+κε
+<lb break="no"/>
+φαλην
+</w>
+<w>του</w>
+<w>δωρου</w>
+<lb/>
+<w>αυτου</w>
+<w>και</w>
+<w>σφαξει</w>
+<w>
+αυ
+<lb break="no"/>
+το
+</w>
+<w>παρα</w>
+<w>τας</w>
+<w>θυρας</w>
+<w>της</w>
+</ab>
+</div>
+</div>
+<pb n="10v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K3">
+<ab n="B03K3V8" part="F">
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρτυρι
+<lb break="no"/>
+ου
+</w>
+<w>και</w>
+<w>προσχεουσιν</w>
+<lb/>
+<w>οι</w>
+<w>υιοι</w>
+<w>ααρων</w>
+<w>οι</w>
+<w>
+ιε
+<lb break="no"/>
+ρεις
+</w>
+<w>το</w>
+<w>αιμα</w>
+<w>αυτου</w>
+<lb/>
+<w>επι</w>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<lb/>
+<w>κυκλω</w>
+</ab>
+<ab n="B03K3V9">
+<w>και</w>
+<w>
+προσοι
+<lb break="no"/>
+σει
+</w>
+<w>απο</w>
+<w>της</w>
+<w>θυσιας</w>
+<lb/>
+<w>του</w>
+<w>σωτηριου</w>
+<w>
+καρπω
+<lb break="no"/>
+μα
+</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>το</w>
+<w>στεαρ</w>
+<lb/>
+<w>και</w>
+<w>την</w>
+<w>οσφυν</w>
+<w>
+αμω
+<lb break="no"/>
+μον
+</w>
+<w>συν</w>
+<w>ταις</w>
+<w>ψοαις</w>
+<lb/>
+<w>περιελει</w>
+<w>αυτο</w>
+<w>και</w>
+<w>το</w>
+<lb/>
+<w>στεαρ</w>
+<w>το</w>
+<w>κατακαλυπτον</w>
+<lb/>
+<w>την</w>
+<w>κοιλιαν</w>
+<w>και</w>
+<w>παν</w>
+<lb/>
+<w>το</w>
+<w>στεαρ</w>
+<w>το</w>
+<w>επι</w>
+<w>της</w>
+<lb/>
+<w>κοιλιας</w>
+</ab>
+<ab n="B03K3V10">
+<w>και</w>
+<w>
+αμφοτε
+<lb break="no"/>
+ρους
+</w>
+<w>τους</w>
+<w>
+νεφρο
+<unclear reason="faded ink">υς</unclear>
+</w>
+<lb/>
+<w>και</w>
+<w>το</w>
+<w>στεαρ</w>
+<w>το</w>
+<w>επ</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+<w>το</w>
+<w>επι</w>
+<w>των</w>
+<w>
+μη
+<lb break="no"/>
+ριων
+</w>
+<w>και</w>
+<w>τον</w>
+<w>λοβον</w>
+<lb/>
+<w>τον</w>
+<w>επι</w>
+<w>του</w>
+<w>ηπατος</w>
+<lb/>
+<w>συν</w>
+<w>τοις</w>
+<w>νεφροις</w>
+<w>
+πε
+<lb break="no"/>
+ριελων
+</w>
+</ab>
+<ab n="B03K3V11">
+<w>ανοισει</w>
+<w>ο</w>
+<w>
+ιε
+<lb break="no"/>
+ρευς
+</w>
+<w>επι</w>
+<w>το</w>
+<w>
+θυσιαστη
+<lb break="no"/>
+ριον
+</w>
+<w>οσμην</w>
+<w>
+ευωδι
+<lb break="no"/>
+ας
+</w>
+<w>καρπωμα</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+</ab>
+<ab n="B03K3V12">
+<w>εαν</w>
+<w>δε</w>
+<w>απο</w>
+<w>των</w>
+<w>αιγων</w>
+<cb n="2"/>
+<lb/>
+<w>το</w>
+<w>δωρον</w>
+<w>αυτου</w>
+<w>και</w>
+<lb/>
+<w>προσαξει</w>
+<w>αυτο</w>
+<w>
+εναν
+<lb break="no"/>
+τι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K3V13">
+<w>και</w>
+<w>επιθησει</w>
+<lb/>
+<w>τας</w>
+<w>χειρας</w>
+<w>αυτου</w>
+<w>επι</w>
+<lb/>
+<w>την</w>
+<w>κεφαλην</w>
+<w>αυτου</w>
+<lb/>
+<w>και</w>
+<w>σφαξουσιν</w>
+<w>αυτο</w>
+<lb/>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>παρα</w>
+<w>τας</w>
+<lb/>
+<w>θυρας</w>
+<w>της</w>
+<w>σκηνης</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>και</w>
+<lb/>
+<w>προσχεουσιν</w>
+<w>οι</w>
+<w>υιοι</w>
+<lb/>
+<w>ααρων</w>
+<w>οι</w>
+<w>ιερεις</w>
+<w>το</w>
+<w>
+αι
+<lb break="no"/>
+μα
+</w>
+<w>αυτου</w>
+<w>επι</w>
+<w>το</w>
+<w>
+θυ
+<lb break="no"/>
+σιαστηριον
+</w>
+<w>κυκλω</w>
+<lb/>
+</ab>
+<ab n="B03K3V14">
+<w>και</w>
+<w>ανοισει</w>
+<w>απ</w>
+<w>αυτου</w>
+<lb/>
+<w>δωρον</w>
+<w>αυτου</w>
+<w>
+καρπω
+<lb break="no"/>
+μα
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>το</w>
+<w>στεαρ</w>
+<w>το</w>
+<w>
+κα
+<lb break="no"/>
+τακαλυπτον
+</w>
+<w>την</w>
+<w>
+κοι
+<lb break="no"/>
+λιαν
+</w>
+<w>και</w>
+<w>παν</w>
+<w>το</w>
+<w>
+στε
+<lb break="no"/>
+αρ
+</w>
+<w>το</w>
+<w>επι</w>
+<w>της</w>
+<w>κοιλιας</w>
+<lb/>
+</ab>
+<ab n="B03K3V15">
+<w>και</w>
+<w>αμφοτερους</w>
+<w>τους</w>
+<lb/>
+<w>νεφρους</w>
+<w>και</w>
+<w>παν</w>
+<w>το</w>
+<lb/>
+<w>στεαρ</w>
+<w>το</w>
+<w>επ</w>
+<w>αυτων</w>
+<w>το</w>
+<lb/>
+<w>επι</w>
+<w>των</w>
+<w>μηριων</w>
+<w>και</w>
+<lb/>
+<w>τον</w>
+<w>λοβον</w>
+<w>του</w>
+<w>
+ηπα
+<unclear reason="faded ink">τος</unclear>
+</w>
+<lb/>
+<w>συν</w>
+<w>τοις</w>
+<w>νεφροις</w>
+<w>
+πε
+<lb break="no"/>
+ριελει
+</w>
+</ab>
+<ab n="B03K3V16" part="I">
+<w>και</w>
+<w>ανοισει</w>
+<w>
+αυ
+<lb break="no"/>
+τα
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>επι</w>
+<w>το</w>
+<w part="I">
+θυ
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="11r" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K3">
+<ab n="B03K3V16" part="F">
+<w part="F">σιαστηριον</w>
+<w>αρτον</w>
+<lb/>
+<w>καρπωμα</w>
+<w>οσμην</w>
+<w>
+ευ
+<lb break="no"/>
+ωδιας
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>παν</w>
+<w>στεαρ</w>
+<lb/>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K3V17">
+<w>νομιμον</w>
+<w>εις</w>
+<lb/>
+<w>τον</w>
+<w>αιωνα</w>
+<w>εις</w>
+<w>τας</w>
+<w>
+γε
+<lb break="no"/>
+νεας
+</w>
+<w>υμων</w>
+<w>εν</w>
+<w>παση</w>
+<lb/>
+<w>κατοικια</w>
+<w>υμων</w>
+<w>παν</w>
+<lb/>
+<w>στεαρ</w>
+<w>και</w>
+<w>παν</w>
+<w>αιμα</w>
+<w>
+ου
+<lb break="no"/>
+κ
+</w>
+<w>εδεσθε</w>
+<lb/>
+</ab>
+</div>
+<div type="chapter" n="B03K4">
+<ab n="B03K4V1">
+<w>και</w>
+<w>ελαλησεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>προς</w>
+<lb/>
+<w>μωσην</w>
+<w>λεγων</w>
+</ab>
+<ab n="B03K4V2">
+<w>
+λαλη
+<lb break="no"/>
+σον
+</w>
+<w>προς</w>
+<w>τους</w>
+<w>υιους</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>λεγων</w>
+<w>ψυχη</w>
+<w>εαν</w>
+<lb/>
+<w>αμαρτη</w>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>
+α
+<lb break="no"/>
+κουσιως
+</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>απαντων</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>απο</w>
+<w>παντων</w>
+</seg>
+</rdg>
+</app>
+<lb/>
+<w>των</w>
+<w>προσταγματων</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>ων</w>
+<w>ου</w>
+<w>δει</w>
+<w>ποιειν</w>
+<lb/>
+<w>και</w>
+<w>ποιηση</w>
+<w>εν</w>
+<w>τι</w>
+<w>απ</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+</ab>
+<ab n="B03K4V3">
+<w>εαν</w>
+<w>μεν</w>
+<w>ο</w>
+<w>
+αρχι
+<lb break="no"/>
+ερευς
+</w>
+<w>ο</w>
+<w>κεχρεισμενος</w>
+<lb/>
+<w>αμαρτη</w>
+<w>του</w>
+<w>τον</w>
+<w>λαον</w>
+<lb/>
+<w>αμαρτειν</w>
+<w>και</w>
+<w>
+προσα
+<lb break="no"/>
+ξει
+</w>
+<w>περι</w>
+<w>της</w>
+<w>αμαρτιας</w>
+<lb/>
+<w>αυτου</w>
+<w>ης</w>
+<w>ημαρτεν</w>
+<w>
+μο
+<lb break="no"/>
+σχον
+</w>
+<w>εκ</w>
+<w>βοων</w>
+<w>
+αμω
+<lb break="no"/>
+μον
+</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>περι</w>
+<w>της</w>
+<cb n="2"/>
+<lb/>
+<w>αμαρτιας</w>
+</ab>
+<ab n="B03K4V4">
+<w>και</w>
+<w>
+προσ
+<lb break="no"/>
+αξει
+</w>
+<w>τον</w>
+<w>μοσχον</w>
+<w>
+πα
+<lb break="no"/>
+ρα
+</w>
+<w>την</w>
+<w>θυραν</w>
+<w>της</w>
+<w>
+σκη
+<lb break="no"/>
+νης
+</w>
+<w>του</w>
+<w>μαρτυριου</w>
+<lb/>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+επιθη
+<lb break="no"/>
+σει
+</w>
+<w>την</w>
+<w>χειρα</w>
+<w>αυτου</w>
+<lb/>
+<w>επι</w>
+<w>την</w>
+<w>κεφαλην</w>
+<lb/>
+<w>του</w>
+<w>μοσχου</w>
+<w>
+εναν
+<lb break="no"/>
+τι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>σφαξει</w>
+<w>τον</w>
+<lb/>
+<w>μοσχον</w>
+<w>ενωπιον</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K4V5">
+<w>και</w>
+<w>λαβων</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>ο</w>
+<w>χρειστος</w>
+<w>ο</w>
+<w>
+τετελε
+<unclear reason="faded ink">ι</unclear>
+<lb break="no"/>
+ωμενος
+</w>
+<w>τας</w>
+<w>χειρας</w>
+<lb/>
+<w>απο</w>
+<w>του</w>
+<w>αιματος</w>
+<w>του</w>
+<lb/>
+<w>μοσχου</w>
+<w>και</w>
+<w>εισοισει</w>
+<lb/>
+<w>αυτο</w>
+<w>εις</w>
+<w>την</w>
+<w>σκηνην</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+</ab>
+<ab n="B03K4V6">
+<w>και</w>
+<w>
+βα
+<lb break="no"/>
+ψει
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>τον</w>
+<w>
+δα
+<lb break="no"/>
+κτυλον
+</w>
+<w>αυτου</w>
+<w>εις</w>
+<w>το</w>
+<lb/>
+<w>αιμα</w>
+<w>και</w>
+<w>προσρανει</w>
+<lb/>
+<w>απο</w>
+<w>του</w>
+<w>αιματος</w>
+<w>
+επτα
+<lb break="no"/>
+κις
+</w>
+<w>τω</w>
+<w>δακτυλω</w>
+<w>
+εναν
+<lb break="no"/>
+τι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>κατα</w>
+<w>το</w>
+<w>
+καταπε
+<lb break="no"/>
+τασμα
+</w>
+<w>το</w>
+<w>αγιον</w>
+</ab>
+<ab n="B03K4V7" part="I">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πιθησει
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>απο</w>
+<lb/>
+<w>του</w>
+<w>αιματος</w>
+<w>του</w>
+<w part="I">
+μο
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="11v" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K4">
+<ab n="B03K4V7" part="F">
+<w part="F">σχου</w>
+<w>επι</w>
+<w>τα</w>
+<w>κερατα</w>
+<lb/>
+<w>του</w>
+<w>θυσιαστηριου</w>
+<lb/>
+<w>του</w>
+<w>θυμιαματος</w>
+<w>της</w>
+<lb/>
+<w>συνθεσεως</w>
+<w>εναντι</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>εστιν</w>
+<w>εν</w>
+<w>τη</w>
+<w>
+σκη
+<lb break="no"/>
+νη
+</w>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>και</w>
+<lb/>
+<w>παν</w>
+<w>το</w>
+<w>αιμα</w>
+<w>του</w>
+<w>
+μο
+<lb break="no"/>
+σχου
+</w>
+<w>εκχεει</w>
+<w>παρα</w>
+<w>την</w>
+<lb/>
+<w>βασιν</w>
+<w>του</w>
+<w>
+θυσιαστη
+<lb break="no"/>
+ριου
+</w>
+<w>της</w>
+<w>
+ολοκαυτω
+<lb break="no"/>
+σεως
+</w>
+<w>ο</w>
+<w>εστιν</w>
+<w>παρα</w>
+<w>τας</w>
+<lb/>
+<w>θυρας</w>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<lb/>
+<w>μαρτυριου</w>
+</ab>
+<ab n="B03K4V8">
+<w>και</w>
+<w>παν</w>
+<lb/>
+<w>το</w>
+<w>στεαρ</w>
+<w>του</w>
+<w>μοσχου</w>
+<lb/>
+<w>του</w>
+<w>της</w>
+<w>αμαρτιας</w>
+<w>
+πε
+<lb break="no"/>
+ριελει
+</w>
+<w>απ</w>
+<w>αυτου</w>
+<w>το</w>
+<lb/>
+<w>στεαρ</w>
+<w>το</w>
+<w>
+κατακαλυ
+<lb break="no"/>
+πτον
+</w>
+<w>τα</w>
+<w>ενδοσθια</w>
+<w>και</w>
+<lb/>
+<w>παν</w>
+<w>το</w>
+<w>στεαρ</w>
+<w>το</w>
+<w>επι</w>
+<lb/>
+<w>των</w>
+<w>ενδοσθιων</w>
+</ab>
+<ab n="B03K4V9">
+<w>και</w>
+<lb/>
+<w>τους</w>
+<w>δυο</w>
+<w>νεφρους</w>
+<w>και</w>
+<lb/>
+<w>το</w>
+<w>στεαρ</w>
+<w>το</w>
+<w>επ</w>
+<w>αυτων</w>
+<lb/>
+<w>ο</w>
+<w>εστιν</w>
+<w>επι</w>
+<w>των</w>
+<w>μηριων</w>
+<lb/>
+<w>και</w>
+<w>τον</w>
+<w>λοβον</w>
+<w>τον</w>
+<w>
+ε
+<lb break="no"/>
+πι
+</w>
+<w>του</w>
+<w>ηπατος</w>
+<w>συν</w>
+<lb/>
+<w>τοις</w>
+<w>νεφροις</w>
+<w>
+περιε
+<cb n="2" break="no"/>
+<lb break="no"/>
+λει
+</w>
+<w>αυτο</w>
+</ab>
+<ab n="B03K4V10">
+<w>ον</w>
+<w>τροπον</w>
+<lb/>
+<w>αφαιρειται</w>
+<w>απο</w>
+<w>του</w>
+<lb/>
+<w>μοσχου</w>
+<w>του</w>
+<w>της</w>
+<w>
+θυσι
+<lb break="no"/>
+ας
+</w>
+<w>του</w>
+<w>σωτηριου</w>
+<w>και</w>
+<lb/>
+<w>ανοισει</w>
+<w>αυτο</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>επι</w>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<lb/>
+<w>της</w>
+<w>καρπωσεως</w>
+</ab>
+<ab n="B03K4V11">
+<w>και</w>
+<lb/>
+<w>το</w>
+<w>δερμα</w>
+<w>του</w>
+<w>μοσχου</w>
+<lb/>
+<w>και</w>
+<w>πασαν</w>
+<w>αυτου</w>
+<w>την</w>
+<lb/>
+<w>σαρκα</w>
+<w>συν</w>
+<w>τη</w>
+<w>κεφαλη</w>
+<lb/>
+<w>αυτου</w>
+<w>και</w>
+<w>τοις</w>
+<w>
+ακρωτη
+<lb break="no"/>
+ριοις
+</w>
+<w>και</w>
+<w>τη</w>
+<w>κοιλια</w>
+<w>και</w>
+<lb/>
+<w>τη</w>
+<w>κοπρω</w>
+</ab>
+<ab n="B03K4V12">
+<w>και</w>
+<w>
+εξοισου
+<lb break="no"/>
+σιν
+</w>
+<w>
+ο
+<unclear reason="faded ink">λ</unclear>
+ον
+</w>
+<w>τον</w>
+<w>μοσχον</w>
+<lb/>
+<w>εξω</w>
+<w>της</w>
+<w>παρεμβολης</w>
+<lb/>
+<w>εις</w>
+<w>τοπον</w>
+<w>καθαρον</w>
+<lb/>
+<w>ου</w>
+<w>εκχεουσιν</w>
+<w>την</w>
+<lb/>
+<w>σποδιαν</w>
+<w>και</w>
+<w>
+κατακαυ
+<lb break="no"/>
+σουσιν
+</w>
+<w>αυτον</w>
+<w>επι</w>
+<w>
+ξυ
+<lb break="no"/>
+λων
+</w>
+<w>εν</w>
+<w>πυρι</w>
+<w>επι</w>
+<w>της</w>
+<lb/>
+<w>εκχυσεως</w>
+<w>της</w>
+<w>
+σπο
+<lb break="no"/>
+διας
+</w>
+<w>καυθησεται</w>
+<lb/>
+</ab>
+<ab n="B03K4V13" part="I">
+<w>εαν</w>
+<w>δε</w>
+<w>πασα</w>
+<w>
+συναγω
+<lb break="no"/>
+γη
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>αγνοηση</w>
+<w>και</w>
+<lb/>
+<w>λαθη</w>
+<w>ρημα</w>
+<w>εξ</w>
+<w>
+οφθαλ
+<lb break="no"/>
+μων
+</w>
+<w>της</w>
+<w>συναγωγης</w>
+</ab>
+</div>
+</div>
+<pb n="12r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K4">
+<ab n="B03K4V13" part="F">
+<w>και</w>
+<w>ποιησωσιν</w>
+<w>μιαν</w>
+<lb/>
+<w>απο</w>
+<w>πασων</w>
+<w>των</w>
+<w>
+εν
+<lb break="no"/>
+τολων
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>η</w>
+<w>ου</w>
+<w>
+ποιη
+<lb break="no"/>
+θησεται
+</w>
+<w>και</w>
+<w>
+πλημμε
+<lb break="no"/>
+λησωσιν
+</w>
+</ab>
+<ab n="B03K4V14">
+<w>και</w>
+<w>γνωσθη</w>
+<lb/>
+<w>αυτοις</w>
+<w>η</w>
+<w>αμαρτια</w>
+<w>ην</w>
+<lb/>
+<w>ημαρτον</w>
+<w>εν</w>
+<w>αυτη</w>
+<w>και</w>
+<lb/>
+<w>προσαξει</w>
+<w>η</w>
+<w>
+συναγω
+<lb break="no"/>
+γη
+</w>
+<w>μοσχον</w>
+<w>εκ</w>
+<w>βοων</w>
+<lb/>
+<w>αμωμον</w>
+<w>περι</w>
+<w>της</w>
+<w>
+α
+<lb break="no"/>
+μαρτιας
+</w>
+<w>και</w>
+<w>προσαξει</w>
+<lb/>
+<w>αυτον</w>
+<w>παρα</w>
+<w>την</w>
+<w>θυραν</w>
+<lb/>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρ
+<lb break="no"/>
+τυριου
+</w>
+</ab>
+<ab n="B03K4V15">
+<w>και</w>
+<w>
+επιθησου
+<lb break="no"/>
+σιν
+</w>
+<w>οι</w>
+<w>πρεσβυτεροι</w>
+<w>της</w>
+<lb/>
+<w>συναγωγης</w>
+<w>τας</w>
+<w>
+χει
+<lb break="no"/>
+ρας
+</w>
+<w>αυτων</w>
+<w>επι</w>
+<w>την</w>
+<lb/>
+<w>κεφαλην</w>
+<w>του</w>
+<w>μοσχου</w>
+<lb/>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+σφαξου
+<lb break="no"/>
+σιν
+</w>
+<w>τον</w>
+<w>μοσχον</w>
+<w>
+εναν
+<lb break="no"/>
+<unclear reason="damage to page">τι</unclear>
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">
+κ
+<unclear reason="damage to page">υ</unclear>
+</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K4V16">
+<w>
+<unclear reason="damage to page">κ</unclear>
+<supplied source="na28" reason="lacuna">α</supplied>
+<unclear reason="damage to page">ι</unclear>
+</w>
+<w>
+<unclear reason="damage to page">ε</unclear>
+ισοισει
+</w>
+<w>ο</w>
+<w>
+ιε
+<lb break="no"/>
+<supplied source="na28" reason="lacuna">ρευς</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">ο</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">χρειστος</supplied>
+</w>
+<w>
+<unclear reason="damage to page">α</unclear>
+πο
+</w>
+<lb/>
+<gap reason="lacuna" unit="line" extent="4"/>
+<cb n="2"/>
+<lb/>
+</ab>
+<ab n="B03K4V17">
+<w>αιματος</w>
+<w>του</w>
+<w>μοσχου</w>
+<lb/>
+<w>και</w>
+<w>ρανει</w>
+<w>επτακις</w>
+<w>
+εναν
+<lb break="no"/>
+τι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>κατενωπιον</w>
+<lb/>
+<w>του</w>
+<w>
+καταπετασ
+<unclear reason="faded ink">μ</unclear>
+ατος
+</w>
+<lb/>
+<w>του</w>
+<w>αγιου</w>
+</ab>
+<ab n="B03K4V18">
+<w>και</w>
+<w>
+απ
+<unclear reason="faded ink">ο</unclear>
+</w>
+<w>
+<unclear reason="faded ink">τ</unclear>
+ου
+</w>
+<lb/>
+<w>αιματος</w>
+<w>
+επιθη
+<unclear reason="faded ink">σ</unclear>
+ει
+</w>
+<lb/>
+<w>ο</w>
+<w>ιερευς</w>
+<w>επι</w>
+<w>τα</w>
+<w>
+κερα
+<lb break="no"/>
+τα
+</w>
+<w>του</w>
+<w>θυσιαστηριου</w>
+<lb/>
+<w>των</w>
+<w>θυμιαματων</w>
+<lb/>
+<w>της</w>
+<w>
+συνθε
+<unclear reason="faded ink">σ</unclear>
+εως
+</w>
+<w>ο</w>
+<w>
+ε
+<lb break="no"/>
+στιν
+</w>
+<w>ενωπιον</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>ο</w>
+<lb/>
+<w>εστιν</w>
+<w>επι</w>
+<w>της</w>
+<w>σκηνης</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>και</w>
+<w>το</w>
+<lb/>
+<w>παν</w>
+<w>αιμα</w>
+<w>εκχεει</w>
+<w>προς</w>
+<lb/>
+<w>την</w>
+<w>βασιν</w>
+<w>του</w>
+<w>
+θυσια
+<lb break="no"/>
+στηριου
+</w>
+<w>των</w>
+<w>
+καρπω
+<lb break="no"/>
+σεων
+</w>
+<w>το</w>
+<w>ον</w>
+<w>προς</w>
+<w>τη</w>
+<lb/>
+<w>θυρα</w>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<lb/>
+<w>μαρτυριου</w>
+</ab>
+<ab n="B03K4V19">
+<w>και</w>
+<w>το</w>
+<w>παν</w>
+<lb/>
+<w>στεαρ</w>
+<w>αυτου</w>
+<w>περιελει</w>
+<lb/>
+<w>απ</w>
+<w>αυτου</w>
+<w>και</w>
+<w>ανοισει</w>
+<lb/>
+<w>επι</w>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<lb/>
+</ab>
+<ab n="B03K4V20" part="I">
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">π</supplied>
+οιησει
+</w>
+<w>τον</w>
+<w>
+μο
+<lb break="no"/>
+<supplied source="na28" reason="lacuna">σχον</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">ον</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">τροπο</supplied>
+ν
+</w>
+<w>
+ε
+<lb break="no"/>
+<gap reason="lacuna" unit="line" extent="2"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="12v" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K4">
+<ab n="B03K4V20" part="F">
+<w part="F">τω</w>
+<w>και</w>
+<w>εξειλασετε</w>
+<lb/>
+<w>περι</w>
+<w>αυτων</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>και</w>
+<w>αφεθησεται</w>
+<w>
+αυ
+<lb break="no"/>
+τοις
+</w>
+<w>η</w>
+<w>αμαρτια</w>
+</ab>
+<ab n="B03K4V21">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+ξοισουσιν
+</w>
+<w>τον</w>
+<w>μοσχον</w>
+<lb/>
+<w>ολον</w>
+<w>εξω</w>
+<w>της</w>
+<w>
+πα
+<lb break="no"/>
+ρεμβολης
+</w>
+<w>και</w>
+<w>
+κατα
+<lb break="no"/>
+καυσουσιν
+</w>
+<w>τον</w>
+<w>
+μο
+<lb break="no"/>
+σχον
+</w>
+<w>ον</w>
+<w>τροπον</w>
+<w>
+κα
+<lb break="no"/>
+τεκαυσαν
+</w>
+<w>τον</w>
+<w>μοσχον</w>
+<lb/>
+<w>τον</w>
+<w>προτερον</w>
+<w>
+αμαρ
+<lb break="no"/>
+τιας
+</w>
+<w>συναγωγης</w>
+<w>εστιν</w>
+<lb/>
+</ab>
+<ab n="B03K4V22">
+<w>εαν</w>
+<w>δε</w>
+<w>ο</w>
+<w>αρχων</w>
+<w>
+αμαρ
+<lb break="no"/>
+δερμτη
+</w>
+<w>και</w>
+<w>ποιηση</w>
+<w>μιαν</w>
+<lb/>
+<w>απο</w>
+<w>πασων</w>
+<w>των</w>
+<w>
+εν
+<lb break="no"/>
+τολων
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>του</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θυ</hi>
+</abbr>
+</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>η</w>
+<w>ου</w>
+<w>
+ποιηθησε
+<lb break="no"/>
+ται
+</w>
+<w>ακουσειως</w>
+<w>και</w>
+<lb/>
+<w>πλημμεληση</w>
+</ab>
+<ab n="B03K4V23">
+<w>και</w>
+<w>
+γνω
+<lb break="no"/>
+σθη
+</w>
+<w>αυτω</w>
+<w>η</w>
+<w>αμαρτια</w>
+<lb/>
+<w>ην</w>
+<w>ημαρτεν</w>
+<w>εν</w>
+<w>αυτη</w>
+<lb/>
+<w>και</w>
+<w>προσοισει</w>
+<w>το</w>
+<w>
+δω
+<lb break="no"/>
+ρον
+</w>
+<w>αυτου</w>
+<w>
+χι
+<unclear reason="damage to page">μ</unclear>
+<supplied source="na28" reason="lacuna">αρον</supplied>
+</w>
+<lb/>
+<w>εξ</w>
+<w>
+<unclear reason="damage to page">α</unclear>
+<supplied source="na28" reason="lacuna">ιγων</supplied>
+</w>
+<lb/>
+<gap reason="lacuna" unit="line" extent="3"/>
+<cb n="2"/>
+<lb/>
+</ab>
+<ab n="B03K4V24">
+<w>του</w>
+<w>χιμαρου</w>
+<w>και</w>
+<w>
+σφα
+<lb break="no"/>
+ξουσιν
+</w>
+<w>αυτον</w>
+<w>εν</w>
+<w>
+το
+<lb break="no"/>
+πω
+</w>
+<w>ου</w>
+<w>σφαζουσιν</w>
+<w>τα</w>
+<lb/>
+<w>ολοκαυτωματα</w>
+<w>
+ενω
+<lb break="no"/>
+πιον
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>αμαρτιας</w>
+<w>
+εσ
+<lb break="no"/>
+τιν
+</w>
+</ab>
+<ab n="B03K4V25">
+<w>και</w>
+<w>επιθησει</w>
+<w>ο</w>
+<w>
+ιε
+<lb break="no"/>
+ρευς
+</w>
+<w>απο</w>
+<w>του</w>
+<w>
+αιματ
+<unclear reason="faded ink">ο</unclear>
+<supplied source="na28" reason="illegible">ς</supplied>
+</w>
+<lb/>
+<w>του</w>
+<w>της</w>
+<w>αμαρτιας</w>
+<w>τω</w>
+<lb/>
+<w>δακτυλω</w>
+<w>αυτου</w>
+<w>
+κ
+<unclear reason="faded ink">αι</unclear>
+</w>
+<lb/>
+<w>δωσει</w>
+<w>επι</w>
+<w>τα</w>
+<w>
+κερ
+<unclear reason="faded ink">ατα</unclear>
+</w>
+<lb/>
+<w>του</w>
+<w>
+θυσιαστηριο
+<unclear reason="faded ink">υ</unclear>
+</w>
+<w>
+<unclear reason="faded ink">τ</unclear>
+<supplied source="na28" reason="illegible">ων</supplied>
+</w>
+<lb/>
+<w>ολοκαυτωματων</w>
+<w>
+κ
+<unclear reason="faded ink">αι</unclear>
+</w>
+<lb/>
+<w>το</w>
+<w>παν</w>
+<w>αιμα</w>
+<w>αυτου</w>
+<w>
+εκ
+<lb break="no"/>
+χεει
+</w>
+<w>παρα</w>
+<w>την</w>
+<w>βασιν</w>
+<lb/>
+<w>του</w>
+<w>θυσιαστηριου</w>
+<w>
+<unclear reason="faded ink">των</unclear>
+</w>
+<lb/>
+<w>
+ολοκαυτωματω
+<unclear reason="faded ink">ν</unclear>
+</w>
+<lb/>
+</ab>
+<ab n="B03K4V26">
+<w>και</w>
+<w>το</w>
+<w>παν</w>
+<w>στεαρ</w>
+<w>
+αυτο
+<supplied source="na28" reason="illegible">υ</supplied>
+</w>
+<lb/>
+<w>ανοισει</w>
+<w>επι</w>
+<w>το</w>
+<w>
+θυσια
+<lb break="no"/>
+στηριον
+</w>
+<w>ωσπερ</w>
+<w>το</w>
+<lb/>
+<w>στεαρ</w>
+<w>θυσιας</w>
+<w>
+σωτη
+<lb break="no"/>
+ριου
+</w>
+<w>και</w>
+<w>
+<unclear reason="damage to page">εξει</unclear>
+<supplied source="na28" reason="lacuna">λασεται</supplied>
+</w>
+<lb/>
+<w>περι</w>
+<gap reason="lacuna" unit="char" extent="12"/>
+<lb/>
+<gap reason="lacuna" unit="line" extent="4"/>
+</ab>
+</div>
+</div>
+<pb n="13r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K13">
+<ab n="B03K13V49" part="F">
+<w>ιματιω</w>
+<w>η</w>
+<w>εν</w>
+<w>τω</w>
+<w>
+δερμα
+<lb break="no"/>
+τι
+</w>
+<w>η</w>
+<w>εν</w>
+<w>τω</w>
+<w>στημονι</w>
+<w>η</w>
+<lb/>
+<w>εν</w>
+<w>τη</w>
+<w>κροκη</w>
+<w>η</w>
+<w>εν</w>
+<w>
+παν
+<lb break="no"/>
+τι
+</w>
+<w>σκευει</w>
+<w>εργασιμω</w>
+<lb/>
+<w>δερματος</w>
+<w>αφη</w>
+<w>λεπρας</w>
+<lb/>
+<w>εστιν</w>
+<w>και</w>
+<w>δειξει</w>
+<w>τω</w>
+<w>
+ι
+<lb break="no"/>
+ερει
+</w>
+</ab>
+<ab n="B03K13V50">
+<w>και</w>
+<w>οψεται</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>την</w>
+<w>αφην</w>
+<w>και</w>
+<w>
+αφορι
+<lb break="no"/>
+ει
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>την</w>
+<w>αφην</w>
+<lb/>
+<w>επτα</w>
+<w>ημερας</w>
+</ab>
+<ab n="B03K13V51">
+<w>και</w>
+<w>
+οψε
+<lb break="no"/>
+ται
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>την</w>
+<w>αφην</w>
+<lb/>
+<w>τη</w>
+<w>ημερα</w>
+<w>τη</w>
+<w>εβδομη</w>
+<lb/>
+<w>εαν</w>
+<w>δε</w>
+<w>διαχεηται</w>
+<w>η</w>
+<w>
+α
+<lb break="no"/>
+φη
+</w>
+<w>εν</w>
+<w>τω</w>
+<w>ιματιω</w>
+<w>η</w>
+<w>εν</w>
+<lb/>
+<w>τω</w>
+<w>στημονι</w>
+<w>η</w>
+<w>εν</w>
+<w>τη</w>
+<lb/>
+<w>κροκη</w>
+<w>η</w>
+<w>εν</w>
+<w>τω</w>
+<w>
+δερμα
+<lb break="no"/>
+τι
+</w>
+<w>κατα</w>
+<w>παντα</w>
+<w>οσα</w>
+<w>αν</w>
+<lb/>
+<w>ποιηθη</w>
+<w>δερματα</w>
+<w>εν</w>
+<lb/>
+<w>τη</w>
+<w>εργασια</w>
+<w>λεπρα</w>
+<w>
+εμ
+<lb break="no"/>
+μονος
+</w>
+<w>εστιν</w>
+<w>η</w>
+<w>αφη</w>
+<w>
+α
+<lb break="no"/>
+καθαρτος
+</w>
+<w>εστιν</w>
+</ab>
+<ab n="B03K13V52">
+<w>
+κατα
+<lb break="no"/>
+καυσει
+</w>
+<w>το</w>
+<w>ιματιον</w>
+<w>η</w>
+<lb/>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>την</w>
+</rdg>
+<rdg type="corr" hand="corrector" rend="strikethrough">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>τον</w>
+</seg>
+</rdg>
+</app>
+<w>στημονα</w>
+<w>η</w>
+<w>την</w>
+<lb/>
+<w>κροκην</w>
+<w>εν</w>
+<w>τοις</w>
+<w>
+ερε
+<lb break="no"/>
+οις
+</w>
+<w>η</w>
+<w>εν</w>
+<w>τοις</w>
+<w>λινοις</w>
+<lb/>
+<w>η</w>
+<w>εν</w>
+<w>παντι</w>
+<w>σκευει</w>
+<w>
+δερ
+<lb break="no"/>
+ματινω
+</w>
+<w>εν</w>
+<w>ω</w>
+<w>αν</w>
+<w>η</w>
+<w>εν</w>
+<cb n="2"/>
+<lb/>
+<w>αυτω</w>
+<w>η</w>
+<w>αφη</w>
+<w>οτι</w>
+<w>λεπρα</w>
+<lb/>
+<w>εμμονος</w>
+<w>εστιν</w>
+<w>εν</w>
+<lb/>
+<w>πυρι</w>
+<w>κατακαυθησεται</w>
+<lb/>
+</ab>
+<ab n="B03K13V53">
+<w>εαν</w>
+<w>δε</w>
+<w>ιδη</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>και</w>
+<lb/>
+<w>μη</w>
+<w>διαχεηται</w>
+<w>η</w>
+<w>αφη</w>
+<lb/>
+<w>εν</w>
+<w>τω</w>
+<w>ιματιω</w>
+<w>η</w>
+<w>εν</w>
+<w>τω</w>
+<lb/>
+<w>στημονι</w>
+<w>η</w>
+<w>εν</w>
+<w>τη</w>
+<w>
+κρο
+<lb break="no"/>
+κη
+</w>
+<w>η</w>
+<w>εν</w>
+<w>παντι</w>
+<w>σκευει</w>
+<lb/>
+<w>δερματινω</w>
+</ab>
+<ab n="B03K13V54">
+<w>και</w>
+<w>
+συν
+<lb break="no"/>
+ταξει
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>και</w>
+<w>
+πλυ
+<lb break="no"/>
+νει
+</w>
+<w>εφ</w>
+<w>ου</w>
+<w>αν</w>
+<w>η</w>
+<w>επ</w>
+<w>αυτω</w>
+<lb/>
+<w>η</w>
+<w>αφη</w>
+<w>και</w>
+<w>αφοριει</w>
+<w>ο</w>
+<w>
+ι
+<lb break="no"/>
+ερευς
+</w>
+<w>αυτο</w>
+<w>επτα</w>
+<w>
+η
+<unclear reason="faded ink">μ</unclear>
+ε
+<lb break="no"/>
+ρας
+</w>
+<w>το</w>
+<w>δευτερον</w>
+</ab>
+<ab n="B03K13V55">
+<w>και</w>
+<lb/>
+<w>οψεται</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>μετα</w>
+<lb/>
+<w>το</w>
+<w>πλυθηναι</w>
+<w>την</w>
+<w>αφην</w>
+<lb/>
+<w>και</w>
+<w>ηδε</w>
+<w>μη</w>
+<w>μετεβαλη</w>
+<lb/>
+<w>την</w>
+<w>οψιν</w>
+<w>αυτης</w>
+<w>και</w>
+<lb/>
+<w>η</w>
+<w>αφη</w>
+<w>ου</w>
+<w>διαχειται</w>
+<w>
+α
+<lb break="no"/>
+καθαρτον
+</w>
+<w>εστιν</w>
+<w>εν</w>
+<lb/>
+<w>πυρι</w>
+<w>
+κατακαυθησε
+<lb break="no"/>
+ται
+</w>
+<w>εστηρισται</w>
+<w>εν</w>
+<w>τω</w>
+<lb/>
+<w>ιματιω</w>
+<w>η</w>
+<w>εν</w>
+<w>τω</w>
+<w>
+στη
+<lb break="no"/>
+μονι
+</w>
+<w>η</w>
+<w>εν</w>
+<w>τη</w>
+<w>κροκη</w>
+<lb/>
+</ab>
+<ab n="B03K13V56" part="I">
+<w>και</w>
+<w>εαν</w>
+<w>ιδη</w>
+<w>ο</w>
+<w>
+ιερευ
+<unclear reason="faded ink">ς</unclear>
+</w>
+<lb/>
+<w>και</w>
+<w>μη</w>
+<w>η</w>
+<w>αμαυρα</w>
+<w>
+<unclear reason="faded ink">η</unclear>
+</w>
+<w>
+<unclear reason="faded ink">α</unclear>
+<lb break="no"/>
+φη
+</w>
+<w>μετα</w>
+<w>το</w>
+<w>πλυθηναι</w>
+</ab>
+</div>
+</div>
+<pb n="13v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K13">
+<ab n="B03K13V56" part="F">
+<w>αυτο</w>
+<w>απορρηξει</w>
+<w>αυτο</w>
+<lb/>
+<w>απο</w>
+<w>του</w>
+<w>ιματιου</w>
+<w>η</w>
+<w>απο</w>
+<lb/>
+<w>του</w>
+<w>δερματος</w>
+<w>η</w>
+<w>απο</w>
+<lb/>
+<w>του</w>
+<w>στημονος</w>
+<w>η</w>
+<w>απο</w>
+<lb/>
+<w>της</w>
+<w>κροκης</w>
+</ab>
+<ab n="B03K13V57">
+<w>εαν</w>
+<w>δε</w>
+<w>
+ο
+<lb break="no"/>
+φθη
+</w>
+<w>ετι</w>
+<w>εν</w>
+<w>τω</w>
+<w>ιματιω</w>
+<lb/>
+<w>η</w>
+<w>εν</w>
+<w>τω</w>
+<w>στημονι</w>
+<w>η</w>
+<w>εν</w>
+<lb/>
+<w>τη</w>
+<w>κροκη</w>
+<w>η</w>
+<w>εν</w>
+<w>παντι</w>
+<lb/>
+<w>σκευει</w>
+<w>δερματινω</w>
+<lb/>
+<w>λεπρα</w>
+<w>εξανθουσα</w>
+<w>
+ε
+<lb break="no"/>
+στιν
+</w>
+<w>εν</w>
+<w>πυρι</w>
+<w>
+κατακαυ
+<lb break="no"/>
+θησεται
+</w>
+<w>εν</w>
+<w>ω</w>
+<w>εστιν</w>
+<lb/>
+<w>η</w>
+<w>αφη</w>
+</ab>
+<ab n="B03K13V58">
+<w>και</w>
+<w>το</w>
+<w>ιματιον</w>
+<lb/>
+<w>η</w>
+<w>ο</w>
+<w>στημων</w>
+<w>η</w>
+<w>η</w>
+<w>
+κρο
+<lb break="no"/>
+κη
+</w>
+<w>η</w>
+<w>παν</w>
+<w>σκευος</w>
+<w>
+δερ
+<lb break="no"/>
+ματινον
+</w>
+<w>ο</w>
+<w>
+πλυθησε
+<lb break="no"/>
+ται
+</w>
+<w>και</w>
+<w>αποστησεται</w>
+<lb/>
+<w>απ</w>
+<w>αυτου</w>
+<app>
+<rdg type="orig" hand="firsthand"/>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>η</w>
+</seg>
+</rdg>
+</app>
+<w>αφη</w>
+<w>και</w>
+<lb/>
+<w>πλυθησεται</w>
+<w>το</w>
+<w>
+δευ
+<lb break="no"/>
+τερον
+</w>
+<w>και</w>
+<w>καθαρον</w>
+<lb/>
+<w>εσται</w>
+</ab>
+<ab n="B03K13V59">
+<w>ουτος</w>
+<w>ο</w>
+<w>νομος</w>
+<lb/>
+<w>αφης</w>
+<w>λεπρας</w>
+<w>
+ιματι
+<lb break="no"/>
+ου
+</w>
+<w>ερεου</w>
+<w>η</w>
+<w>
+στιππυ
+<lb break="no"/>
+ινου
+</w>
+<w>η</w>
+<w>στημονος</w>
+<lb/>
+<w>η</w>
+<w>κροκης</w>
+<w>η</w>
+<w>παντος</w>
+<lb/>
+<w>σκευους</w>
+<w>
+δερματι
+<lb break="no"/>
+νου
+</w>
+<w>εις</w>
+<w>το</w>
+<w>καθαρισαι</w>
+<cb n="2"/>
+<lb/>
+<w>αυτο</w>
+<w>η</w>
+<w>μιαναι</w>
+<w>αυτο</w>
+<lb/>
+</ab>
+</div>
+<div type="chapter" n="B03K14">
+<ab n="B03K14V1">
+<w>και</w>
+<w>ελαλησεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>προς</w>
+<lb/>
+<w>μωσην</w>
+<w>λεγων</w>
+</ab>
+<ab n="B03K14V2">
+<w>ουτος</w>
+<lb/>
+<w>εσται</w>
+<w>ο</w>
+<w>νομος</w>
+<w>του</w>
+<w>
+λε
+<lb break="no"/>
+πρου
+</w>
+<w>η</w>
+<w>αν</w>
+<w>ημερα</w>
+<w>
+καθα
+<lb break="no"/>
+ρισθη
+</w>
+<w>και</w>
+<w>
+προσαχθη
+<lb break="no"/>
+σεται
+</w>
+<w>προς</w>
+<w>τον</w>
+<w>ιερεα</w>
+<lb/>
+</ab>
+<ab n="B03K14V3">
+<w>και</w>
+<w>εξελευσεται</w>
+<w>ο</w>
+<w>
+ιε
+<lb break="no"/>
+ρευς
+</w>
+<w>εξω</w>
+<w>της</w>
+<w>
+παρεμ
+<lb break="no"/>
+βολης
+</w>
+<w>και</w>
+<w>οψεται</w>
+<w>ο</w>
+<w>
+ιε
+<lb break="no"/>
+ρευς
+</w>
+<w>και</w>
+<w>ιδου</w>
+<w>ιαται</w>
+<w>η</w>
+<w>
+α
+<lb break="no"/>
+φη
+</w>
+<w>της</w>
+<w>λεπρας</w>
+<w>απο</w>
+<w>του</w>
+<lb/>
+<w>λεπρου</w>
+</ab>
+<ab n="B03K14V4">
+<w>και</w>
+<w>
+προστα
+<lb break="no"/>
+ξει
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>και</w>
+<w>
+λημ
+<lb break="no"/>
+ψονται
+</w>
+<w>τω</w>
+<w>
+κεκαθαρι
+<lb break="no"/>
+σμενω
+</w>
+<w>δυο</w>
+<w>ορνειθια</w>
+<lb/>
+<w>ζωντα</w>
+<w>καθαρα</w>
+<w>και</w>
+<w>
+ξυ
+<lb break="no"/>
+λον
+</w>
+<w>κεδρινον</w>
+<w>και</w>
+<w>
+κε
+<lb break="no"/>
+κλωσμενον
+</w>
+<w>
+κοκκι
+<lb break="no"/>
+νον
+</w>
+<w>και</w>
+<w>υσσωπον</w>
+</ab>
+<ab n="B03K14V5">
+<w>και</w>
+<lb/>
+<w>προσταξει</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>και</w>
+<w>σφαξουσιν</w>
+<w>το</w>
+<w>
+ορ
+<lb break="no"/>
+νειθιον
+</w>
+<w>το</w>
+<w>εν</w>
+<w>εις</w>
+<w>
+αγ
+<lb break="no"/>
+γειον
+</w>
+<w>οστρακινον</w>
+<lb/>
+<w>εφ</w>
+<w>υδατι</w>
+<w>ζωντι</w>
+</ab>
+<ab n="B03K14V6" part="I">
+<w>και</w>
+<lb/>
+<w>το</w>
+<w>ορνειθιον</w>
+<w>το</w>
+<w>ζων</w>
+<lb/>
+<w>λημψεται</w>
+<w>αυτο</w>
+<w>και</w>
+</ab>
+</div>
+</div>
+<pb n="14r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K14">
+<ab n="B03K14V33">
+<w>και</w>
+<w>ελαλησεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>προς</w>
+<lb/>
+<w>μωσην</w>
+<w>και</w>
+<w>προς</w>
+<w>ααρων</w>
+<lb/>
+<w>λεγων</w>
+</ab>
+<ab n="B03K14V34">
+<w>ως</w>
+<w>αν</w>
+<w>
+εισελ
+<lb break="no"/>
+θητε
+</w>
+<w>εις</w>
+<w>την</w>
+<w>γην</w>
+<w>των</w>
+<lb/>
+<w>χαναναιων</w>
+<w>ην</w>
+<w>εγω</w>
+<lb/>
+<w>διδωμι</w>
+<w>υμιν</w>
+<w>εν</w>
+<w>
+κτη
+<lb break="no"/>
+σει
+</w>
+<w>και</w>
+<w>δωσω</w>
+<w>αφην</w>
+<lb/>
+<w>λεπρας</w>
+<w>εν</w>
+<w>ταις</w>
+<w>οικιαις</w>
+<lb/>
+<w>της</w>
+<w>γης</w>
+<w>της</w>
+<w>εκτητου</w>
+<lb/>
+<w>υμιν</w>
+</ab>
+<ab n="B03K14V35">
+<w>και</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>εξει</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>ηξει</w>
+</seg>
+</rdg>
+</app>
+<w>τινος</w>
+<lb/>
+<w>αυτου</w>
+<w>η</w>
+<w>οικια</w>
+<w>και</w>
+<w>
+α
+<lb break="no"/>
+ναγγελει
+</w>
+<w>τω</w>
+<w>ιερει</w>
+<w>
+λε
+<lb break="no"/>
+γων
+</w>
+<w>ωσπερ</w>
+<w>αφη</w>
+<w>
+εο
+<lb break="no"/>
+ραται
+</w>
+<w>μοι</w>
+<w>εν</w>
+<w>τη</w>
+<w>οικια</w>
+<lb/>
+</ab>
+<ab n="B03K14V36">
+<w>και</w>
+<w>προσταξει</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>αποσκευασαι</w>
+<w>την</w>
+<w>
+οι
+<lb break="no"/>
+κιαν
+</w>
+<w>προ</w>
+<w>του</w>
+<w>
+εισελθον
+<lb break="no"/>
+τα
+</w>
+<w>τον</w>
+<w>ιερεα</w>
+<w>ιδειν</w>
+<w>την</w>
+<lb/>
+<w>αφην</w>
+<w>και</w>
+<w>ου</w>
+<w>μη</w>
+<w>
+ακα
+<lb break="no"/>
+θαρτα
+</w>
+<w>γενηται</w>
+<w>οσα</w>
+<lb/>
+<w>εαν</w>
+<w>η</w>
+<w>εν</w>
+<w>τη</w>
+<w>οικια</w>
+<w>και</w>
+<lb/>
+<w>μετα</w>
+<w>ταυτα</w>
+<w>
+εισελευ
+<lb break="no"/>
+σεται
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>
+κατα
+<lb break="no"/>
+μαθειν
+</w>
+<w>την</w>
+<w>οικιαν</w>
+<lb/>
+</ab>
+<ab n="B03K14V37">
+<w>και</w>
+<w>οψεται</w>
+<w>την</w>
+<w>αφην</w>
+<lb/>
+<w>και</w>
+<w>ιδου</w>
+<w>η</w>
+<w>αφη</w>
+<w>εν</w>
+<w>τοις</w>
+<lb/>
+<w>τοιχοις</w>
+<w>της</w>
+<w>οικιας</w>
+<cb n="2"/>
+<lb/>
+<w>κοιλαδας</w>
+<w>
+χλωριζου
+<lb break="no"/>
+σας
+</w>
+<w>η</w>
+<w>πυρριζουσας</w>
+<lb/>
+<w>και</w>
+<w>η</w>
+<w>οψις</w>
+<w>αυτων</w>
+<w>
+τα
+<lb break="no"/>
+πεινοτερα
+</w>
+<w>των</w>
+<w>
+τοι
+<lb break="no"/>
+χων
+</w>
+</ab>
+<ab n="B03K14V38">
+<w>και</w>
+<w>εξελθων</w>
+<lb/>
+<w>ο</w>
+<w>ιερευς</w>
+<w>εκ</w>
+<w>της</w>
+<w>
+οικι
+<lb break="no"/>
+ας
+</w>
+<w>επι</w>
+<w>την</w>
+<w>θυραν</w>
+<w>της</w>
+<lb/>
+<w>οικιας</w>
+<w>και</w>
+<w>αφοριει</w>
+<lb/>
+<w>ο</w>
+<w>ιερευς</w>
+<w>την</w>
+<w>οικιαν</w>
+<lb/>
+<w>επτα</w>
+<w>ημερας</w>
+</ab>
+<ab n="B03K14V39">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πανηξει
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>τη</w>
+<lb/>
+<w>ημερα</w>
+<w>τη</w>
+<w>εβδομη</w>
+<lb/>
+<w>και</w>
+<w>οψεται</w>
+<w>την</w>
+<w>
+οικι
+<lb break="no"/>
+αν
+</w>
+<w>και</w>
+<w>ιδου</w>
+<w>
+διεχυ
+<lb break="no"/>
+θη
+</w>
+<w>η</w>
+<w>αφη</w>
+<w>εν</w>
+<w>τοις</w>
+<w>
+τοι
+<lb break="no"/>
+χοις
+</w>
+<w>της</w>
+<w>οικιας</w>
+</ab>
+<ab n="B03K14V40">
+<w>και</w>
+<lb/>
+<w>προσταξει</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>και</w>
+<w>εξελουσιν</w>
+<w>τους</w>
+<lb/>
+<w>λιθους</w>
+<w>εν</w>
+<w>οις</w>
+<w>εστιν</w>
+<lb/>
+<w>η</w>
+<w>αφη</w>
+<w>και</w>
+<w>
+εκβαλου
+<lb break="no"/>
+σιν
+</w>
+<w>αυτους</w>
+<w>εξω</w>
+<w>της</w>
+<lb/>
+<w>πολεως</w>
+<w>εις</w>
+<w>τοπον</w>
+<lb/>
+<w>ακαθαρτον</w>
+</ab>
+<ab n="B03K14V41" part="I">
+<w>και</w>
+<w>την</w>
+<lb/>
+<w>οικιαν</w>
+<w>αποξυσουσιν</w>
+<lb/>
+<w>εξωθεν</w>
+<w>κυκλω</w>
+<w>και</w>
+<lb/>
+<w>εκχεουσιν</w>
+<w>τον</w>
+<w>χουν</w>
+<lb/>
+<w>ον</w>
+<w>απεξυσαν</w>
+<w>εξω</w>
+</ab>
+</div>
+</div>
+<pb n="14v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K14">
+<ab n="B03K14V41" part="F">
+<w>της</w>
+<w>πολεως</w>
+<w>εις</w>
+<w>τοπον</w>
+<lb/>
+<w>ακαθαρτον</w>
+</ab>
+<ab n="B03K14V42">
+<w>και</w>
+<w>
+λημ
+<lb break="no"/>
+ψονται
+</w>
+<w>λιθους</w>
+<w>
+απε
+<lb break="no"/>
+ξυσμενους
+</w>
+<w>ετερους</w>
+<lb/>
+<w>και</w>
+<w>αντιθησουσιν</w>
+<lb/>
+<w>αντι</w>
+<w>των</w>
+<w>λιθων</w>
+<w>και</w>
+<lb/>
+<w>χουν</w>
+<w>ετερον</w>
+<w>
+λημψον
+<lb break="no"/>
+ται
+</w>
+<w>και</w>
+<w>εξαλειψουσιν</w>
+<lb/>
+<w>την</w>
+<w>οικιαν</w>
+</ab>
+<ab n="B03K14V43">
+<w>εαν</w>
+<w>δε</w>
+<w>
+ε
+<lb break="no"/>
+πελθη
+</w>
+<w>παλιν</w>
+<w>η</w>
+<w>αφη</w>
+<lb/>
+<w>και</w>
+<w>ανατειλη</w>
+<w>εν</w>
+<w>τη</w>
+<lb/>
+<w>οικια</w>
+<w>μετα</w>
+<w>το</w>
+<w>εξελειν</w>
+<lb/>
+<w>τους</w>
+<w>λιθους</w>
+<w>και</w>
+<w>
+με
+<lb break="no"/>
+τα
+</w>
+<w>το</w>
+<w>αποξυσθηναι</w>
+<lb/>
+<w>την</w>
+<w>οικιαν</w>
+<w>και</w>
+<w>μετα</w>
+<lb/>
+<w>το</w>
+<w>εξαλειφθηναι</w>
+</ab>
+<ab n="B03K14V44">
+<w>και</w>
+<lb/>
+<w>εισελευσεται</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>και</w>
+<w>οψεται</w>
+<w>ει</w>
+<w>
+διακε
+<lb break="no"/>
+χυται
+</w>
+<w>η</w>
+<w>αφη</w>
+<w>εν</w>
+<w>τη</w>
+<w>
+οι
+<lb break="no"/>
+κια
+</w>
+<w>λεπρα</w>
+<w>εμμονος</w>
+<lb/>
+<w>εστιν</w>
+<w>εν</w>
+<w>τη</w>
+<w>οικια</w>
+<w>
+ακα
+<lb break="no"/>
+θαρτος
+</w>
+<w>εστιν</w>
+</ab>
+<ab n="B03K14V45">
+<w>και</w>
+<w>
+κα
+<lb break="no"/>
+θελουσιν
+</w>
+<w>την</w>
+<w>
+οικι
+<lb break="no"/>
+αν
+</w>
+<w>και</w>
+<w>τους</w>
+<w>λιθους</w>
+<lb/>
+<w>αυτης</w>
+<w>και</w>
+<w>τα</w>
+<w>ξυλα</w>
+<w>
+αυ
+<lb break="no"/>
+της
+</w>
+<w>και</w>
+<w>παντα</w>
+<w>τον</w>
+<lb/>
+<w>χουν</w>
+<w>της</w>
+<w>οικιας</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>
+εξ
+<cb n="2" break="no"/>
+<lb break="no"/>
+ξοισουσιν
+</w>
+</rdg>
+<rdg type="corr" hand="corrector" rend="strikethrough">
+<seg type="line" subtype="overwritten" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>
+εξ
+<cb break="no" n="3"/>
+<lb break="no"/>
+οισουσιν
+</w>
+</seg>
+</rdg>
+</app>
+<w>εξω</w>
+<w>της</w>
+<lb/>
+<w>πολεως</w>
+<w>εις</w>
+<w>τοπον</w>
+<lb/>
+<w>ακαθαρτον</w>
+</ab>
+<ab n="B03K14V46">
+<w>και</w>
+<w>ο</w>
+<w>
+εισ
+<lb break="no"/>
+πορευομενος
+</w>
+<w>εις</w>
+<w>την</w>
+<lb/>
+<w>οικιαν</w>
+<w>πασας</w>
+<w>τας</w>
+<w>
+η
+<lb break="no"/>
+μερας
+</w>
+<w>ας</w>
+<w>
+αφωρισμε
+<lb break="no"/>
+νη
+</w>
+<w>εστιν</w>
+<w>ακαθαρτος</w>
+<lb/>
+<w>εσται</w>
+<w>εως</w>
+<w>εσπερας</w>
+<lb/>
+</ab>
+<ab n="B03K14V47">
+<w>και</w>
+<w>ο</w>
+<w>κοιμωμενος</w>
+<lb/>
+<w>εν</w>
+<w>τη</w>
+<w>οικια</w>
+<w>πλυνει</w>
+<w>τα</w>
+<lb/>
+<w>ιματια</w>
+<w>αυτου</w>
+<w>και</w>
+<w>
+α
+<lb break="no"/>
+καθαρτος
+</w>
+<w>εσται</w>
+<w>εως</w>
+<lb/>
+<w>εσπερας</w>
+<w>και</w>
+<w>ο</w>
+<w>
+εσθει
+<lb break="no"/>
+ων
+</w>
+<w>εν</w>
+<w>τη</w>
+<w>οικια</w>
+<w>
+πλυ
+<lb break="no"/>
+νει
+</w>
+<w>τα</w>
+<w>ιματια</w>
+<w>αυτου</w>
+<lb/>
+<w>και</w>
+<w>ακαθαρτος</w>
+<w>
+εστα
+<unclear reason="faded ink">ι</unclear>
+</w>
+<lb/>
+<w>εως</w>
+<w>εσπερας</w>
+</ab>
+<ab n="B03K14V48">
+<w>εαν</w>
+<w>
+δ
+<unclear reason="faded ink">ε</unclear>
+</w>
+<lb/>
+<w>παραγενομενος</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>
+εισ
+<lb break="no"/>
+σελθη
+</w>
+</rdg>
+<rdg type="corr" hand="corrector" rend="strikethrough">
+<w>
+εισ
+<lb break="no"/>
+ελθη
+</w>
+</rdg>
+</app>
+<w>ο</w>
+<w>ιερευς</w>
+<w>και</w>
+<w>
+ι
+<lb break="no"/>
+δη
+</w>
+<w>και</w>
+<w>ιδου</w>
+<w>ου</w>
+<w>
+διαχυ
+<lb break="no"/>
+σει
+</w>
+<w>διαχειται</w>
+<w>η</w>
+<w>αφη</w>
+<lb/>
+<w>εν</w>
+<w>τη</w>
+<w>οικια</w>
+<w>μετα</w>
+<w>το</w>
+<lb/>
+<w>εξαλειφθηναι</w>
+<w>την</w>
+<lb/>
+<w>οικιαν</w>
+<w>και</w>
+<w>καθαριει</w>
+<lb/>
+<w>ο</w>
+<w>ιερευς</w>
+<w>την</w>
+<w>οικιαν</w>
+<lb/>
+<w>οτι</w>
+<w>ιαθη</w>
+<w>η</w>
+<w>αφη</w>
+</ab>
+<ab n="B03K14V49" part="I">
+<w>και</w>
+<lb/>
+<w>λημψεται</w>
+<w part="I">
+<unclear reason="faded ink">α</unclear>
+φ
+<unclear reason="faded ink">αγ</unclear>
+νι
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="15r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K15">
+<ab n="B03K15V24" part="F">
+<w>κοιμηθη</w>
+<w>επ</w>
+<w>αυτης</w>
+<w>
+α
+<lb break="no"/>
+καθαρτος
+</w>
+<w>εστιν</w>
+<lb/>
+</ab>
+<ab n="B03K15V25">
+<w>και</w>
+<w>γυνη</w>
+<w>εαν</w>
+<w>
+<unclear reason="faded ink">ρ</unclear>
+ε
+<unclear reason="faded ink">η</unclear>
+</w>
+<w>
+<unclear reason="faded ink">ρ</unclear>
+υσιν
+</w>
+<lb/>
+<w>αιματος</w>
+<w>αυτης</w>
+<w>
+ημερα
+<unclear reason="faded ink">ς</unclear>
+</w>
+<lb/>
+<w>πλειους</w>
+<w>ουκ</w>
+<w>εν</w>
+<w>καιρω</w>
+<lb/>
+<w>της</w>
+<w>αφεδρου</w>
+<w>αυτης</w>
+<lb/>
+<w>εαν</w>
+<w>και</w>
+<w>ρεη</w>
+<w>μετα</w>
+<w>την</w>
+<lb/>
+<w>αφεδρον</w>
+<w>αυτης</w>
+<w>πασαι</w>
+<lb/>
+<w>αι</w>
+<w>ημεραι</w>
+<w>ρυσεως</w>
+<w>
+ακα
+<lb break="no"/>
+θαρσιας
+</w>
+<w>αυτης</w>
+<w>
+καθα
+<lb break="no"/>
+περ
+</w>
+<w>αι</w>
+<w>ημεραι</w>
+<w>της</w>
+<w>
+αφε
+<lb break="no"/>
+δρου
+</w>
+<w>αυτης</w>
+<w>εσται</w>
+<w>
+ακ
+<unclear reason="faded ink">α</unclear>
+<lb break="no"/>
+θαρτος
+</w>
+</ab>
+<ab n="B03K15V26">
+<w>και</w>
+<w>πασα</w>
+<w>η</w>
+<w>κοιτη</w>
+<lb/>
+<w>εφ</w>
+<w>ην</w>
+<w>αν</w>
+<w>κοιμηθη</w>
+<w>επ</w>
+<lb/>
+<w>αυτης</w>
+<w>πασας</w>
+<w>τας</w>
+<w>
+ημ
+<unclear reason="faded ink">ε</unclear>
+<lb break="no"/>
+ρας
+</w>
+<w>της</w>
+<w>ρυσεως</w>
+<w>αυτης</w>
+<lb/>
+<w>κατα</w>
+<w>την</w>
+<w>κοιτην</w>
+<w>της</w>
+<lb/>
+<w>αφεδρου</w>
+<w>αυτης</w>
+<w>εσται</w>
+<lb/>
+<w>αυτη</w>
+<w>και</w>
+<w>παν</w>
+<w>σκευος</w>
+<lb/>
+<w>εφ</w>
+<w>ο</w>
+<w>αν</w>
+<w>καθιση</w>
+<w>επ</w>
+<w>
+αυ
+<lb break="no"/>
+τον
+</w>
+<w>καθαρτον</w>
+<w>εσται</w>
+<lb/>
+<w>κατα</w>
+<w>την</w>
+<w>ακαθαρσιαν</w>
+<lb/>
+<w>της</w>
+<w>
+αφ
+<supplied source="na28" reason="illegible">ε</supplied>
+δρου
+</w>
+<w>αυτης</w>
+<lb break="no"/>
+</ab>
+<ab n="B03K15V27">
+<w>πας</w>
+<w>ο</w>
+<w>απτονενος</w>
+<w>
+αυ
+<lb break="no"/>
+της
+</w>
+<w>ακαθαρτος</w>
+<w>εσται</w>
+<lb/>
+<w>και</w>
+<w>πλυνει</w>
+<w>τα</w>
+<w>ιματια</w>
+<lb/>
+<w>αυτου</w>
+<w>και</w>
+<w>λουσεται</w>
+<cb n="2"/>
+<lb/>
+<w>το</w>
+<w>σωμα</w>
+<w>υδατι</w>
+<w>και</w>
+<w>
+ακα
+<lb break="no"/>
+θαρτος
+</w>
+<w>εσται</w>
+<w>εως</w>
+<w>
+ε
+<lb break="no"/>
+σπερας
+</w>
+</ab>
+<ab n="B03K15V28">
+<w>εαν</w>
+<w>δε</w>
+<w>
+καθαρι
+<lb break="no"/>
+σθη
+</w>
+<w>απο</w>
+<w>της</w>
+<w>ρυσεως</w>
+<lb/>
+<w>αυτης</w>
+<w>και</w>
+<w>
+εξαριθμη
+<lb break="no"/>
+σεται
+</w>
+<w>αυτη</w>
+<w>επτα</w>
+<w>
+ημε
+<lb break="no"/>
+ρας
+</w>
+<w>και</w>
+<w>μετα</w>
+<w>ταυτα</w>
+<w>
+κα
+<lb break="no"/>
+θαρισθησεται
+</w>
+</ab>
+<ab n="B03K15V29">
+<w>και</w>
+<w>τη</w>
+<lb/>
+<w>ημερα</w>
+<w>τη</w>
+<w>ογδοη</w>
+<w>
+λημ
+<lb break="no"/>
+ψεται
+</w>
+<w>εαυτη</w>
+<w>δυο</w>
+<w>
+τρυγο
+<lb break="no"/>
+νας
+</w>
+<w>η</w>
+<w>δυο</w>
+<w>νοσσους</w>
+<lb/>
+<w>περιστερων</w>
+<w>και</w>
+<w>οισει</w>
+<lb/>
+<w>αυτα</w>
+<w>προς</w>
+<w>τον</w>
+<w>ιερεα</w>
+<lb/>
+<w>επι</w>
+<w>την</w>
+<w>θυραν</w>
+<w>της</w>
+<lb/>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρτυρι
+<lb break="no"/>
+ου
+</w>
+</ab>
+<ab n="B03K15V30">
+<w>και</w>
+<w>ποιησει</w>
+<w>ο</w>
+<w>
+ιερ
+<unclear reason="faded ink">ε</unclear>
+υς
+</w>
+<lb/>
+<w>την</w>
+<w>μιαν</w>
+<w>περι</w>
+<w>
+αμαρτι
+<lb break="no"/>
+ας
+</w>
+<w>και</w>
+<w>την</w>
+<w>μιαν</w>
+<w>εις</w>
+<w>
+ο
+<lb break="no"/>
+λοκαυτωμα
+</w>
+<w>και</w>
+<w>
+εξ
+<unclear reason="faded ink">ει</unclear>
+<lb break="no"/>
+λ
+<unclear reason="faded ink">α</unclear>
+σεται
+</w>
+<w>περι</w>
+<w>αυτης</w>
+<lb/>
+<w>ο</w>
+<w>ιερευς</w>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>
+α
+<lb break="no"/>
+πο
+</w>
+<w>ρυσεως</w>
+<w>
+ακαθαρ
+<unclear reason="faded ink">σι</unclear>
+<lb break="no"/>
+ας
+</w>
+<w>αυτης</w>
+</ab>
+<ab n="B03K15V31" part="I">
+<w>και</w>
+<w>
+ευλαβ
+<unclear reason="faded ink">ει</unclear>
+ς
+</w>
+<lb/>
+<w>ποιησετε</w>
+<w>τους</w>
+<w>υιους</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>απο</w>
+<w>των</w>
+<w>
+ακαθαρ
+<lb break="no"/>
+σιων
+</w>
+<w>αυτων</w>
+<w>και</w>
+<w>
+ου
+<unclear reason="faded ink">κ</unclear>
+</w>
+<lb/>
+<w>αποθανουνται</w>
+<w>δια</w>
+</ab>
+</div>
+</div>
+<pb n="15v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K15">
+<ab n="B03K15V31" part="F">
+<w>την</w>
+<w>ακαθαρσιαν</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+<w>εν</w>
+<w>τω</w>
+<w>μιαινειν</w>
+<lb/>
+<w>αυτους</w>
+<w>την</w>
+<w>σκηνην</w>
+<lb/>
+<w>μου</w>
+<w>την</w>
+<w>εν</w>
+<w>αυτοις</w>
+<lb/>
+</ab>
+<ab n="B03K15V32">
+<w>ουτος</w>
+<w>ο</w>
+<w>νομος</w>
+<w>του</w>
+<lb/>
+<w>γονορρυους</w>
+<w>και</w>
+<w>εαν</w>
+<lb/>
+<w>τινι</w>
+<w>εξελθη</w>
+<w>εξ</w>
+<w>αυτου</w>
+<lb/>
+<w>κοιτη</w>
+<w>σπερματος</w>
+<w>
+ω
+<lb break="no"/>
+στε
+</w>
+<w>μιανθηναι</w>
+<w>εν</w>
+<w>
+αυ
+<lb break="no"/>
+τη
+</w>
+</ab>
+<ab n="B03K15V33">
+<w>και</w>
+<w>τη</w>
+<w>
+εμορροου
+<lb break="no"/>
+ση
+</w>
+<w>εν</w>
+<w>τη</w>
+<w>αφεδρω</w>
+<w>
+αυ
+<lb break="no"/>
+της
+</w>
+<w>και</w>
+<w>ο</w>
+<w>γονορρυης</w>
+<lb/>
+<w>τη</w>
+<w>ρυσει</w>
+<w>αυτου</w>
+<w>τω</w>
+<w>
+αρ
+<lb break="no"/>
+σενει
+</w>
+<w>η</w>
+<w>τη</w>
+<w>θηλεια</w>
+<w>και</w>
+<lb/>
+<w>τω</w>
+<w>ανδρι</w>
+<w>ος</w>
+<w>αν</w>
+<w>
+κοιμη
+<lb break="no"/>
+θη
+</w>
+<w>μετα</w>
+<w>
+αποκαθημε
+<lb break="no"/>
+νης
+</w>
+<lb/>
+</ab>
+</div>
+<div type="chapter" n="B03K16">
+<ab n="B03K16V1">
+<w>και</w>
+<w>ελαλησεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>προς</w>
+<lb/>
+<w>μωσην</w>
+<w>μετα</w>
+<w>το</w>
+<w>
+τε
+<lb break="no"/>
+λευτησαι
+</w>
+<w>τους</w>
+<w>δυο</w>
+<lb/>
+<w>υιους</w>
+<w>ααρων</w>
+<w>εν</w>
+<w>τω</w>
+<lb/>
+<w>προσαγαγειν</w>
+<w>αυτους</w>
+<lb/>
+<w>πυρ</w>
+<w>αλλοτριον</w>
+<w>
+εναν
+<lb break="no"/>
+τι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+ετελευτη
+<lb break="no"/>
+σεν
+</w>
+</ab>
+<ab n="B03K16V2">
+<w>και</w>
+<w>ειπεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<lb/>
+<w>προς</w>
+<w>μωσην</w>
+<w>
+λαλη
+<lb break="no"/>
+σον
+</w>
+<w>προς</w>
+<w>ααρων</w>
+<w>τον</w>
+<cb n="2"/>
+<lb/>
+<w>αδελφον</w>
+<w>σου</w>
+<w>και</w>
+<w>μη</w>
+<lb/>
+<w>εισπορευεσθω</w>
+<w>πασαν</w>
+<lb/>
+<w>ωραν</w>
+<w>εις</w>
+<w>το</w>
+<w>αγιον</w>
+<w>
+εσω
+<lb break="no"/>
+τερον
+</w>
+<w>του</w>
+<w>
+καταπετα
+<lb break="no"/>
+σματος
+</w>
+<w>εις</w>
+<w>προσωπον</w>
+<lb/>
+<w>του</w>
+<w>ιλαστηριου</w>
+<w>ο</w>
+<w>
+εσ
+<lb break="no"/>
+τιν
+</w>
+<w>επι</w>
+<w>της</w>
+<w>κιβωτου</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>και</w>
+<w>ουκ</w>
+<lb/>
+<w>αποθανειται</w>
+<w>εν</w>
+<w>γαρ</w>
+<lb/>
+<w>νεφελη</w>
+<w>οφθησομαι</w>
+<lb/>
+<w>επι</w>
+<w>του</w>
+<w>ιλαστηριου</w>
+<lb/>
+</ab>
+<ab n="B03K16V3">
+<w>ουτως</w>
+<w>εισελευσεται</w>
+<lb/>
+<w>ααρων</w>
+<w>εις</w>
+<w>το</w>
+<w>αγιον</w>
+<lb/>
+<w>εν</w>
+<w>μοσχω</w>
+<w>εκ</w>
+<w>
+βοω
+<unclear reason="Faded, erasure, or correction?">ν</unclear>
+</w>
+<lb/>
+<w>περι</w>
+<w>αμαρτιας</w>
+<w>και</w>
+<lb/>
+<w>κρειον</w>
+<w>εις</w>
+<w>
+ολοκαυ
+<unclear reason="Faded, erasure, or correction?">τω</unclear>
+<lb break="no"/>
+μα
+</w>
+</ab>
+<ab n="B03K16V4">
+<w>και</w>
+<w>χιτωνα</w>
+<w>
+λιν
+<unclear reason="Faded, erasure, or correction?">ουν</unclear>
+</w>
+<lb/>
+<w>ηγιασμενον</w>
+<w>
+ενδυ
+<unclear reason="Faded, erasure, or correction?">σε</unclear>
+<lb break="no"/>
+ται
+</w>
+<w>και</w>
+<w>περισκελες</w>
+<w>
+λι
+<lb break="no"/>
+νουν
+</w>
+<w>εσται</w>
+<w>επι</w>
+<w>του</w>
+<lb/>
+<w>χρωτος</w>
+<w>αυτου</w>
+<w>και</w>
+<w>
+ζω
+<lb break="no"/>
+νη
+</w>
+<w>λινη</w>
+<w>ζωσεται</w>
+<w>και</w>
+<lb/>
+<w>κιδαριν</w>
+<w>λινην</w>
+<w>
+περι
+<lb break="no"/>
+θησεται
+</w>
+<w>ιματια</w>
+<w>αγια</w>
+<lb/>
+<w>εστιν</w>
+<w>και</w>
+<w>λουσεται</w>
+<w>
+υ
+<lb break="no"/>
+δατι
+</w>
+<w>το</w>
+<w>σωμα</w>
+<w>αυτου</w>
+<lb/>
+<w>και</w>
+<w>ενδυσεται</w>
+<w>αυτα</w>
+</ab>
+<ab n="B03K16V5" part="I">
+<w>και</w>
+</ab>
+</div>
+</div>
+<pb n="16r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K16">
+<ab n="B03K16V5" part="F">
+<w>παρα</w>
+<w>της</w>
+<w>συναγωγης</w>
+<lb/>
+<w>των</w>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>
+λημψε
+<lb break="no"/>
+ται
+</w>
+<w>δυο</w>
+<w>χιμαρους</w>
+<w>εξ</w>
+<w>
+αι
+<lb break="no"/>
+γων
+</w>
+<w>περι</w>
+<w>αμαρτιας</w>
+<lb/>
+<w>και</w>
+<w>κρειον</w>
+<w>ενα</w>
+<w>εις</w>
+<w>
+ο
+<lb break="no"/>
+λοκαυτωμα
+</w>
+</ab>
+<ab n="B03K16V6">
+<w>και</w>
+<w>
+προσ
+<lb break="no"/>
+αξει
+</w>
+<w>ααρων</w>
+<w>τον</w>
+<w>
+μο
+<lb break="no"/>
+σχον
+</w>
+<w>τον</w>
+<w>περι</w>
+<w>της</w>
+<w>
+α
+<lb break="no"/>
+μαρτιας
+</w>
+<w>τον</w>
+<w>αυτου</w>
+<lb/>
+<w>και</w>
+<w>εξειλασεται</w>
+<w>περι</w>
+<lb/>
+<w>αυτου</w>
+<w>και</w>
+<w>του</w>
+<w>οικου</w>
+<lb/>
+<w>αυτου</w>
+</ab>
+<ab n="B03K16V7">
+<w>και</w>
+<w>λημψεται</w>
+<lb/>
+<w>τους</w>
+<w>δυο</w>
+<w>χιμαρους</w>
+<lb/>
+<w>και</w>
+<w>στησει</w>
+<w>αυτους</w>
+<w>
+ε
+<lb break="no"/>
+ναντι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>παρα</w>
+<w>την</w>
+<w>
+θυ
+<lb break="no"/>
+ραν
+</w>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<lb/>
+<w>μαρτυριου</w>
+</ab>
+<ab n="B03K16V8">
+<w>και</w>
+<w>
+επιθη
+<lb break="no"/>
+σει
+</w>
+<w>ααρων</w>
+<w>επι</w>
+<w>τους</w>
+<lb/>
+<w>δυο</w>
+<w>χιμαρους</w>
+<w>
+κλη
+<lb break="no"/>
+ρους
+</w>
+<w>κληρον</w>
+<w>ενα</w>
+<w>τω</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>κληρον</w>
+<w>ενα</w>
+<lb/>
+<w>τω</w>
+<w>αποπομπαιω</w>
+<lb/>
+</ab>
+<ab n="B03K16V9">
+<w>και</w>
+<w>προσαξει</w>
+<w>ααρων</w>
+<lb/>
+<w>τον</w>
+<w>χιμαρον</w>
+<w>εφ</w>
+<w>ον</w>
+<lb/>
+<w>επηλθεν</w>
+<w>επ</w>
+<w>αυτον</w>
+<lb/>
+<w>ο</w>
+<w>κληρος</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>και</w>
+<lb/>
+<w>προσοισει</w>
+<w>περι</w>
+<w>
+αμαρ
+<cb n="2" break="no"/>
+<lb break="no"/>
+τιας
+</w>
+</ab>
+<ab n="B03K16V10">
+<w>και</w>
+<w>τον</w>
+<w>χιμαρον</w>
+<lb/>
+<w>εφ</w>
+<w>ον</w>
+<w>επηλθεν</w>
+<w>επ</w>
+<lb/>
+<w>αυτον</w>
+<w>ο</w>
+<w>κληρος</w>
+<w>του</w>
+<lb/>
+<w>αποπομπαιου</w>
+<w>
+στη
+<lb break="no"/>
+σει
+</w>
+<w>ζωντα</w>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<lb/>
+<w>του</w>
+<w>εξειλασασθαι</w>
+<w>επ</w>
+<lb/>
+<w>αυτου</w>
+<w>ωστε</w>
+<w>
+εξαπο
+<lb break="no"/>
+στειλαι
+</w>
+<w>αυτον</w>
+<w>εις</w>
+<w>την</w>
+<lb/>
+<w>αποπομπην</w>
+<w>
+αφη
+<lb break="no"/>
+σει
+</w>
+<w>αυτον</w>
+<w>εις</w>
+<w>την</w>
+<w>
+ε
+<lb break="no"/>
+ρημον
+</w>
+</ab>
+<ab n="B03K16V11">
+<w>και</w>
+<w>προσαξει</w>
+<lb/>
+<w>ααρων</w>
+<w>τον</w>
+<w>μοσχον</w>
+<lb/>
+<w>τον</w>
+<w>περι</w>
+<w>της</w>
+<w>
+αμαρτι
+<lb break="no"/>
+ας
+</w>
+<w>τον</w>
+<w>αυτου</w>
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+ξειλασεται
+</w>
+<w>περι</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>και</w>
+<w>του</w>
+<w>οικου</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>και</w>
+<w>σφαξει</w>
+<w>τον</w>
+<lb/>
+<w>μοσχον</w>
+<w>τον</w>
+<w>περι</w>
+<lb/>
+<w>της</w>
+<w>αμαρτιας</w>
+<w>τον</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+</ab>
+<ab n="B03K16V12" part="I">
+<w>και</w>
+<w>λημψεται</w>
+<lb/>
+<w>πληρες</w>
+<w>το</w>
+<w>πυρειον</w>
+<lb/>
+<w>ανθρακων</w>
+<w>πυρος</w>
+<w>
+α
+<lb break="no"/>
+πο
+</w>
+<w>του</w>
+<w>θυσιαστηριου</w>
+<lb/>
+<w>του</w>
+<w>απεναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<lb/>
+<w>πλησει</w>
+<w>τας</w>
+<w>χειρας</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>θυμιαματος</w>
+<w>
+συν
+<lb break="no"/>
+θεσεως
+</w>
+<w>λεπτης</w>
+<w>και</w>
+</ab>
+</div>
+</div>
+<pb n="16v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K16">
+<ab n="B03K16V12" part="F">
+<w>εισοισει</w>
+<w>εσωτερον</w>
+<w>του</w>
+<lb/>
+<w>καταπετασματος</w>
+</ab>
+<ab n="B03K16V13">
+<w>και</w>
+<lb/>
+<w>επιθησει</w>
+<w>το</w>
+<w>
+θυμια
+<lb break="no"/>
+μα
+</w>
+<w>επι</w>
+<w>το</w>
+<w>πυρ</w>
+<w>εναντι</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>καλυψει</w>
+<w>η</w>
+<w>ατμεις</w>
+<lb/>
+<w>του</w>
+<w>θυμιαματος</w>
+<w>το</w>
+<lb/>
+<w>ιλαστηριον</w>
+<w>το</w>
+<w>επι</w>
+<w>των</w>
+<lb/>
+<w>μαρτυριων</w>
+<w>και</w>
+<w>ουκ</w>
+<lb/>
+<w>αποθανειται</w>
+</ab>
+<ab n="B03K16V14">
+<w>και</w>
+<w>
+λημ
+<lb break="no"/>
+ψεται
+</w>
+<w>απο</w>
+<w>του</w>
+<w>αιματος</w>
+<lb/>
+<w>του</w>
+<w>μοσχου</w>
+<w>και</w>
+<w>ρανει</w>
+<lb/>
+<w>τω</w>
+<w>δακτυλω</w>
+<w>αυτου</w>
+<lb/>
+<w>επι</w>
+<w>το</w>
+<w>ιλαστηριον</w>
+<w>
+κα
+<lb break="no"/>
+τα
+</w>
+<w>ανατολας</w>
+<w>κατα</w>
+<w>
+προ
+<lb break="no"/>
+σωπον
+</w>
+<w>του</w>
+<w>
+ιλαστη
+<lb break="no"/>
+ριου
+</w>
+<w>ρανει</w>
+<w>
+επτα
+<lb break="no"/>
+κις
+</w>
+<w>απο</w>
+<w>του</w>
+<w>αιματος</w>
+<lb/>
+<w>τω</w>
+<w>δακτυλω</w>
+<w>αυτου</w>
+<lb/>
+</ab>
+<ab n="B03K16V15">
+<w>και</w>
+<w>σφαξει</w>
+<w>τον</w>
+<w>
+χιμα
+<lb break="no"/>
+ρον
+</w>
+<w>τον</w>
+<w>περι</w>
+<w>της</w>
+<w>
+αμαρ
+<lb break="no"/>
+τιας
+</w>
+<w>τον</w>
+<w>παρα</w>
+<w>του</w>
+<w>λαου</w>
+<lb/>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+εισοι
+<lb break="no"/>
+σει
+</w>
+<w>του</w>
+<w>αιματος</w>
+<w>αυτου</w>
+<lb/>
+<w>εσωτερον</w>
+<w>του</w>
+<w>
+κατα
+<lb break="no"/>
+πετασματος
+</w>
+<w>και</w>
+<w>
+ποι
+<lb break="no"/>
+ησει
+</w>
+<w>το</w>
+<w>αιμα</w>
+<w>αυτου</w>
+<w>ον</w>
+<lb/>
+<w>τροπον</w>
+<w>εποιησεν</w>
+<w>το</w>
+<cb n="2"/>
+<lb/>
+<w>αιμα</w>
+<w>του</w>
+<w>μοσχου</w>
+<w>και</w>
+<lb/>
+<w>ρανει</w>
+<w>το</w>
+<w>αιμα</w>
+<w>αυτου</w>
+<lb/>
+<w>επι</w>
+<w>το</w>
+<w>ιλαστηριον</w>
+<w>
+κα
+<lb break="no"/>
+τα
+</w>
+<w>προσωπον</w>
+<w>του</w>
+<w>
+ιλα
+<lb break="no"/>
+στηριου
+</w>
+</ab>
+<ab n="B03K16V16">
+<w>και</w>
+<w>
+εξειλασε
+<lb break="no"/>
+ται
+</w>
+<w>το</w>
+<w>αγιον</w>
+<w>απο</w>
+<w>των</w>
+<lb/>
+<w>ακαθαρσιων</w>
+<w>των</w>
+<w>
+υ
+<lb break="no"/>
+ιων
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>απο</w>
+<w>των</w>
+<lb/>
+<w>αδικηματων</w>
+<w>αυτων</w>
+<lb/>
+<w>περι</w>
+<w>πασων</w>
+<w>των</w>
+<w>
+α
+<lb break="no"/>
+μαρτιων
+</w>
+<w>αυτων</w>
+<w>και</w>
+<lb/>
+<w>ουτως</w>
+<w>ποιησει</w>
+<w>τη</w>
+<lb/>
+<w>σκηνη</w>
+<w>του</w>
+<w>
+μαρτυρι
+<lb break="no"/>
+ου
+</w>
+<w>τη</w>
+<w>εκτισμενη</w>
+<w>εν</w>
+<lb/>
+<w>αυτοις</w>
+<w>εν</w>
+<w>μεσω</w>
+<w>της</w>
+<lb/>
+<w>ακαθαρσιας</w>
+<w>αυτων</w>
+<lb break="no"/>
+</ab>
+<ab n="B03K16V17">
+<w>και</w>
+<w>πας</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ανος</hi>
+</abbr>
+</w>
+<w>ουκ</w>
+<w>
+ε
+<lb break="no"/>
+σται
+</w>
+<w>εν</w>
+<w>τη</w>
+<w>σκηνη</w>
+<w>του</w>
+<lb/>
+<w>μαρτυριου</w>
+<w>
+εισπορευ
+<lb break="no"/>
+ομενου
+</w>
+<w>αυτου</w>
+<w>
+εξει
+<lb break="no"/>
+λασασθαι
+</w>
+<w>εν</w>
+<w>τω</w>
+<w>αγιω</w>
+<lb/>
+<w>εως</w>
+<w>αν</w>
+<w>εξελθη</w>
+<w>και</w>
+<lb/>
+<w>εξειλασεται</w>
+<w>περι</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>και</w>
+<w>του</w>
+<w>οικου</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>και</w>
+<w>περι</w>
+<w>πασης</w>
+<lb/>
+<w>συναγωγης</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K16V18" part="I">
+<w>και</w>
+<lb/>
+<w>εξελευσεται</w>
+<w>επι</w>
+<w>το</w>
+</ab>
+</div>
+</div>
+<pb n="17r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="Lev">
+<div type="chapter" n="Lev.16">
+<ab n="Lev.16.18" part="F">
+<w>θυσιαστηριον</w>
+<w>το</w>
+<w>ον</w>
+<lb/>
+<w>απεναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+εξει
+<lb break="no"/>
+λασεται
+</w>
+<w>επ</w>
+<w>αυτου</w>
+<w>και</w>
+<lb/>
+<w>λημψεται</w>
+<w>απο</w>
+<w>του</w>
+<w>
+αι
+<lb break="no"/>
+ματος
+</w>
+<w>του</w>
+<w>μοσχου</w>
+<lb/>
+<w>και</w>
+<w>απο</w>
+<w>του</w>
+<w>αιματος</w>
+<lb/>
+<w>του</w>
+<w>χιμαρου</w>
+<w>και</w>
+<w>
+επι
+<lb break="no"/>
+θησει
+</w>
+<w>επι</w>
+<w>τα</w>
+<w>κερατα</w>
+<lb/>
+<w>του</w>
+<w>θυσιαστηριου</w>
+<w>
+κυ
+<lb break="no"/>
+<unclear reason="faded ink">κλ</unclear>
+ω
+</w>
+</ab>
+<ab n="Lev.16.19">
+<w>και</w>
+<w>ρανει</w>
+<w>επ</w>
+<w>αυτο</w>
+<lb/>
+<w>απο</w>
+<w>του</w>
+<w>αιματος</w>
+<w>τω</w>
+<lb/>
+<w>δακτυλω</w>
+<w>αυτου</w>
+<w>
+επτα
+<lb break="no"/>
+κις
+</w>
+<w>και</w>
+<w>καθαριει</w>
+<w>αυτο</w>
+<lb/>
+<w>και</w>
+<w>αγιασει</w>
+<w>αυτο</w>
+<w>απο</w>
+<lb/>
+<w>των</w>
+<w>ακαθαρσιων</w>
+<w>των</w>
+<lb/>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="Lev.16.20">
+<w>και</w>
+<w>
+συντε
+<lb break="no"/>
+λεσει
+</w>
+<w>
+εξειλασκομε
+<lb break="no"/>
+νος
+</w>
+<w>το</w>
+<w>αγιον</w>
+<w>και</w>
+<w>την</w>
+<lb/>
+<w>σκηνην</w>
+<w>του</w>
+<w>
+μαρτυ
+<lb break="no"/>
+ριου
+</w>
+<w>και</w>
+<w>το</w>
+<w>
+θυσιαστη
+<lb break="no"/>
+ριον
+</w>
+<w>και</w>
+<w>περι</w>
+<w>των</w>
+<w>
+ι
+<lb break="no"/>
+ερεων
+</w>
+<w>καθαριει</w>
+<w>και</w>
+<lb/>
+<w>προσαξει</w>
+<w>τον</w>
+<w>χιμαρον</w>
+<lb/>
+<w>τον</w>
+<w>ζωντα</w>
+</ab>
+<ab n="Lev.16.21">
+<w>και</w>
+<w>
+επιθη
+<lb break="no"/>
+σει
+</w>
+<w>ααρων</w>
+<w>τας</w>
+<w>δυο</w>
+<w>
+χει
+<lb break="no"/>
+ρας
+</w>
+<w>αυτου</w>
+<w>επι</w>
+<w>την</w>
+<w>
+κε
+<lb break="no"/>
+φαλην
+</w>
+<w>του</w>
+<w>χιμαρου</w>
+<cb n="2"/>
+<lb/>
+<w>του</w>
+<w>ζωντος</w>
+<w>και</w>
+<w>
+εξα
+<lb break="no"/>
+γορευσει
+</w>
+<w>επ</w>
+<w>αυτου</w>
+<w>
+πα
+<lb break="no"/>
+σας
+</w>
+<w>τας</w>
+<w>ανομιας</w>
+<w>των</w>
+<lb/>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>πασας</w>
+<lb/>
+<w>τας</w>
+<w>αδικιας</w>
+<w>αυτων</w>
+<lb/>
+<w>και</w>
+<w>πασας</w>
+<w>τας</w>
+<w>
+αμαρ
+<lb break="no"/>
+τιας
+</w>
+<w>αυτων</w>
+<w>και</w>
+<w>
+επι
+<lb break="no"/>
+θησει
+</w>
+<w>αυτας</w>
+<w>επι</w>
+<w>την</w>
+<lb/>
+<w>κεφαλην</w>
+<w>του</w>
+<w>
+χιμα
+<lb break="no"/>
+ρου
+</w>
+<w>του</w>
+<w>
+ζων
+<unclear reason="faded ink">τος</unclear>
+</w>
+<w>και</w>
+<lb/>
+<w>
+εξαποστελε
+<unclear reason="damage to page">ι</unclear>
+</w>
+<w>
+<unclear reason="damage to page">ε</unclear>
+<supplied source="na28" reason="lacuna">ν</supplied>
+</w>
+<w>
+χει
+<lb break="no"/>
+ρι
+</w>
+<w>ανθρωπου</w>
+<w>
+ετοι
+<lb break="no"/>
+μου
+</w>
+<w>εις</w>
+<w>την</w>
+<w>
+<unclear reason="Ink fading and retracing">ε</unclear>
+ρημον
+</w>
+<lb/>
+</ab>
+<ab n="Lev.16.22">
+<w>και</w>
+<w>
+λημψετα
+<unclear reason="Ink fading and retracing">ι</unclear>
+</w>
+<w>
+<unclear reason="Ink fading and retracing">ο</unclear>
+</w>
+<w>
+<unclear reason="Ink fading and retracing">χ</unclear>
+ιμα
+<lb break="no"/>
+ρος
+</w>
+<w>εφ</w>
+<w>αυτω</w>
+<w>πασας</w>
+<lb/>
+<w>τας</w>
+<w>αδικιας</w>
+<w>αυτων</w>
+<lb/>
+<w>εις</w>
+<w>την</w>
+<w>
+α
+<unclear reason="damage to page">β</unclear>
+ατον
+</w>
+<w>και</w>
+<lb/>
+<w>
+εξαποστε
+<unclear reason="faded ink">λ</unclear>
+ει
+</w>
+<w>τον</w>
+<w>
+χι
+<lb break="no"/>
+μαρον
+</w>
+<w>εις</w>
+<w>την</w>
+<w>ερημον</w>
+<lb/>
+</ab>
+<ab n="Lev.16.23" part="I">
+<w>και</w>
+<w>εισελευσεται</w>
+<w>
+αα
+<lb break="no"/>
+ρων
+</w>
+<w>εις</w>
+<w>την</w>
+<w>
+<supplied source="na28" reason="illegible">σκηνην</supplied>
+</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>και</w>
+<w>
+εκ
+<lb break="no"/>
+δυσεται
+</w>
+<w>την</w>
+<w>στολην</w>
+<lb/>
+<w>την</w>
+<w>λινην</w>
+<w>
+<unclear reason="Ink fading and retracing">η</unclear>
+ν
+</w>
+<w>
+ενδε
+<lb break="no"/>
+<unclear reason="Ink fading and retracing">δ</unclear>
+υκει
+</w>
+<w>
+εισπορευομε
+<lb break="no"/>
+νου
+</w>
+<w>αυτου</w>
+<w>εις</w>
+<w>το</w>
+<w>αγιον</w>
+<lb/>
+<w>και</w>
+<w>αποθησει</w>
+<w>αυτην</w>
+</ab>
+</div>
+</div>
+<pb n="17v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K16">
+<ab n="B03K16V23" part="F">
+<w>εκει</w>
+</ab>
+<ab n="B03K16V24">
+<w>και</w>
+<w>λουσεται</w>
+<w>το</w>
+<lb/>
+<w>σωμα</w>
+<w>αυτου</w>
+<w>υδατι</w>
+<w>εν</w>
+<lb/>
+<w>τοπω</w>
+<w>αγιω</w>
+<w>και</w>
+<w>
+ενδυ
+<lb break="no"/>
+σεται
+</w>
+<w>την</w>
+<w>στολην</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>και</w>
+<w>εξελθων</w>
+<w>
+ποι
+<lb break="no"/>
+ησει
+</w>
+<w>το</w>
+<w>ολοκαυτωμα</w>
+<lb/>
+<w>αυτου</w>
+<w>και</w>
+<w>το</w>
+<w>
+ολοκαρ
+<lb break="no"/>
+πωμα
+</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>αυτου</w>
+</rdg>
+<rdg type="corr" hand="corrector" rend="strikethrough">
+<w>του</w>
+</rdg>
+</app>
+<w>λαου</w>
+<w>και</w>
+<lb/>
+<w>εξειλασεται</w>
+<w>περι</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>και</w>
+<w>του</w>
+<w>οικου</w>
+<w>
+αυ
+<lb break="no"/>
+το
+<gap reason="lacuna" unit="char" extent="1"/>
+υ
+</w>
+<w>και</w>
+<w>περι</w>
+<w>του</w>
+<w>λαου</w>
+<lb/>
+</ab>
+<ab n="B03K16V25">
+<w>και</w>
+<w>το</w>
+<w>στεαρ</w>
+<w>το</w>
+<w>περι</w>
+<w>των</w>
+<lb/>
+<w>αμαρτιων</w>
+<w>ανοισει</w>
+<w>
+ε
+<lb break="no"/>
+πι
+</w>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<lb/>
+</ab>
+<ab n="B03K16V26">
+<w>και</w>
+<w>ο</w>
+<w>εξαποστελλων</w>
+<lb/>
+<w>τον</w>
+<w>χιμαρον</w>
+<w>τον</w>
+<w>
+δι
+<lb break="no"/>
+εσταλμενον
+</w>
+<w>εις</w>
+<w>
+αφε
+<lb break="no"/>
+σιν
+</w>
+<w>πλυνει</w>
+<w>τα</w>
+<w>ιματια</w>
+<lb/>
+<w>αυτου</w>
+<w>και</w>
+<w>λουσεται</w>
+<lb/>
+<w>το</w>
+<w>σωμα</w>
+<w>αυτου</w>
+<w>υδατι</w>
+<lb/>
+<w>και</w>
+<w>μετα</w>
+<w>ταυτα</w>
+<w>
+εισελευ
+<lb break="no"/>
+σεται
+</w>
+<w>εις</w>
+<w>την</w>
+<w>
+παρεμ
+<lb break="no"/>
+βολην
+</w>
+</ab>
+<ab n="B03K16V27">
+<w>και</w>
+<w>τον</w>
+<w>μοσχον</w>
+<lb/>
+<w>τον</w>
+<w>περι</w>
+<w>της</w>
+<w>
+αμαρτι
+<lb break="no"/>
+ας
+</w>
+<w>και</w>
+<w>τον</w>
+<w>χιμαρον</w>
+<lb/>
+<w>τον</w>
+<w>περι</w>
+<w>της</w>
+<w>αμαρτιας</w>
+<lb/>
+<w>ων</w>
+<w>εισηνεχθη</w>
+<w>το</w>
+<w>
+αι
+<cb n="2" break="no"/>
+<lb break="no"/>
+μα
+</w>
+<w>αυτων</w>
+<w>
+εξειλασα
+<lb break="no"/>
+σθαι
+</w>
+<w>εν</w>
+<w>τω</w>
+<w>αγιω</w>
+<w>
+εξοι
+<lb break="no"/>
+σει
+</w>
+<w>αυτα</w>
+<w>εξω</w>
+<w>της</w>
+<w>
+πα
+<lb break="no"/>
+ρεμβολης
+</w>
+<w>και</w>
+<w>
+κατα
+<lb break="no"/>
+καυσουσιν
+</w>
+<w>εν</w>
+<w>πυρι</w>
+<lb/>
+<w>τα</w>
+<w>δερματα</w>
+<w>αυτων</w>
+<w>και</w>
+<lb/>
+<w>τα</w>
+<w>κρεα</w>
+<w>αυτων</w>
+<w>και</w>
+<w>την</w>
+<lb/>
+<w>κοπρον</w>
+<w>αυτων</w>
+</ab>
+<ab n="B03K16V28">
+<w>ο</w>
+<w>δε</w>
+<lb/>
+<w>κατακαιων</w>
+<w>αυτα</w>
+<w>
+πλυ
+<lb break="no"/>
+νει
+</w>
+<w>τα</w>
+<w>ιματια</w>
+<w>αυτου</w>
+<lb/>
+<w>και</w>
+<w>λουσεται</w>
+<w>το</w>
+<w>
+σω
+<lb break="no"/>
+μα
+</w>
+<w>αυτου</w>
+<w>υδατι</w>
+<w>και</w>
+<lb/>
+<w>μετα</w>
+<w>ταυτα</w>
+<w>
+εισελευ
+<lb break="no"/>
+σεται
+</w>
+<w>εις</w>
+<w>την</w>
+<w>
+παρεμ
+<lb break="no"/>
+βολην
+</w>
+</ab>
+<ab n="B03K16V29">
+<w>και</w>
+<w>εσται</w>
+<w>
+του
+<lb break="no"/>
+το
+</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>ημιν</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>υμιν</w>
+</seg>
+</rdg>
+</app>
+<w>νομιμον</w>
+<w>
+αι
+<lb break="no"/>
+ωνιον
+</w>
+<w>εν</w>
+<w>τω</w>
+<w>μηνι</w>
+<lb/>
+<w>τω</w>
+<w>εβδομω</w>
+<w>
+δεκατ
+<unclear reason="faded ink">η</unclear>
+</w>
+<lb/>
+<w>του</w>
+<w>μηνος</w>
+<w>
+ταπεινω
+<lb break="no"/>
+σετε
+</w>
+<w>τας</w>
+<w>ψυχας</w>
+<w>υμων</w>
+<lb/>
+<w>και</w>
+<w>παν</w>
+<w>εργον</w>
+<w>ου</w>
+<w>
+ποι
+<lb break="no"/>
+ησετε
+</w>
+<w>ο</w>
+<w>αυτοχθων</w>
+<lb/>
+<w>και</w>
+<w>ο</w>
+<w>προσηλυτος</w>
+<w>ο</w>
+<lb/>
+<w>προσκειμενος</w>
+<w>εν</w>
+<w>
+υ
+<lb break="no"/>
+μιν
+</w>
+</ab>
+<ab n="B03K16V30" part="I">
+<w>εν</w>
+<w>γαρ</w>
+<w>τη</w>
+<w>ημερα</w>
+<lb/>
+<w>ταυτη</w>
+<w>εξειλασεται</w>
+<w>
+π
+<unclear reason="faded ink">ε</unclear>
+<lb break="no"/>
+ρι
+</w>
+<w>υμων</w>
+<w>καθαρισαι</w>
+<w part="I">
+υ
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="18r" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K16">
+<ab n="B03K16V30" part="F">
+<w part="F">μας</w>
+<w>απο</w>
+<w>πασων</w>
+<w>των</w>
+<lb/>
+<w>αμαρτιων</w>
+<w>υμων</w>
+<w>
+εναν
+<lb break="no"/>
+τι
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>καθαρισθησεσθε</w>
+<lb/>
+</ab>
+<ab n="B03K16V31">
+<w>σαββατα</w>
+<w>σαββατων</w>
+<w>
+ε
+<lb break="no"/>
+σται
+</w>
+<w>υμιν</w>
+<w>και</w>
+<w>
+ταπει
+<lb break="no"/>
+νωσετε
+</w>
+<w>τας</w>
+<w>ψυχας</w>
+<w>
+υ
+<lb break="no"/>
+μων
+</w>
+<w>νομιμον</w>
+<w>
+αιω
+<lb break="no"/>
+νιον
+</w>
+</ab>
+<ab n="B03K16V32">
+<w>εξειλασετε</w>
+<w>ο</w>
+<w>
+ιε
+<lb break="no"/>
+ρευς
+</w>
+<w>ον</w>
+<w>αν</w>
+<w>χρεισωσιν</w>
+<lb/>
+<w>αυτον</w>
+<w>και</w>
+<w>ον</w>
+<w>αν</w>
+<w>
+τελει
+<lb break="no"/>
+ωσωσιν
+</w>
+<w>τας</w>
+<w>χειρας</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>ιερατευειν</w>
+<w>μετα</w>
+<lb/>
+<w>τον</w>
+<w>πατερα</w>
+<w>αυτου</w>
+<w>και</w>
+<lb/>
+<w>ενδυσεται</w>
+<w>την</w>
+<w>στολην</w>
+<lb/>
+<w>την</w>
+<w>λινην</w>
+<w>στολην</w>
+<w>
+α
+<lb break="no"/>
+γιαν
+</w>
+</ab>
+<ab n="B03K16V33">
+<w>και</w>
+<w>εξειλασεται</w>
+<lb/>
+<w>το</w>
+<w>αγιον</w>
+<w>του</w>
+<w>αγιου</w>
+<w>και</w>
+<lb/>
+<w>την</w>
+<w>σκηνην</w>
+<w>του</w>
+<w>
+μαρ
+<lb break="no"/>
+τυριου
+</w>
+<w>και</w>
+<w>το</w>
+<w>
+θυσια
+<lb break="no"/>
+στηριον
+</w>
+<w>εξειλασεται</w>
+<lb/>
+<w>και</w>
+<w>περι</w>
+<w>των</w>
+<w>ιερεων</w>
+<lb/>
+<w>και</w>
+<w>περι</w>
+<w>πασης</w>
+<w>της</w>
+<w>
+συ
+<lb break="no"/>
+ναγωγης
+</w>
+<w>εξειλασεται</w>
+<lb/>
+</ab>
+<ab n="B03K16V34">
+<w>και</w>
+<w>εσται</w>
+<w>τουτο</w>
+<w>υμιν</w>
+<lb/>
+<w>νομιμον</w>
+<w>αιωνιον</w>
+<lb/>
+<w>εξειλασκεσθαι</w>
+<w>περι</w>
+<lb/>
+<w>των</w>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>απο</w>
+<cb n="2"/>
+<lb/>
+<w>πασων</w>
+<w>των</w>
+<w>
+αμαρτι
+<lb break="no"/>
+ων
+</w>
+<w>αυτων</w>
+<w>απαξ</w>
+<w>του</w>
+<lb/>
+<w>ενιαυτου</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>
+ποιηθη
+<lb break="no"/>
+σετε
+</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>
+ποιηθη
+<lb break="no"/>
+σεται
+</w>
+</seg>
+</rdg>
+</app>
+<w>καθαπερ</w>
+<w>
+συνε
+<lb break="no"/>
+ταξεν
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>μωση</w>
+<lb/>
+</ab>
+</div>
+<div type="chapter" n="B03K17">
+<ab n="B03K17V1">
+<w>και</w>
+<w>ελαλησεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>προς</w>
+<lb/>
+<w>μωσην</w>
+<w>λεγων</w>
+</ab>
+<ab n="B03K17V2">
+<w>
+λαλη
+<lb break="no"/>
+σον
+</w>
+<w>προς</w>
+<w>ααρων</w>
+<w>και</w>
+<lb/>
+<w>τους</w>
+<w>υιους</w>
+<w>αυτου</w>
+<w>και</w>
+<lb/>
+<w>προς</w>
+<w>παντας</w>
+<w>υιους</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>ερεις</w>
+<w>προς</w>
+<w>
+αυ
+<lb break="no"/>
+τους
+</w>
+<w>τουτο</w>
+<w>το</w>
+<w>ρημα</w>
+<lb/>
+<w>ο</w>
+<w>ενετειλατο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>
+λε
+<lb break="no"/>
+γων
+</w>
+</ab>
+<ab n="B03K17V3">
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ανος</hi>
+</abbr>
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ανος</hi>
+</abbr>
+</w>
+<w>των</w>
+<lb/>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>ος</w>
+<w>αν</w>
+<w>
+σφα
+<lb break="no"/>
+ξη
+</w>
+<w>μοσχον</w>
+<w>η</w>
+<w>
+προβα
+<lb break="no"/>
+τον
+</w>
+<w>η</w>
+<w>αιγα</w>
+<w>εν</w>
+<w>τη</w>
+<w>
+παρ
+<unclear reason="faded ink">ε</unclear>
+μ
+<lb break="no"/>
+βολη
+</w>
+<w>και</w>
+<w>ος</w>
+<w>αν</w>
+<w>
+σφα
+<lb break="no"/>
+ξη
+</w>
+<w>εξω</w>
+<w>της</w>
+<w>
+παρεμ
+<lb break="no"/>
+βολης
+</w>
+</ab>
+<ab n="B03K17V4" part="I">
+<w>και</w>
+<w>επι</w>
+<w>την</w>
+<w>
+<unclear reason="faded ink">θ</unclear>
+υ
+<lb break="no"/>
+ραν
+</w>
+<w>της</w>
+<w>σκηνης</w>
+<w>του</w>
+<lb/>
+<w>μαρτυριου</w>
+<w>μη</w>
+<w>
+ενεγ
+<lb break="no"/>
+κη
+</w>
+<w>αυτο</w>
+<w>ωστε</w>
+<w>
+ποι
+<lb break="no"/>
+ησαι
+</w>
+<w>αυτο</w>
+<w>εις</w>
+<w>
+ολοκαυ
+<lb break="no"/>
+τωμα
+</w>
+<w>η</w>
+<w>εις</w>
+<w>σωτηριον</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>δεκτον</w>
+<w>εις</w>
+<w>οσμην</w>
+<lb/>
+<w>ευωδιας</w>
+<w>και</w>
+<w>ος</w>
+<w>αν</w>
+</ab>
+</div>
+</div>
+<pb n="18v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K17">
+<ab n="B03K17V4" part="F">
+<w>σφαξη</w>
+<w>εξω</w>
+<w>και</w>
+<w>επι</w>
+<lb/>
+<w>την</w>
+<w>θυραν</w>
+<w>της</w>
+<w>
+σκη
+<lb break="no"/>
+νης
+</w>
+<w>του</w>
+<w>μαρτυριου</w>
+<lb/>
+<w>μη</w>
+<w>ενεγκη</w>
+<w>αυτο</w>
+<w>
+ωσ
+<lb break="no"/>
+τε
+</w>
+<w>προσενεγκαι</w>
+<w>αυτο</w>
+<lb/>
+<w>δωρον</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>
+απεναν
+<lb break="no"/>
+τι
+</w>
+<w>της</w>
+<w>σκηνης</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>
+αι
+<lb break="no"/>
+μα
+</w>
+<w>
+λο
+<unclear reason="faded ink">γ</unclear>
+<supplied source="na28" reason="illegible">ι</supplied>
+σθησεται
+</w>
+<w>τω</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ανω</hi>
+</abbr>
+</w>
+<w>εκεινω</w>
+<w>αιμα</w>
+<w>
+ε
+<lb break="no"/>
+ξεχεεν
+</w>
+<w>
+εξολεθρευ
+<lb break="no"/>
+θησεται
+</w>
+<w>η</w>
+<w>ψυχη</w>
+<w>
+εκει
+<lb break="no"/>
+νη
+</w>
+<w>εξκ</w>
+<w>του</w>
+<w>λαου</w>
+<w>
+αυ
+<lb break="no"/>
+της
+</w>
+</ab>
+<ab n="B03K17V5">
+<w>οπως</w>
+<w>αν</w>
+<w>
+φερω
+<lb break="no"/>
+σιν
+</w>
+<w>οι</w>
+<w>υιοι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>τας</w>
+<w>
+θυ
+<lb break="no"/>
+σιας
+</w>
+<w>αυτων</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>οσα</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>οσας</w>
+</seg>
+</rdg>
+</app>
+<w>αν</w>
+<w>
+αυ
+<lb break="no"/>
+τοι
+</w>
+<w>σφαζωσιν</w>
+<w>εν</w>
+<w>τοις</w>
+<lb/>
+<w>πεδιοις</w>
+<w>και</w>
+<w>οισουσιν</w>
+<lb/>
+<w>αυτα</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>επι</w>
+<w>τας</w>
+<lb/>
+<w>θυρας</w>
+<w>της</w>
+<w>σκηνης</w>
+<lb/>
+<w>του</w>
+<w>μαρτυριου</w>
+<w>προς</w>
+<lb/>
+<w>τον</w>
+<w>ιερεα</w>
+<w>και</w>
+<w>
+θυσου
+<lb break="no"/>
+σιν
+</w>
+<w>θυσιαν</w>
+<w>σωτηριου</w>
+<lb/>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>αυτα</w>
+</ab>
+<ab n="B03K17V6">
+<w>και</w>
+<w>
+προσ
+<lb break="no"/>
+χεει
+</w>
+<w>ο</w>
+<w>ιερευς</w>
+<w>το</w>
+<w>αιμα</w>
+<lb/>
+<w>επι</w>
+<w>το</w>
+<w>θυσιαστηριον</w>
+<lb/>
+<w>κυκλω</w>
+<w>απεναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<lb/>
+<w>παρα</w>
+<w>τας</w>
+<w>θυρας</w>
+<w>της</w>
+<cb n="2"/>
+<lb/>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρτυρ
+<unclear reason="faded ink">ι</unclear>
+<lb break="no"/>
+ου
+</w>
+<w>και</w>
+<w>ανοισει</w>
+<w>το</w>
+<w>
+στε
+<lb break="no"/>
+αρ
+</w>
+<w>εις</w>
+<w>οσμην</w>
+<w>ευωδιας</w>
+<lb/>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K17V7">
+<w>και</w>
+<w>ου</w>
+<w>
+θυσου
+<lb break="no"/>
+σιν
+</w>
+<w>ετι</w>
+<w>τας</w>
+<w>θυσιας</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+<w>τοις</w>
+<w>ματαιοις</w>
+<w>οις</w>
+<lb/>
+<w>αυτοι</w>
+<w>
+εκπορνευουσ
+<supplied source="na28" reason="illegible">ι</supplied>
+ν
+</w>
+<lb/>
+<w>οπισω</w>
+<w>αυτων</w>
+<w>
+νο
+<unclear reason="faded ink">μι</unclear>
+<lb break="no"/>
+μον
+</w>
+<w>αιωνιον</w>
+<w>τουτο</w>
+<lb/>
+<w>εσται</w>
+<w>υμιν</w>
+<w>εις</w>
+<w>τας</w>
+<w>
+γε
+<lb break="no"/>
+νεας
+</w>
+<w>υμων</w>
+</ab>
+<ab n="B03K17V8">
+<w>και</w>
+<w>προς</w>
+<lb/>
+<w>αυτους</w>
+<w>ερεις</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ανος</hi>
+</abbr>
+</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ανος</hi>
+</abbr>
+</w>
+<w>απο</w>
+<w>των</w>
+<w>υιων</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>απο</w>
+<w>των</w>
+<w>
+προσ
+<lb break="no"/>
+ηλυτων
+</w>
+<w>των</w>
+<w>
+προσ
+<lb break="no"/>
+κειμενων
+</w>
+<w>εν</w>
+<w>υμιν</w>
+<lb/>
+<w>ος</w>
+<w>αν</w>
+<w>ποιηση</w>
+<w>
+ολοκαυ
+<lb break="no"/>
+τωμα
+</w>
+<w>η</w>
+<w>θυσιαν</w>
+</ab>
+<ab n="B03K17V9">
+<w>και</w>
+<w>
+ε
+<lb break="no"/>
+πι
+</w>
+<w>την</w>
+<w>θυραν</w>
+<w>της</w>
+<w>
+σκ
+<unclear reason="faded ink">η</unclear>
+<lb break="no"/>
+νης
+</w>
+<w>του</w>
+<w>μαρτυριου</w>
+<lb/>
+<w>μη</w>
+<w>ενεγκη</w>
+<w>
+ποι
+<supplied source="na28" reason="illegible">η</supplied>
+<unclear reason="faded ink">σ</unclear>
+αι
+</w>
+<lb/>
+<w>αυτο</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>
+εξ
+<unclear reason="faded ink">ολε</unclear>
+<lb break="no"/>
+θρευθησεται
+</w>
+<w>η</w>
+<w>
+ψ
+<unclear reason="faded ink">υχ</unclear>
+<supplied source="na28" reason="illegible">η</supplied>
+</w>
+<lb/>
+<w>εκεινη</w>
+<w>εκ</w>
+<w>του</w>
+<w>
+<unclear reason="faded ink">λα</unclear>
+ου
+</w>
+<lb/>
+<w>αυτης</w>
+<lb/>
+</ab>
+<ab n="B03K17V10" part="I">
+<w>και</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ανος</hi>
+</abbr>
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ανος</hi>
+</abbr>
+</w>
+<w>
+<unclear reason="faded ink">τ</unclear>
+ων
+</w>
+<w>
+υ
+<lb break="no"/>
+ιων
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>η</w>
+<w>
+τω
+<unclear reason="faded ink">ν</unclear>
+</w>
+<w part="I">
+προσ
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="19r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K18">
+<ab n="B03K18V28" part="F">
+<w>θνεσιν</w>
+<w>τοις</w>
+<w>προ</w>
+<w>υμων</w>
+<lb/>
+</ab>
+<ab n="B03K18V29">
+<w>οτι</w>
+<w>πας</w>
+<w>ος</w>
+<w>εαν</w>
+<w>ποιηση</w>
+<lb/>
+<w>απο</w>
+<w>παντων</w>
+<w>των</w>
+<w>
+βδε
+<lb break="no"/>
+λυγματων
+</w>
+<w>τουτων</w>
+<lb/>
+<w>εξολεθρευθησονται</w>
+<lb/>
+<w>αι</w>
+<w>ψυχαι</w>
+<w>αι</w>
+<w>ποιουσαι</w>
+<lb/>
+<w>εκ</w>
+<w>μεσου</w>
+<w>του</w>
+<w>λαου</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B03K18V30">
+<w>και</w>
+<w>φυλαξεσθε</w>
+<w>τα</w>
+<w>
+προσ
+<lb break="no"/>
+ταγματα
+</w>
+<w>μου</w>
+<w>οπως</w>
+<lb/>
+<w>μη</w>
+<w>ποιητε</w>
+<w>απο</w>
+<w>των</w>
+<lb/>
+<w>νομιμων</w>
+<w>των</w>
+<w>
+εβδε
+<lb break="no"/>
+λυγμενων
+</w>
+<w>α</w>
+<w>γεγονεν</w>
+<lb/>
+<w>προ</w>
+<w>του</w>
+<w>υμας</w>
+<w>και</w>
+<w>ου</w>
+<lb/>
+<w>μιανθησεσθε</w>
+<w>εν</w>
+<w>
+αυ
+<lb break="no"/>
+τοις
+</w>
+<w>οτι</w>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>
+υ
+<lb break="no"/>
+μων
+</w>
+<lb/>
+</ab>
+</div>
+<div type="chapter" n="B03K19">
+<ab n="B03K19V1">
+<w>και</w>
+<w>ελαλησεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>προς</w>
+<lb/>
+<w>μωσην</w>
+<w>λεγων</w>
+</ab>
+<ab n="B03K19V2">
+<w>
+λαλη
+<lb break="no"/>
+σον
+</w>
+<w>παση</w>
+<w>τη</w>
+<w>
+συναγω
+<lb break="no"/>
+γη
+</w>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>ερεις</w>
+<lb/>
+<w>προς</w>
+<w>αυτους</w>
+<w>αγιοι</w>
+<w>
+ε
+<lb break="no"/>
+σεσ
+<unclear reason="faded ink">θ</unclear>
+ε
+</w>
+<w>οτι</w>
+<w>αγιος</w>
+<w>εγω</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>υμων</w>
+</ab>
+<ab n="B03K19V3">
+<w>εκαστος</w>
+<lb/>
+<w>μητερα</w>
+<w>αυτου</w>
+<w>και</w>
+<w>
+πα
+<lb break="no"/>
+τερα
+</w>
+<w>αυτου</w>
+<w>φοβεισθω</w>
+<lb/>
+<w>και</w>
+<w>τα</w>
+<w>σαββατα</w>
+<w>μου</w>
+<w>
+φυ
+<lb break="no"/>
+λαξεσθε
+</w>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<cb n="2"/>
+<lb/>
+<w>υμων</w>
+</ab>
+<ab n="B03K19V4">
+<w>ουκ</w>
+<w>
+επακολου
+<lb break="no"/>
+θησετε
+</w>
+<w>ειδωλοις</w>
+<w>και</w>
+<lb/>
+<w>θεους</w>
+<w>χωνευτους</w>
+<lb/>
+<w>ου</w>
+<w>ποιησετε</w>
+<w>υμιν</w>
+<lb/>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>υμων</w>
+</ab>
+<ab n="B03K19V5">
+<w>και</w>
+<lb/>
+<w>εαν</w>
+<w>θυσητε</w>
+<w>θυσιαν</w>
+<lb/>
+<w>σωτηριου</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>
+δε
+<lb break="no"/>
+κτην
+</w>
+<w>υμων</w>
+<w>θυσετε</w>
+<lb/>
+</ab>
+<ab n="B03K19V6">
+<w>η</w>
+<w>αν</w>
+<w>ημερα</w>
+<w>θυσητε</w>
+<lb/>
+<w>βρωθησεται</w>
+<w>και</w>
+<w>τη</w>
+<lb/>
+<w>αυριον</w>
+<w>και</w>
+<w>εαν</w>
+<w>
+κατα
+<lb break="no"/>
+λειφθη
+</w>
+<w>εως</w>
+<w>ημερας</w>
+<lb/>
+<w>τριτης</w>
+<w>εν</w>
+<w>πυρι</w>
+<w>
+κατα
+<lb break="no"/>
+καυθησεται
+</w>
+</ab>
+<ab n="B03K19V7">
+<w>εαν</w>
+<w>δε</w>
+<lb/>
+<w>βρωσει</w>
+<w>βρωθη</w>
+<w>τη</w>
+<w>
+η
+<lb break="no"/>
+μερα
+</w>
+<w>τη</w>
+<w>τριτη</w>
+<w>αθυτον</w>
+<lb/>
+<w>εστιν</w>
+<w>ου</w>
+<w>δεχθησεται</w>
+<lb/>
+</ab>
+<ab n="B03K19V8">
+<w>ο</w>
+<w>δε</w>
+<w>εσθων</w>
+<w>αυτο</w>
+<w>
+αμαρ
+<lb break="no"/>
+τιαν
+</w>
+<w>λημψεται</w>
+<w>οτι</w>
+<w>τα</w>
+<lb/>
+<w>αγια</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>εβεβηλωσεν</w>
+<lb/>
+<w>και</w>
+<w>
+εξολεθρευθησον
+<lb break="no"/>
+ται
+</w>
+<w>αι</w>
+<w>ψυχαι</w>
+<w>αι</w>
+<w>
+εσθου
+<lb break="no"/>
+σαι
+</w>
+<w>εκ</w>
+<w>του</w>
+<w>λαου</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B03K19V9" part="I">
+<w>και</w>
+<w>εκθεριζοντων</w>
+<lb/>
+<w>υμων</w>
+<w>τον</w>
+<w>
+θερισ
+<unclear reason="faded ink">μο</unclear>
+ν
+</w>
+<lb/>
+<w>της</w>
+<w>γης</w>
+<w>υμων</w>
+<w>ου</w>
+<w>
+συν
+<lb break="no"/>
+τελεσετε
+</w>
+<w>
+το
+<unclear reason="faded ink">ν</unclear>
+</w>
+<w>
+<unclear reason="faded ink">θερισ</unclear>
+μον
+</w>
+</ab>
+</div>
+</div>
+<pb n="19v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K19">
+<ab n="B03K19V9" part="F">
+<w>υμων</w>
+<w>του</w>
+<w>αγρου</w>
+<w>σου</w>
+<lb/>
+<w>εκθερισαι</w>
+<w>και</w>
+<w>τα</w>
+<w>
+απο
+<lb break="no"/>
+πειπτοντα
+</w>
+<w>του</w>
+<w>
+θερισ
+<lb break="no"/>
+μου
+</w>
+<w>σου</w>
+<w>ου</w>
+<w>συλλεξεις</w>
+<lb/>
+</ab>
+<ab n="B03K19V10">
+<w>και</w>
+<w>τον</w>
+<w>αμπελωνα</w>
+<lb/>
+<w>σου</w>
+<w>ουκ</w>
+<w>
+επανατρυγη
+<lb break="no"/>
+σεις
+</w>
+<w>ουδε</w>
+<w>τους</w>
+<w>ρωγας</w>
+<lb/>
+<w>του</w>
+<w>αμπελωνος</w>
+<w>σου</w>
+<lb/>
+<w>συλλεξεις</w>
+<w>τω</w>
+<w>
+πτω
+<lb break="no"/>
+χω
+</w>
+<w>και</w>
+<w>τω</w>
+<w>
+προσηλυ
+<lb break="no"/>
+τω
+</w>
+<w>καταλειψεις</w>
+<w>αυτα</w>
+<lb/>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>υμων</w>
+</ab>
+<ab n="B03K19V11">
+<w>ου</w>
+<lb/>
+<w>κλεψετε</w>
+<w>και</w>
+<w>ου</w>
+<w>
+ψευ
+<lb break="no"/>
+σεσθε
+</w>
+<w>ουδε</w>
+<w>
+συκοφαν
+<lb break="no"/>
+τησει
+</w>
+<w>εκαστος</w>
+<w>τον</w>
+<lb/>
+<w>πλησιον</w>
+</ab>
+<ab n="B03K19V12">
+<w>και</w>
+<w>ουκ</w>
+<w>
+ο
+<lb break="no"/>
+μεισθε
+</w>
+<w>τω</w>
+<w>ονοματι</w>
+<lb/>
+<w>μου</w>
+<w>επ</w>
+<w>αδικω</w>
+<w>και</w>
+<w>ου</w>
+<lb/>
+<w>βεβηλωσετε</w>
+<w>το</w>
+<w>
+ονο
+<lb break="no"/>
+μα
+</w>
+<w>του</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θυ</hi>
+</abbr>
+</w>
+<w>υμων</w>
+<w>εγω</w>
+<lb/>
+<w>ειμι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>υμων</w>
+<lb/>
+</ab>
+<ab n="B03K19V13">
+<w>ουκ</w>
+<w>αδικησεις</w>
+<w>τον</w>
+<lb/>
+<w>πλησιον</w>
+<w>σου</w>
+<w>και</w>
+<w>ουκ</w>
+<lb/>
+<w>αρπασεις</w>
+<w>και</w>
+<w>ου</w>
+<w>
+κοι
+<lb break="no"/>
+μηθησεται
+</w>
+<w>ο</w>
+<w>μισθος</w>
+<lb/>
+<w>του</w>
+<w>μισθωτου</w>
+<w>παρα</w>
+<lb/>
+<w>σοι</w>
+<w>εως</w>
+<w>πρωι</w>
+</ab>
+<ab n="B03K19V14">
+<w>ου</w>
+<w>
+κα
+<cb n="2" break="no"/>
+<lb break="no"/>
+κως
+</w>
+<w>ερεις</w>
+<w>κωφον</w>
+<w>και</w>
+<lb/>
+<w>απεναντι</w>
+<w>τυφλου</w>
+<w>ου</w>
+<lb/>
+<w>προσθησεις</w>
+<w>
+σκανδα
+<lb break="no"/>
+λον
+</w>
+<w>και</w>
+<w>φοβηθηση</w>
+<lb/>
+<w>τον</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θν</hi>
+</abbr>
+</w>
+<w>σου</w>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>υμων</w>
+</ab>
+<ab n="B03K19V15">
+<w>ου</w>
+<w>
+ποιησε
+<lb break="no"/>
+τε
+</w>
+<w>αδικον</w>
+<w>εν</w>
+<w>κρισει</w>
+<lb/>
+<w>ου</w>
+<w>λημψη</w>
+<w>προσωπον</w>
+<lb/>
+<w>πτωχου</w>
+<w>ουδε</w>
+<w>
+θαυ
+<lb break="no"/>
+μασεις
+</w>
+<w>προσωπον</w>
+<lb/>
+<w>δυναστου</w>
+<w>εν</w>
+<w>
+δικαιο
+<lb break="no"/>
+συνη
+</w>
+<w>κρινεις</w>
+<w>τον</w>
+<lb/>
+<w>πλησιον</w>
+<w>σου</w>
+</ab>
+<ab n="B03K19V16">
+<w>ου</w>
+<w>
+πο
+<lb break="no"/>
+ρευση
+</w>
+<w>δολω</w>
+<w>εν</w>
+<w>τω</w>
+<w>
+ε
+<lb break="no"/>
+θνει
+</w>
+<w>σου</w>
+<w>ουκ</w>
+<w>
+επισυ
+<lb break="no"/>
+στηση
+</w>
+<w>εφ</w>
+<w>αιμα</w>
+<w>του</w>
+<w>
+πλη
+<lb break="no"/>
+σιον
+</w>
+<w>σου</w>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<lb/>
+<w>υμων</w>
+</ab>
+<ab n="B03K19V17">
+<w>ου</w>
+<w>μεισησεις</w>
+<lb/>
+<w>τον</w>
+<w>αδελφον</w>
+<w>σου</w>
+<w>τη</w>
+<lb/>
+<w>διανοια</w>
+<w>σου</w>
+<w>ελεγμω</w>
+<lb/>
+<w>ελεγξεις</w>
+<w>τον</w>
+<w>
+πλησι
+<lb break="no"/>
+ον
+</w>
+<w>σου</w>
+<w>και</w>
+<w>ου</w>
+<w>λημψη</w>
+<lb/>
+<w>δι</w>
+<w>αυτον</w>
+<w>αμαρτιαν</w>
+<lb/>
+</ab>
+<ab n="B03K19V18" part="I">
+<w>και</w>
+<w>ουκ</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>εδικαται</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P1CL-BnF MS Grec 17 (Ra G)">
+<w>εκδικαται</w>
+</seg>
+</rdg>
+</app>
+<w>σου</w>
+<lb/>
+<w>η</w>
+<w>χειρ</w>
+<w>και</w>
+<w>ου</w>
+<w>μηνιεις</w>
+<lb/>
+<w>τοις</w>
+<w>υιοις</w>
+<w>του</w>
+<w>λαου</w>
+<w>σου</w>
+<lb/>
+<w>και</w>
+<w>αγαπησεις</w>
+<w>τον</w>
+<w part="I">
+π
+<unclear reason="faded ink">λ</unclear>
+η
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="20r" type="folio" break="no"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K19">
+<ab n="B03K19V18" part="F">
+<w part="F">σιον</w>
+<w>σου</w>
+<w>ως</w>
+<w>σεαυτον</w>
+<lb/>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K19V19">
+<w>τον</w>
+<w>νομον</w>
+<w>μου</w>
+<lb/>
+<w>φυλαξεσθε</w>
+<w>τα</w>
+<w>κτηνη</w>
+<lb/>
+<w>σου</w>
+<w>ου</w>
+<w>κατοχετευσεις</w>
+<lb/>
+<w>ετεροζυγω</w>
+<w>και</w>
+<w>τον</w>
+<lb/>
+<w>αμπελωνα</w>
+<w>σου</w>
+<w>ου</w>
+<w>
+κα
+<lb break="no"/>
+τασπερεις
+</w>
+<w>διφορον</w>
+<lb/>
+<w>και</w>
+<w>ιματιον</w>
+<w>εκ</w>
+<w>δυο</w>
+<lb/>
+<w>υφασμενον</w>
+<w>
+κιβδη
+<lb break="no"/>
+λον
+</w>
+<w>ουκ</w>
+<w>επιβαλεις</w>
+<lb/>
+<w>σεαυτω</w>
+<lb/>
+</ab>
+<ab n="B03K19V20">
+<w>και</w>
+<w>εαν</w>
+<w>τις</w>
+<w>κοιμηθη</w>
+<w>
+με
+<lb break="no"/>
+τα
+</w>
+<w>γυναικος</w>
+<w>κοιτην</w>
+<lb/>
+<w>σπερματος</w>
+<w>και</w>
+<w>αυτη</w>
+<lb/>
+<w>οικετις</w>
+<w>
+διαπεφυλα
+<lb break="no"/>
+γμενη
+</w>
+<w>ανθρωπω</w>
+<w>και</w>
+<lb/>
+<w>λυτροις</w>
+<w>ου</w>
+<w>
+λελυτρω
+<lb break="no"/>
+ται
+</w>
+<w>η</w>
+<w>ελευθερια</w>
+<w>ουκ</w>
+<w>
+ε
+<lb break="no"/>
+δοθη
+</w>
+<w>αυτη</w>
+<w>
+επισκο
+<lb break="no"/>
+πη
+</w>
+<w>εσται</w>
+<w>αυτοις</w>
+<w>ουκ</w>
+<lb/>
+<w>αποθανουνται</w>
+<w>οτι</w>
+<lb/>
+<w>
+ο
+<supplied source="na28" reason="illegible">υ</supplied>
+κ
+</w>
+<w>ηλευθερωθη</w>
+<lb/>
+</ab>
+<ab n="B03K19V21">
+<w>και</w>
+<w>προσαξει</w>
+<w>της</w>
+<w>
+πλημ
+<lb break="no"/>
+μελειας
+</w>
+<w>αυτου</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+<w>παρα</w>
+<w>την</w>
+<w>θυραν</w>
+<w>της</w>
+<lb/>
+<w>σκηνης</w>
+<w>του</w>
+<w>
+μαρτυ
+<lb break="no"/>
+ριου
+</w>
+<w>κρειον</w>
+<w>
+πλημ
+<cb n="2" break="no"/>
+<lb break="no"/>
+μελειας
+</w>
+</ab>
+<ab n="B03K19V22">
+<w>και</w>
+<w>
+εξειλασε
+<lb break="no"/>
+ται
+</w>
+<w>περι</w>
+<w>αυτου</w>
+<w>ο</w>
+<w>ιερευς</w>
+<lb/>
+<w>εν</w>
+<w>τω</w>
+<w>κρειω</w>
+<w>της</w>
+<w>
+πλημ
+<lb break="no"/>
+με
+<unclear reason="faded ink">λ</unclear>
+ειας
+</w>
+<w>εναντι</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<lb/>
+<w>περι</w>
+<w>της</w>
+<w>αμαρτιας</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>ης</w>
+<w>ημαρτεν</w>
+<w>και</w>
+<lb/>
+<w>αφεθησεται</w>
+<w>αυτω</w>
+<w>η</w>
+<lb/>
+<w>αμαρτια</w>
+<w>αυτου</w>
+<w>ην</w>
+<w>
+η
+<lb break="no"/>
+μαρτεν
+</w>
+<lb/>
+</ab>
+<ab n="B03K19V23">
+<w>οταν</w>
+<w>δε</w>
+<w>εισελθητε</w>
+<w>εις</w>
+<lb/>
+<w>την</w>
+<w>γην</w>
+<w>ην</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<lb/>
+<w>υμων</w>
+<w>διδωσιν</w>
+<w>υμιν</w>
+<lb/>
+<w>και</w>
+<w>καταφυτευσητε</w>
+<lb/>
+<w>παν</w>
+<w>ξυλον</w>
+<w>βρωσιμον</w>
+<lb/>
+<w>και</w>
+<w>περικαθαριειτε</w>
+<lb/>
+<w>την</w>
+<w>ακαθαρσιαν</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>ο</w>
+<w>καρπος</w>
+<w>αυτου</w>
+<lb/>
+<w>τρια</w>
+<w>ετη</w>
+<w>εσται</w>
+<w>υμιν</w>
+<lb/>
+<w>απερικαθαρτος</w>
+<w>ου</w>
+<lb/>
+<w>βρωθησεται</w>
+</ab>
+<ab n="B03K19V24">
+<w>και</w>
+<w>τω</w>
+<lb/>
+<w>ετει</w>
+<w>τω</w>
+<w>τεταρτω</w>
+<w>
+ε
+<lb break="no"/>
+σται
+</w>
+<w>πας</w>
+<w>ο</w>
+<w>καρπος</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>αγιος</w>
+<w>αινετος</w>
+<lb/>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K19V25" part="I">
+<w>εν</w>
+<w>δε</w>
+<w>τω</w>
+<w>ετει</w>
+<lb/>
+<w>τω</w>
+<w>πεμπτω</w>
+<w>
+φαγε
+<lb break="no"/>
+σθε
+</w>
+<w>τον</w>
+<w>καρπον</w>
+<w>
+αυ
+<lb break="no"/>
+του
+</w>
+<w>προσθεμα</w>
+<w>υμιν</w>
+</ab>
+</div>
+</div>
+<pb n="20v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B03">
+<div type="chapter" n="B03K19">
+<ab n="B03K19V25" part="F">
+<w>τα</w>
+<w>γενηματα</w>
+<w>αυτου</w>
+<w>
+ε
+<lb break="no"/>
+γω
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>υμων</w>
+</ab>
+<ab n="B03K19V26">
+<w>μη</w>
+<lb/>
+<w>εσθετε</w>
+<w>επι</w>
+<w>των</w>
+<w>ορεων</w>
+<lb/>
+<w>και</w>
+<w>ουκ</w>
+<w>οιωνιεισθε</w>
+<lb/>
+<w>ουδε</w>
+<w>
+ορνειθοσκοπη
+<lb break="no"/>
+σεσθε
+</w>
+</ab>
+<ab n="B03K19V27">
+<w>ου</w>
+<w>ποιησετε</w>
+<lb/>
+<w>
+σισ
+<unclear reason="Faded ink and retracing">ο</unclear>
+ην
+</w>
+<w>εκ</w>
+<w>της</w>
+<w>κομης</w>
+<lb/>
+<w>της</w>
+<w>κεφαλης</w>
+<w>υμων</w>
+<lb/>
+<w>ουδε</w>
+<w>
+φθερει
+<supplied source="na28" reason="illegible">τε</supplied>
+</w>
+<w>
+<supplied source="na28" reason="illegible">την</supplied>
+</w>
+<lb/>
+<w>οψιν</w>
+<w>του</w>
+<w>
+<unclear reason="Fading and retracing">π</unclear>
+ωγωνος
+</w>
+<lb/>
+<w>υμων</w>
+</ab>
+<ab n="B03K19V28">
+<w>και</w>
+<w>
+εντομι
+<unclear reason="Fading and retracing">δα</unclear>
+ς
+</w>
+<lb/>
+<w>επι</w>
+<w>ψυχη</w>
+<w>ου</w>
+<w>
+ποιησε
+<lb break="no"/>
+τε
+</w>
+<w>εν</w>
+<w>τω</w>
+<w>σωματι</w>
+<w>υμων</w>
+<lb/>
+<w>και</w>
+<w>
+γρα
+<supplied source="na28" reason="illegible">μ</supplied>
+ματα
+</w>
+<w>
+στικτ
+<unclear reason="faded ink">α</unclear>
+</w>
+<lb/>
+<w>ου</w>
+<w>ποιησετε</w>
+<w>εν</w>
+<w>υμιν</w>
+<lb/>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>υμων</w>
+</ab>
+<ab n="B03K19V29">
+<w>ου</w>
+<lb/>
+<w>βεβηλωσεις</w>
+<w>την</w>
+<w>
+θυ
+<lb break="no"/>
+γατερα
+</w>
+<w>σου</w>
+<w>
+εκπορνευ
+<lb break="no"/>
+σαι
+</w>
+<w>αυτην</w>
+<w>και</w>
+<w>ουκ</w>
+<w>
+εκ
+<lb break="no"/>
+πορνευσει
+</w>
+<w>η</w>
+<w>γη</w>
+<w>και</w>
+<lb/>
+<w>πλησθησεται</w>
+<w>η</w>
+<w>γη</w>
+<w>
+α
+<lb break="no"/>
+νομιας
+</w>
+</ab>
+<ab n="B03K19V30">
+<w>τα</w>
+<w>σαββατα</w>
+<lb/>
+<w>μου</w>
+<w>φυλαξεσθε</w>
+<w>και</w>
+<lb/>
+<w>απο</w>
+<w>των</w>
+<w>αγιων</w>
+<w>μου</w>
+<lb/>
+<w>φοβηθησεσθε</w>
+<w>εγω</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B03K19V31">
+<w>ουκ</w>
+<w>
+επακολουθη
+<lb break="no"/>
+σετε
+</w>
+<w>
+ενγαστριμυ
+<unclear reason="faded ink">θοις</unclear>
+</w>
+<cb n="2"/>
+<lb/>
+<w>και</w>
+<w>τοις</w>
+<w>επαοιδοις</w>
+<w>ου</w>
+<lb/>
+<w>
+προσκολληθησεσ
+<unclear reason="faded ink">θ</unclear>
+ε
+</w>
+<lb/>
+<w>εκμιανθηναι</w>
+<w>εν</w>
+<w>
+αυ
+<lb break="no"/>
+τοις
+</w>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>υμων</w>
+<lb/>
+</ab>
+<ab n="B03K19V32">
+<w>απο</w>
+<w>προσωπου</w>
+<w>
+πο
+<unclear reason="faded ink">λι</unclear>
+<lb break="no"/>
+ου
+</w>
+<w>εξαναστηση</w>
+<w>και</w>
+<lb/>
+<w>
+τ
+<unclear reason="faded ink">ειμ</unclear>
+ησει
+<unclear reason="faded ink">ς</unclear>
+</w>
+<w>προσωπον</w>
+<lb/>
+<w>
+<unclear reason="faded ink">π</unclear>
+ρεσ
+<unclear reason="faded ink">β</unclear>
+υτερο
+<supplied source="na28" reason="illegible">υ</supplied>
+</w>
+<w>και</w>
+<w>
+φ
+<supplied source="na28" reason="illegible">ο</supplied>
+<lb break="no"/>
+βηθηση
+</w>
+<w>
+τ
+<unclear reason="faded ink">ον</unclear>
+</w>
+<w>
+<unclear reason="faded ink">
+<abbr type="nomSac">
+<hi rend="overline">θν</hi>
+</abbr>
+</unclear>
+</w>
+<w>σου</w>
+<lb/>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>
+<supplied source="na28" reason="illegible">υμων</supplied>
+</w>
+<lb/>
+</ab>
+<ab n="B03K19V33">
+<w>εαν</w>
+<w>δε</w>
+<w>
+τι
+<unclear reason="faded ink">ς</unclear>
+</w>
+<w>
+πρ
+<unclear reason="faded ink">ο</unclear>
+σελθη
+</w>
+<lb/>
+<w>
+<unclear reason="faded ink">υ</unclear>
+μι
+<unclear reason="faded ink">ν</unclear>
+</w>
+<w>
+<unclear reason="faded ink">π</unclear>
+ροσηλυτος
+</w>
+<w>
+<unclear reason="faded ink">εν</unclear>
+</w>
+<lb/>
+<w>τη</w>
+<w>γη</w>
+<w>υμων</w>
+<w>ου</w>
+<w>
+θλει
+<lb break="no"/>
+ψετε
+</w>
+<w>αυτον</w>
+</ab>
+<ab n="B03K19V34">
+<w>ως</w>
+<w>ο</w>
+<w>
+αυτο
+<lb break="no"/>
+χθων
+</w>
+<w>εν</w>
+<w>υμιν</w>
+<w>εσται</w>
+<lb/>
+<w>ο</w>
+<w>προσηλυτος</w>
+<w>ο</w>
+<w>
+προσ
+<lb break="no"/>
+πορευομενος
+</w>
+<w>
+πρ
+<unclear reason="faded ink">ος</unclear>
+</w>
+<lb/>
+<w>
+<unclear reason="faded ink">υ</unclear>
+μας
+</w>
+<w>και</w>
+<w>αγαπησεις</w>
+<lb/>
+<w>
+<unclear reason="faded ink">α</unclear>
+υτον
+</w>
+<w>ως</w>
+<w>σεαυτον</w>
+<w>
+<supplied source="na28" reason="illegible">ο</supplied>
+<lb break="no"/>
+<unclear reason="faded ink">τ</unclear>
+<supplied source="na28" reason="illegible">ι</supplied>
+</w>
+<w>προσηλυτοι</w>
+<w>
+εγεν
+<unclear reason="faded ink">η</unclear>
+<lb break="no"/>
+θητε
+</w>
+<w>
+ε
+<unclear reason="faded ink">ν</unclear>
+</w>
+<w>
+γ
+<unclear reason="faded ink">η</unclear>
+</w>
+<w>
+<unclear reason="faded ink">α</unclear>
+ιγυπτ
+<unclear reason="faded ink">ω</unclear>
+</w>
+<lb/>
+<w>εγω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>ο</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θς</hi>
+</abbr>
+</w>
+<w>
+υμω
+<supplied source="na28" reason="illegible">ν</supplied>
+</w>
+<lb/>
+</ab>
+<ab n="B03K19V35">
+<w>ου</w>
+<w>
+<unclear reason="faded ink">π</unclear>
+οιησετε
+</w>
+<w>
+αδι
+<unclear reason="faded ink">κ</unclear>
+<supplied source="na28" reason="illegible">ο</supplied>
+ν
+</w>
+<lb/>
+<w>εν</w>
+<w>κρισει</w>
+<w>εν</w>
+<w>μετροις</w>
+<lb/>
+<w>και</w>
+<w>εν</w>
+<w>
+σταθ
+<unclear reason="faded ink">μ</unclear>
+ιοις
+</w>
+<w>και</w>
+<w>εν</w>
+<lb/>
+<w>
+<unclear reason="faded ink">ζ</unclear>
+υγοις
+</w>
+</ab>
+<ab n="B03K19V36" part="I">
+<w>
+ζ
+<unclear reason="faded ink">υ</unclear>
+γα
+</w>
+<w>δικαια</w>
+<w>
+κ
+<supplied source="na28" reason="illegible">αι</supplied>
+</w>
+<lb/>
+<w>
+<unclear reason="faded ink">σ</unclear>
+τα
+<unclear reason="faded ink">θ</unclear>
+μια
+</w>
+<w>
+δικαι
+<unclear reason="faded ink">α</unclear>
+</w>
+<w>
+κ
+<unclear reason="faded ink">αι</unclear>
+</w>
+<w part="I">
+οι
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+<pb n="21r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B04">
+<div type="chapter" n="B04K25">
+<ab n="B04K25V2" part="F">
+<w>αυτων</w>
+<w>και</w>
+<w>
+προσεκυ
+<lb break="no"/>
+νησαν
+</w>
+<w>τοις</w>
+<w>
+ειδωλο
+<unclear reason="faded ink">ις</unclear>
+</w>
+<lb/>
+<w>αυτων</w>
+</ab>
+<ab n="B04K25V3">
+<w>και</w>
+<w>ετελεσθη</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>τω</w>
+<w>βεελφεγωρ</w>
+<w>και</w>
+<lb/>
+<w>ωργισθη</w>
+<w>θυμω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B04K25V4">
+<w>και</w>
+<w>ειπεν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>τω</w>
+<lb/>
+<w>μωση</w>
+<w>λαβε</w>
+<w>παντας</w>
+<lb/>
+<w>τους</w>
+<w>αρχηγους</w>
+<w>του</w>
+<lb/>
+<w>λαου</w>
+<w>και</w>
+<w>
+παραδιγμα
+<lb break="no"/>
+τισον
+</w>
+<w>αυτους</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<lb/>
+<w>απεναντι</w>
+<w>του</w>
+<w>ηλιου</w>
+<lb/>
+<w>και</w>
+<w>αποστραφησεται</w>
+<lb/>
+<w>η</w>
+<w>οργη</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+</rdg>
+<rdg type="corr" hand="corrector" rend="strikethrough">
+<seg type="line" subtype="above" n="@P2CL-BnF MS Grec 17 (Ra G)">
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θυ</hi>
+</abbr>
+</w>
+</seg>
+</rdg>
+</app>
+<w>μου</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κυ</hi>
+</abbr>
+</w>
+<w>απο</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B04K25V5">
+<w>και</w>
+<w>ειπεν</w>
+<w>μωσης</w>
+<lb/>
+<w>ταις</w>
+<w>φυλαις</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>
+απο
+<lb break="no"/>
+κτειναται
+</w>
+<w>εκαστος</w>
+<lb/>
+<w>τον</w>
+<w>οικειον</w>
+<w>αυτου</w>
+<lb/>
+<w>τον</w>
+<w>τετελεσμενον</w>
+<lb/>
+<w>τω</w>
+<w>βεελφεγωρ</w>
+</ab>
+<ab n="B04K25V6">
+<w>και</w>
+<lb/>
+<w>ιδου</w>
+<w>
+αν
+<unclear reason="faded ink">θρ</unclear>
+ωπος
+</w>
+<w>των</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">υ</supplied>
+ιων
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>ελθων</w>
+<w>
+προσ
+<lb break="no"/>
+ηγαγεν
+</w>
+<w>τον</w>
+<w>αδελφον</w>
+<lb/>
+<w>αυτου</w>
+<w>προς</w>
+<w>την</w>
+<w>
+μα
+<lb break="no"/>
+διανειτιν
+</w>
+<w>εναντιον</w>
+<lb/>
+<w>μωση</w>
+<w>
+<unclear reason="faded ink">κ</unclear>
+αι
+</w>
+<w>εναντιον</w>
+<lb/>
+<w>πασης</w>
+<w>συναγωγης</w>
+<lb/>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>αυτοι</w>
+<w>δε</w>
+<lb/>
+<w>αικλαιον</w>
+<w>παρα</w>
+<w>την</w>
+<cb n="2"/>
+<lb/>
+<w>θυραν</w>
+<w>της</w>
+<w>
+<supplied source="na28" reason="illegible">σκηνης</supplied>
+</w>
+<lb/>
+<w>του</w>
+<w>
+μαρ
+<unclear reason="faded ink">τ</unclear>
+υριο
+<unclear reason="faded ink">υ</unclear>
+</w>
+</ab>
+<ab n="B04K25V7">
+<w>
+κ
+<unclear reason="faded ink">αι</unclear>
+</w>
+<lb/>
+<w>ιδων</w>
+<w>φινεες</w>
+<w>
+<supplied source="na28" reason="lacuna">υι</supplied>
+<unclear reason="faded ink">ος</unclear>
+</w>
+<w>
+<unclear reason="faded ink">ε</unclear>
+<lb break="no"/>
+λεαζαρ
+</w>
+<w>υιου</w>
+<w>
+ααρω
+<supplied source="na28" reason="illegible">ν</supplied>
+</w>
+<lb/>
+<w>του</w>
+<w>ιερεως</w>
+<w>
+εξανε
+<supplied source="na28" reason="illegible">στη</supplied>
+</w>
+<lb/>
+<w>εν</w>
+<w>μεσου</w>
+<w>της</w>
+<w>
+συνα
+<unclear reason="faded ink">γω</unclear>
+<lb break="no"/>
+γης
+</w>
+<w>και</w>
+<w>λαβων</w>
+<w>
+σειρο
+<unclear reason="faded ink">μα</unclear>
+<lb break="no"/>
+στην
+</w>
+<w>εν</w>
+<w>τη</w>
+<w>χειρι</w>
+<w>
+α
+<unclear reason="faded ink">υ</unclear>
+<lb break="no"/>
+του
+</w>
+</ab>
+<ab n="B04K25V8">
+<w>εισηλθεν</w>
+<w>οπισω</w>
+<lb/>
+<w>του</w>
+<w>
+ανθρωπο
+<unclear reason="faded ink">υ</unclear>
+</w>
+<w>
+το
+<unclear reason="faded ink">υ</unclear>
+</w>
+<lb/>
+<w>
+ι
+<unclear reason="faded ink">σ</unclear>
+ραηλειτου
+</w>
+<w>εις</w>
+<w>την</w>
+<lb/>
+<w>καμεινον</w>
+<w>και</w>
+<w>
+α
+<unclear reason="faded ink">πεκεν</unclear>
+<lb break="no"/>
+τησεν
+</w>
+<w>
+αμφοτ
+<unclear reason="faded ink">ε</unclear>
+ρου
+<unclear reason="faded ink">ς</unclear>
+</w>
+<lb/>
+<w>τον</w>
+<w>τε</w>
+<w>
+ανθρωπ
+<supplied source="na28" reason="lacuna">ον</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">τον</supplied>
+</w>
+<lb/>
+<w>ισραηλειτην</w>
+<w>
+κα
+<unclear reason="faded ink">ι</unclear>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">την</supplied>
+</w>
+<lb/>
+<w>γυναικα</w>
+<w>δια</w>
+<w>της</w>
+<w>
+<supplied source="na28" reason="lacuna">μητ</supplied>
+<unclear reason="faded ink">ρας</unclear>
+</w>
+<lb/>
+<w>αυτης</w>
+<w>και</w>
+<w>
+επαυσα
+<supplied source="na28" reason="lacuna">το</supplied>
+</w>
+<lb/>
+<w>
+<unclear reason="faded ink">η</unclear>
+</w>
+<w>πληγη</w>
+<w>απο</w>
+<w>των</w>
+<w>
+υ
+<unclear reason="faded ink">ιων</unclear>
+</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B04K25V9">
+<w>και</w>
+<w>εγενοντο</w>
+<w>οι</w>
+<lb/>
+<w>τεθνηκοτες</w>
+<w>εν</w>
+<w>τη</w>
+<lb/>
+<w>πληγη</w>
+<w>
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+<abbr type="num">
+<hi rend="overline">κ</hi>
+</abbr>
+</w>
+<w>
+χειλια
+<unclear reason="faded ink">δε</unclear>
+ς
+</w>
+<lb/>
+</ab>
+<ab n="B04K25V10">
+<w>και</w>
+<w>
+ελ
+<unclear reason="faded ink">α</unclear>
+λησεν
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>προς</w>
+<lb/>
+<w>μωσην</w>
+<w>λεγων</w>
+</ab>
+<ab n="B04K25V11" part="I">
+<w>
+φει
+<lb break="no"/>
+νεες
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">υς</hi>
+</abbr>
+</w>
+<w>ελεαζαρ</w>
+<w>υιου</w>
+<lb/>
+<w>ααρων</w>
+<w>του</w>
+<w>ιερεως</w>
+<lb/>
+<w>κατεπαυσεν</w>
+<w>τον</w>
+<w>
+θυ
+<lb break="no"/>
+μον
+</w>
+<w>μου</w>
+<w>απο</w>
+<w>
+<unclear reason="faded ink">υ</unclear>
+ιων
+</w>
+<lb/>
+<w>ισραηλ</w>
+<w>εν</w>
+<w>τω</w>
+<w>ζηλωσαι</w>
+</ab>
+</div>
+</div>
+<pb n="21v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B04">
+<div type="chapter" n="B04K25">
+<ab n="B04K25V11" part="F">
+<w>αυτον</w>
+<w>τον</w>
+<w>ζηλον</w>
+<w>μου</w>
+<lb/>
+<w>εν</w>
+<w>αυτοις</w>
+<w>και</w>
+<w>ουκ</w>
+<w>
+εξα
+<lb break="no"/>
+ναλωσα
+</w>
+<w>τους</w>
+<w>υιους</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>εν</w>
+<w>τω</w>
+<w>ζηλω</w>
+<w>μου</w>
+<lb/>
+</ab>
+<ab n="B04K25V12">
+<w>ουτως</w>
+<w>ειπον</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>ειδου</w>
+</rdg>
+<rdg type="corr" hand="corrector" rend="strikethrough">
+<w>ιδου</w>
+</rdg>
+</app>
+<lb/>
+<w>εγω</w>
+<w>διδωμι</w>
+<w>αυτω</w>
+<lb/>
+<w>την</w>
+<w>διαθηκην</w>
+<w>
+ειρη
+<lb break="no"/>
+νης
+</w>
+<w>μου</w>
+</ab>
+<ab n="B04K25V13">
+<w>και</w>
+<w>εσται</w>
+<w>
+αυ
+<lb break="no"/>
+τω
+</w>
+<w>και</w>
+<w>τω</w>
+<w>σπερματι</w>
+<lb/>
+<w>αυτου</w>
+<w>μετ</w>
+<w>αυτον</w>
+<w>
+δι
+<lb break="no"/>
+αθηκη
+</w>
+<w>ιερατιας</w>
+<w>
+αιω
+<lb break="no"/>
+νιας
+</w>
+<w>ανθ</w>
+<w>ων</w>
+<w>
+εζηλω
+<lb break="no"/>
+<supplied source="na28" reason="illegible">σε</supplied>
+ν
+</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">θω</hi>
+</abbr>
+</w>
+<w>αυτου</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>εξειλασατο</w>
+<w>περι</w>
+<lb/>
+<w>
+τ
+<supplied source="na28" reason="lacuna">ω</supplied>
+ν
+</w>
+<w>υιων</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B04K25V14">
+<w>το</w>
+<w>δε</w>
+<lb/>
+<w>
+<unclear reason="faded ink">ο</unclear>
+<supplied source="na28" reason="lacuna">ν</supplied>
+ομα
+</w>
+<w>του</w>
+<w>
+ανθρω
+<lb break="no"/>
+<unclear reason="damage to page">πο</unclear>
+υ
+</w>
+<w>του</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+λειτου
+</w>
+<lb/>
+<w>του</w>
+<w>πεπληγοτος</w>
+<w>ος</w>
+<lb/>
+<w>επληγη</w>
+<w>μετα</w>
+<w>της</w>
+<w>
+μα
+<lb break="no"/>
+διανιτιδος
+</w>
+<w>ζαμβρι</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">υς</hi>
+</abbr>
+</w>
+<w>σαλωμ</w>
+<w>αρχων</w>
+<w>
+οι
+<lb break="no"/>
+κου
+</w>
+<w>πατριας</w>
+<w>συμεων</w>
+<lb/>
+</ab>
+<ab n="B04K25V15">
+<w>και</w>
+<w>ονομα</w>
+<w>τη</w>
+<w>
+γυναι
+<lb break="no"/>
+κι
+</w>
+<w>τη</w>
+<w>πεπληγυιη</w>
+<w>τη</w>
+<lb/>
+<w>μαδιανιτιδει</w>
+<w>χασβει</w>
+<lb/>
+<w>θυγατηρ</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>σου</w>
+</rdg>
+<rdg type="corr" hand="corrector">
+<seg type="line" subtype="above" n="@P2CL-BnF MS Grec 17 (Ra G)">
+<w>σουρ</w>
+</seg>
+</rdg>
+</app>
+<w>
+αρχον
+<lb break="no"/>
+τος
+</w>
+<w>εθνους</w>
+<w>
+σομμο
+<unclear reason="faded ink">θ</unclear>
+</w>
+<lb/>
+<w>οικου</w>
+<w>πατριας</w>
+<w>των</w>
+<cb n="2"/>
+<lb/>
+<w>μαδιαν</w>
+<w>εστιν</w>
+</ab>
+<ab n="B04K25V16">
+<w>και</w>
+<w>
+ελα
+<lb break="no"/>
+λησεν
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>προς</w>
+<w>μωσην</w>
+<lb/>
+<w>λεγων</w>
+<w>λαλησον</w>
+<w>τοις</w>
+<lb/>
+<w>υιοις</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+<w>λεγων</w>
+</ab>
+<ab n="B04K25V17">
+<w>
+εχ
+<lb break="no"/>
+θρενετε
+</w>
+<w>τοις</w>
+<w>
+μαδιη
+<lb break="no"/>
+ναιοις
+</w>
+<w>και</w>
+<w>παταξατε</w>
+<lb/>
+<w>αυτους</w>
+</ab>
+<ab n="B04K25V18">
+<w>οτι</w>
+<w>
+εχθραινου
+<lb break="no"/>
+σιν
+</w>
+<w>αυτοι</w>
+<w>υμιν</w>
+<w>εν</w>
+<w>
+δο
+<lb break="no"/>
+λειοτητι
+</w>
+<w>αυτων</w>
+<lb/>
+<w>οσα</w>
+<w>δολειουσιν</w>
+<w>υμας</w>
+<lb/>
+<w>δια</w>
+<w>φογωρ</w>
+<w>και</w>
+<w>δια</w>
+<app>
+<rdg type="orig" hand="firsthand">
+<w>
+χασ
+<lb break="no"/>
+σβει
+</w>
+</rdg>
+<rdg type="corr" hand="corrector" rend="strikethrough">
+<w>
+χασ
+<lb break="no"/>
+βει
+</w>
+</rdg>
+</app>
+<w>θυγατερα</w>
+<w>
+αρχον
+<lb break="no"/>
+τος
+</w>
+<w>μαδιανει</w>
+<w>αδελφην</w>
+<lb/>
+<w>αυτων</w>
+<w>την</w>
+<w>
+πεπλη
+<lb break="no"/>
+γυιαν
+</w>
+<w>εν</w>
+<w>τη</w>
+<w>ημερα</w>
+<w>της</w>
+<lb/>
+<w>πληγης</w>
+<w>δια</w>
+<w>φογωρ</w>
+<lb/>
+</ab>
+</div>
+<div type="chapter" n="B04K26">
+<ab n="B04K26V1">
+<w>και</w>
+<w>εγενετο</w>
+<w>μετα</w>
+<w>την</w>
+<lb/>
+<w>πληγην</w>
+<w>και</w>
+<w>ελαλησεν</w>
+<lb/>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κς</hi>
+</abbr>
+</w>
+<w>προς</w>
+<w>μωσην</w>
+<w>και</w>
+<lb/>
+<w>προς</w>
+<w>ελεαζαρ</w>
+<w>υιον</w>
+<w>
+α
+<lb break="no"/>
+αρων
+</w>
+<w>τον</w>
+<w>ιερεαν</w>
+<w>
+<unclear reason="damage to page">λ</unclear>
+<supplied source="na28" reason="lacuna">ε</supplied>
+<lb break="no"/>
+γων
+</w>
+</ab>
+<ab n="B04K26V2">
+<w>λαβε</w>
+<w>την</w>
+<w>αρχην</w>
+<lb/>
+<w>πασης</w>
+<w>συναγωγης</w>
+<w>
+α
+<lb break="no"/>
+πο
+</w>
+<w>
+<abbr type="num">
+<hi rend="overline">κ</hi>
+</abbr>
+</w>
+<w>ετους</w>
+<w>και</w>
+<w>επανω</w>
+<lb/>
+<w>κατ</w>
+<w>οικους</w>
+<w>πατριων</w>
+<lb/>
+<w>αυτων</w>
+<w>πας</w>
+<w>ο</w>
+<w>
+εκπορ
+<unclear reason="faded ink">ε</unclear>
+υ
+<lb break="no"/>
+ομενος
+</w>
+<w>
+παραταξασ
+<unclear reason="faded ink">θα</unclear>
+ι
+</w>
+<lb/>
+<w>εν</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">ιηλ</hi>
+</abbr>
+</w>
+</ab>
+<ab n="B04K26V3" part="I">
+<w>και</w>
+<w>ελαλησεν</w>
+</ab>
+</div>
+</div>
+<pb n="22r" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B04">
+<div type="chapter" n="B04K29">
+<ab n="B04K29V12" part="F">
+<w>εορτασετε</w>
+<w>αυτην</w>
+<w>
+ε
+<lb break="no"/>
+ορτην
+</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ζ</hi>
+</abbr>
+</w>
+<w>ημερας</w>
+<lb/>
+</ab>
+<ab n="B04K29V13">
+<w>και</w>
+<w>προσαξεται</w>
+<w>
+ολο
+<lb break="no"/>
+καυτωματα
+</w>
+<w>
+καρπω
+<lb break="no"/>
+μα
+</w>
+<w>εις</w>
+<w>οσμην</w>
+<w>
+ευωδι
+<lb break="no"/>
+ας
+</w>
+<w>τω</w>
+<w>
+<abbr type="nomSac">
+<hi rend="overline">κω</hi>
+</abbr>
+</w>
+<w>τη</w>
+<w>ημερα</w>
+<lb/>
+<w>τη</w>
+<w>πρωτη</w>
+<w>μοσχους</w>
+<w>εκ</w>
+<lb/>
+<w>βοων</w>
+<w>
+<abbr type="num">
+<hi rend="overline">γ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</w>
+<w>κρειους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">β</hi>
+</abbr>
+</w>
+<w>
+α
+<lb break="no"/>
+μνους
+</w>
+<w>ενιαυσιους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</w>
+<w>και</w>
+<lb/>
+<w>
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</w>
+<w>αμωμοι</w>
+<w>εσονται</w>
+</ab>
+<ab n="B04K29V14">
+<w>αι</w>
+<w>
+θυ
+<lb break="no"/>
+σιαι
+</w>
+<w>αυτων</w>
+<w>σιμιδαλις</w>
+<lb/>
+<w>αναπεποιημενη</w>
+<w>εν</w>
+<w>
+ε
+<lb break="no"/>
+λαιω
+</w>
+<w>
+<abbr type="num">
+<hi rend="overline">γ</hi>
+</abbr>
+</w>
+<w>δεκατα</w>
+<w>τω</w>
+<w>
+μοσ
+<lb break="no"/>
+χω
+</w>
+<w>τω</w>
+<w>ενι</w>
+<w>τοις</w>
+<w>τρισιν</w>
+<lb/>
+<w>και</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</w>
+<w>μοσχοις</w>
+<w>και</w>
+<w>
+<abbr type="num">
+<hi rend="overline">β</hi>
+</abbr>
+</w>
+<w>
+δεκα
+<lb break="no"/>
+τα
+</w>
+<w>τω</w>
+<w>κρειω</w>
+<w>τω</w>
+<w>ενι</w>
+<w>
+ε
+<lb break="no"/>
+πι
+</w>
+<w>τους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">β</hi>
+</abbr>
+</w>
+<w>κρειους</w>
+</ab>
+<ab n="B04K29V15">
+<w>
+δεκα
+<lb break="no"/>
+τον
+</w>
+<w>δεκατον</w>
+<w>τω</w>
+<w>αμνω</w>
+<lb/>
+<w>τω</w>
+<w>ενι</w>
+<w>επι</w>
+<w>τους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</w>
+<lb/>
+<w>αμνους</w>
+</ab>
+<ab n="B04K29V16">
+<w>και</w>
+<w>χειμαρρον</w>
+<lb/>
+<w>εξ</w>
+<w>αιγων</w>
+<w>ενα</w>
+<w>περι</w>
+<w>
+αμαρ
+<lb break="no"/>
+τιας
+</w>
+<w>πλην</w>
+<w>της</w>
+<w>
+ολοκαυ
+<lb break="no"/>
+τωσεως
+</w>
+<w>της</w>
+<w>δια</w>
+<w>
+παν
+<lb break="no"/>
+τος
+</w>
+<w>αι</w>
+<w>θυσιαι</w>
+<w>αυτων</w>
+<lb/>
+<w>και</w>
+<w>αι</w>
+<w>σπονδαι</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B04K29V17">
+<w>και</w>
+<w>τη</w>
+<w>ημερα</w>
+<w>τη</w>
+<w>
+δευτε
+<lb break="no"/>
+ρα
+</w>
+<w>μοσχους</w>
+<w>εκβοων</w>
+<lb/>
+<w>
+<abbr type="num">
+<hi rend="overline">ιβ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>κρειους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">β</hi>
+</abbr>
+</w>
+<w>αμνους</w>
+<cb n="2"/>
+<lb/>
+<w>ενιαυσιους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</w>
+<lb/>
+<w>αμωμους</w>
+</ab>
+<ab n="B04K29V18">
+<w>η</w>
+<w>θυσια</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+<w>και</w>
+<w>η</w>
+<w>σπονδη</w>
+<w>
+αυ
+<lb break="no"/>
+των
+</w>
+<w>τοι</w>
+<w>μοσχοις</w>
+<w>και</w>
+<lb/>
+<w>τοις</w>
+<w>κρειοις</w>
+<w>και</w>
+<w>τοις</w>
+<lb/>
+<w>αμνοις</w>
+<w>κατ</w>
+<w>αριθμον</w>
+<lb/>
+<w>αυτων</w>
+<w>κατα</w>
+<w>την</w>
+<w>
+συγ
+<lb break="no"/>
+κρισιν
+</w>
+<w>αυτων</w>
+</ab>
+<ab n="B04K29V19">
+<w>και</w>
+<w>
+χει
+<lb break="no"/>
+μαρρον
+</w>
+<w>εξ</w>
+<w>αιγων</w>
+<w>ενα</w>
+<lb/>
+<w>περι</w>
+<w>αμαρτιας</w>
+<w>πλην</w>
+<lb/>
+<w>της</w>
+<w>ολοκαυτωσεως</w>
+<lb/>
+<w>της</w>
+<w>δια</w>
+<w>παντος</w>
+<w>αι</w>
+<w>
+θυ
+<lb break="no"/>
+σιαι
+</w>
+<w>αυτων</w>
+<w>
+κα
+<unclear reason="damage to page">ι</unclear>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αι</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">σ</supplied>
+πον
+<lb break="no"/>
+δαι
+</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B04K29V20">
+<w>τη</w>
+<w>ημερα</w>
+<w>τη</w>
+<w>
+<abbr type="num">
+<hi rend="overline">γ</hi>
+</abbr>
+</w>
+<w>
+μ
+<unclear reason="damage to page">ο</unclear>
+<supplied source="na28" reason="lacuna">σχου</supplied>
+<unclear reason="faded ink">ς</unclear>
+</w>
+<lb/>
+<w>
+<abbr type="num">
+<hi rend="overline">ια</hi>
+</abbr>
+</w>
+<w>κρειους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">β</hi>
+</abbr>
+</w>
+<w>
+α
+<unclear reason="damage to page">μ</unclear>
+<supplied source="na28" reason="lacuna">νους</supplied>
+</w>
+<w>
+ε
+<lb break="no"/>
+νιαυσιους
+</w>
+<w>
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</w>
+<w>
+<unclear reason="faded ink">κ</unclear>
+<supplied source="na28" reason="lacuna">αι</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αμω</supplied>
+<lb break="no"/>
+μους
+</w>
+</ab>
+<ab n="B04K29V21">
+<w>η</w>
+<w>θυσια</w>
+<w>
+αυ
+<supplied source="na28" reason="lacuna">των</supplied>
+</w>
+<lb/>
+<w>και</w>
+<w>η</w>
+<w>σπονδη</w>
+<w>
+αυ
+<unclear reason="faded ink">τ</unclear>
+<supplied source="na28" reason="lacuna">ων</supplied>
+</w>
+<lb/>
+<w>τοις</w>
+<w>μοσχοις</w>
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">τοις</supplied>
+</w>
+<lb/>
+<w>κρειοις</w>
+<w>και</w>
+<w>
+το
+<unclear reason="damage to page">ι</unclear>
+<supplied source="na28" reason="lacuna">ς</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αμνοις</supplied>
+</w>
+<lb/>
+<w>κατ</w>
+<w>
+αρι
+<unclear reason="faded ink">θ</unclear>
+μον
+</w>
+<w>
+<unclear reason="faded ink">α</unclear>
+<supplied source="na28" reason="lacuna">υτ</supplied>
+ων
+</w>
+<lb/>
+<w>κατα</w>
+<w>την</w>
+<w>
+συγκ
+<unclear reason="faded ink">ρ</unclear>
+ισι
+<unclear reason="faded ink">μ</unclear>
+</w>
+<lb/>
+<w>αυτων</w>
+</ab>
+<ab n="B04K29V22" part="I">
+<w>και</w>
+<w>χειμαρρον</w>
+<lb/>
+<w>εξ</w>
+<w>αιγων</w>
+<w>ενα</w>
+<w>περι</w>
+<w>
+αμαρ
+<lb break="no"/>
+τιας
+</w>
+<w>πλην</w>
+<w>της</w>
+<w>
+ολοκαυ
+<lb break="no"/>
+τωσεως
+</w>
+<w>της</w>
+<w>δια</w>
+<w>
+παν
+<lb break="no"/>
+τος
+</w>
+<w>αι</w>
+<w>θυσιαι</w>
+<w>αυτων</w>
+</ab>
+</div>
+</div>
+<pb n="22v" type="folio"/>
+<cb n="1"/>
+<lb/>
+<div type="book" n="B04">
+<div type="chapter" n="B04K29">
+<ab n="B04K29V22" part="F">
+<w>και</w>
+<w>αι</w>
+<w>σπονδαι</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B04K29V23">
+<w>τη</w>
+<w>ημερα</w>
+<w>τη</w>
+<w>
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</w>
+<w>μοσχους</w>
+<lb/>
+<w>
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</w>
+<w>κρειους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">β</hi>
+</abbr>
+</w>
+<w>αμνους</w>
+<w>
+<unclear reason="faded ink">ε</unclear>
+<lb break="no"/>
+<unclear reason="faded ink">ν</unclear>
+ιαυσιους
+</w>
+<w>
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</w>
+<w>
+αμω
+<lb break="no"/>
+μους
+</w>
+</ab>
+<ab n="B04K29V24">
+<w>αι</w>
+<w>θυσιαι</w>
+<w>αυτων</w>
+<lb/>
+<w>και</w>
+<w>αι</w>
+<w>σπονδαι</w>
+<w>αυτων</w>
+<lb/>
+<w>τοις</w>
+<w>μοσχοις</w>
+<w>και</w>
+<w>τοις</w>
+<lb/>
+<w>κρειοις</w>
+<w>και</w>
+<w>τοις</w>
+<w>αμνοις</w>
+<lb/>
+<w>κατ</w>
+<w>
+<unclear reason="faded ink">αρ</unclear>
+ιθμον
+</w>
+<w>αυτων</w>
+<lb/>
+<w>κατα</w>
+<w>την</w>
+<w>συνκρισιν</w>
+<lb/>
+<w>
+αυτ
+<unclear reason="faded ink">ω</unclear>
+ν
+</w>
+</ab>
+<ab n="B04K29V25">
+<w>και</w>
+<w>χειμαρρον</w>
+<lb/>
+<w>εξ</w>
+<w>
+<supplied source="na28" reason="lacuna">αιγ</supplied>
+ων
+</w>
+<w>ενα</w>
+<w>περι</w>
+<w>
+α
+<lb break="no"/>
+<unclear reason="damage to page">μ</unclear>
+<supplied source="na28" reason="lacuna">αρτ</supplied>
+<unclear reason="faded ink">ι</unclear>
+ας
+</w>
+<w>πλην</w>
+<w>της</w>
+<w>
+ο
+<lb break="no"/>
+λ
+<supplied source="na28" reason="lacuna">οκα</supplied>
+υτωσεως
+</w>
+<w>της</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">δια</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">πα</supplied>
+<unclear reason="faded ink">ν</unclear>
+τος
+</w>
+<w>αι</w>
+<w>θυσιαι</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">αυτω</supplied>
+ν
+</w>
+<w>και</w>
+<w>αι</w>
+<w>
+σπον
+<lb break="no"/>
+<supplied source="na28" reason="lacuna">δαι</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αυ</supplied>
+<unclear reason="damage to page">τ</unclear>
+ων
+</w>
+<lb/>
+</ab>
+<ab n="B04K29V26">
+<w>
+<supplied source="na28" reason="lacuna">τη</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">η</supplied>
+<unclear reason="damage to page">μ</unclear>
+ερα
+</w>
+<w>τη</w>
+<w>πεμπτη</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">μο</supplied>
+σχους
+</w>
+<w>
+<abbr type="num">
+<hi rend="overline">θ</hi>
+</abbr>
+</w>
+<w>
+<unclear reason="faded ink">κ</unclear>
+ρειους
+</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">
+<abbr type="num">
+<hi rend="overline">β</hi>
+</abbr>
+</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">αμ</supplied>
+νους
+</w>
+<w>ενιαυσιους</w>
+<lb/>
+<w>
+<supplied source="na28" reason="lacuna">
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">και</supplied>
+</w>
+<w>
+<supplied source="na28" reason="lacuna">
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</supplied>
+</w>
+<w>αμωμους</w>
+</ab>
+<ab n="B04K29V27">
+<w>αι</w>
+<w>
+θυ
+<lb break="no"/>
+<unclear reason="faded ink">σ</unclear>
+<supplied source="na28" reason="lacuna">ιαι</supplied>
+</w>
+<w>
+<supplied source="na28" reason="illegible">α</supplied>
+υτων
+</w>
+<w>και</w>
+<w>αι</w>
+<w>
+σπον
+<lb break="no"/>
+δ
+<unclear reason="faded ink">αι</unclear>
+</w>
+<w>
+<unclear reason="faded ink">α</unclear>
+υτων
+</w>
+<w>τοις</w>
+<w>
+μο
+<lb break="no"/>
+σχο
+<unclear reason="faded ink">ις</unclear>
+</w>
+<w>και</w>
+<w>τοις</w>
+<w>κρειοις</w>
+<lb/>
+<w>και</w>
+<w>τοις</w>
+<w>
+αμ
+<unclear reason="faded ink">ν</unclear>
+οις
+</w>
+<w>κατ</w>
+<w>
+α
+<lb break="no"/>
+ριθμον
+</w>
+<w>αυτων</w>
+<w>κατα</w>
+<lb/>
+<w>την</w>
+<w>συγκρισιν</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B04K29V28">
+<w>και</w>
+<w>χειμαρον</w>
+<w>εξ</w>
+<w>αιγων</w>
+<cb n="2"/>
+<lb/>
+<w>περι</w>
+<w>
+<unclear reason="faded ink">α</unclear>
+μαρτιας
+</w>
+<w>ενα</w>
+<w>
+π
+<unclear reason="faded ink">λ</unclear>
+<supplied source="na28" reason="illegible">ην</supplied>
+</w>
+<lb/>
+<w>της</w>
+<w>
+ολοκ
+<unclear reason="faded ink">α</unclear>
+υτωσεω
+<supplied source="na28" reason="illegible">ς</supplied>
+</w>
+<lb/>
+<w>της</w>
+<w>δια</w>
+<w>παντος</w>
+<w>
+<unclear reason="faded ink">αι</unclear>
+</w>
+<w>
+<supplied source="na28" reason="illegible">θυ</supplied>
+<lb break="no"/>
+σια
+<unclear reason="faded ink">ι</unclear>
+</w>
+<w>
+<unclear reason="faded ink">α</unclear>
+υτων
+</w>
+<w>και</w>
+<w>αι</w>
+<w>
+<unclear reason="faded ink">σπον</unclear>
+<lb break="no"/>
+δαι
+</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B04K29V29">
+<w>τη</w>
+<w>
+η
+<unclear reason="faded ink">μ</unclear>
+ερα
+</w>
+<w>τη</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ς</hi>
+</abbr>
+</w>
+<w>μοσχους</w>
+<lb/>
+<w>
+<abbr type="num">
+<hi rend="overline">η</hi>
+</abbr>
+</w>
+<w>
+κρειου
+<unclear reason="faded ink">ς</unclear>
+</w>
+<w>
+<abbr type="num">
+<hi rend="overline">β</hi>
+</abbr>
+</w>
+<w>αμνους</w>
+<lb/>
+<w>ενιαυσιους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</w>
+<w>
+αμω
+<lb break="no"/>
+μους
+</w>
+</ab>
+<ab n="B04K29V30">
+<w>αι</w>
+<w>θυσιαι</w>
+<w>αυτων</w>
+<lb/>
+<w>και</w>
+<w>αι</w>
+<w>σπονδαι</w>
+<w>αυτων</w>
+<lb/>
+<w>τοις</w>
+<w>μοσχοις</w>
+<w>και</w>
+<w>τοις</w>
+<lb/>
+<w>κρειοις</w>
+<w>και</w>
+<w>τοις</w>
+<w>αμνοις</w>
+<lb/>
+<w>κατ</w>
+<w>αριθμον</w>
+<w>αυτων</w>
+<lb/>
+<w>κατα</w>
+<w>την</w>
+<w>συγκρισιν</w>
+<lb/>
+<w>αυτων</w>
+</ab>
+<ab n="B04K29V31">
+<w>και</w>
+<w>χειμαρρον</w>
+<lb/>
+<w>εξ</w>
+<w>αιγων</w>
+<w>περι</w>
+<w>
+αμαρτι
+<lb break="no"/>
+ας
+</w>
+<w>ενα</w>
+<w>πλην</w>
+<w>της</w>
+<w>
+ολο
+<lb break="no"/>
+καυτωσεως
+</w>
+<w>της</w>
+<w>δια</w>
+<lb/>
+<w>παντος</w>
+<w>αι</w>
+<w>θυσιαι</w>
+<w>αυτων</w>
+<lb/>
+</ab>
+<ab n="B04K29V32">
+<w>τη</w>
+<w>ημερα</w>
+<w>τη</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ζ</hi>
+</abbr>
+</w>
+<w>
+μοσχου
+<unclear reason="faded ink">ς</unclear>
+</w>
+<lb/>
+<w>
+<abbr type="num">
+<hi rend="overline">ζ</hi>
+</abbr>
+</w>
+<w>κρειους</w>
+<w>
+<abbr type="num">
+<hi rend="overline">β</hi>
+</abbr>
+</w>
+<w>αμνους</w>
+<w>
+ενι
+<lb break="no"/>
+αυσειους
+</w>
+<w>
+<abbr type="num">
+<hi rend="overline">δ</hi>
+</abbr>
+</w>
+<w>και</w>
+<w>
+<abbr type="num">
+<hi rend="overline">ι</hi>
+</abbr>
+</w>
+<w>
+αμω
+<lb break="no"/>
+μους
+</w>
+</ab>
+<ab n="B04K29V33" part="I">
+<w>αι</w>
+<w>θυσιαι</w>
+<w>αυτων</w>
+<lb/>
+<w>και</w>
+<w>αι</w>
+<w>σπονδαι</w>
+<w>αυτων</w>
+<lb/>
+<w>τοις</w>
+<w>μοσχοις</w>
+<w>
+κα
+<unclear reason="faded ink">ι</unclear>
+</w>
+<w>τοις</w>
+<lb/>
+<w>κρειοις</w>
+<w>και</w>
+<w>τοις</w>
+<w>
+αμν
+<supplied source="na28" reason="illegible">οις</supplied>
+</w>
+<lb/>
+<w>κατ</w>
+<w>αριθμον</w>
+<w>αυτων</w>
+<lb/>
+<w>και</w>
+<w>την</w>
+<w>συγκρισιν</w>
+<w part="I">
+αυ
+<unclear reason="faded ink">τ</unclear>
+<lb break="no"/>
+</w>
+</ab>
+</div>
+</div>
+</body>
+</text>
+</TEI>
